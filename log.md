@@ -18,3 +18,12 @@
 
 **Link(s) to work:**
 1. [BNR-Swift sections 2-6 (loops)](https://github.com/BrianLeip/BNR-Swift3/commit/079f1ec08a5be479389db84fa465689fb4b0ddb8)
+
+## Day 3: February 20, 2017 - Monday
+
+**Today's Progress:**  Changed jump sound, ground now kills player, rocks and brains rotate on vertical axis, started working on game over screen.
+
+**Thoughts:**  This game is coming together and almost done.  Just need to finalize the game over screen, populate the map with more items / obstacles, and then test on mobile to make sure it works
+
+**Link(s) to work:**
+1. [HauntedZombieRush](https://github.com/BrianLeip/HauntedZombieRush/commit/3c05100591eb559303581d1d643d933c1f39fa26)
