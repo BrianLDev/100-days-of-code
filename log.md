@@ -27,3 +27,12 @@
 
 **Link(s) to work:**
 1. [HauntedZombieRush](https://github.com/BrianLeip/HauntedZombieRush/commit/3c05100591eb559303581d1d643d933c1f39fa26)
+
+## Day 4: February 21, 2017 - Tuesday
+
+**Today's Progress:**  Completed 4 sections of the Excel VBA Programmer course 
+
+**Thoughts:**  Good course, I want to spend 1 hour on this every day or 2 and will be done in about 2 weeks
+
+**Link(s) to work:**
+1. [Excel VBA Course S1-S4](https://github.com/BrianLeip/ExcelVBACourse/commit/66b2d0f4a264fb7faa2bfa16988362bfc9acce30)
