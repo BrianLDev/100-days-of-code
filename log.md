@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-## Day 5: February 21, 2017 - Wednesday
+## Day 6: February 23, 2017 - Thursday
+
+**Today's Progress:**  Created video listing and daily schedule to complete course before exam date.  Installed separate version of unity to be sure of compatibility with course.  Reviewed Section 1: Editor Interface
+
+**Thoughts:**  Getting into gear for the upcoming Unity cert exam
+
+**Link(s) to work:**
+1. [Unity Certification Prep](https://github.com/BrianLeip/UnityCertificationPrep/commit/27dfcd1fe253499c6a1bb27d050b9a0c42e947f9)
+
+## Day 5: February 22, 2017 - Wednesday
 
 **Today's Progress:**  Completed another section of the Excel VBA Programmer course and started prepping for Unity Certification exam - booked flight to SF and exam registration for 3/3/17!
 
