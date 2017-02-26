@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 7, 8: February 25, 2017 - Saturday
+
+**Today's Progress:**  Completed sections 3, 4, 5, 6 of Unity Certification Prep
+
+**Thoughts:**  3.5 hours worth done.  On pace to finish by Thu 3/2 with aobut 3.5 hours each day.  Exam on 3/3
+
+**Link(s) to work:**
+1. [Unity Certification Prep](https://github.com/BrianLeip/UnityCertificationPrep/commit/6d7a0a578fec88cc2f124fc1199f60378b8a70c7)
+
 ## Day 6: February 23, 2017 - Thursday
 
 **Today's Progress:**  Created video listing and daily schedule to complete course before exam date.  Installed separate version of unity to be sure of compatibility with course.  Reviewed Section 1: Editor Interface
