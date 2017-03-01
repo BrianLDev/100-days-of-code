@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 9, 10, 11: February 28, 2017 - Tuesday
+
+**Today's Progress:**  Completed sections 7 and 8 of Unity Certification Prep
+
+**Thoughts:**  Another 3.7 hours done.  Missed updating a couple but still 1 hr per day and staying on it
+
+**Link(s) to work:**
+1. [Unity Certification Prep](https://github.com/BrianLeip/UnityCertificationPrep/commit/57e94ef88caf2ea3664ad261dacccb439979aed2)
+
 ## Day 7, 8: February 25, 2017 - Saturday
 
 **Today's Progress:**  Completed sections 3, 4, 5, 6 of Unity Certification Prep
