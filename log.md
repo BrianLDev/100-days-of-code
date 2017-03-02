@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 12: March 1, 2017 - Wednesday
+
+**Today's Progress:**  Completed section 9 of Unity Certification Prep
+
+**Thoughts:**  Moving forward.  Tomorrow's going to be a big day of exam cram
+
+**Link(s) to work:**
+1. [Unity Certification Prep](https://github.com/BrianLeip/UnityCertificationPrep/commit/f6cc3d6d0f27800d2d6535a9895130b980071f39)
+
 ## Day 9, 10, 11: February 28, 2017 - Tuesday
 
 **Today's Progress:**  Completed sections 7 and 8 of Unity Certification Prep
