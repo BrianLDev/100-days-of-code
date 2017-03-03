@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 13: March 2, 2017 - Thursday
+
+**Today's Progress:**  Completed sections 10, 11, 12, 13 of Unity Certification Prep
+
+**Thoughts:**  Got a lot done but still more to do before exam day tomorrow.  Caffeine you are the nectar of the gods.
+
+**Link(s) to work:**
+1. [Unity Certification Prep](https://github.com/BrianLeip/UnityCertificationPrep)
+
 ## Day 12: March 1, 2017 - Wednesday
 
 **Today's Progress:**  Completed section 9 of Unity Certification Prep
