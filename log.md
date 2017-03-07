@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+## Day 16: March 6, 2017 - Monday
+
+**Today's Progress:**  Started in on Devslopes Locked up demo (on bitbucket) - Aim to complete by Thu night
+
+**Thoughts:**  Missed yesterday but back on it for the long haul today.  This sounds like a great project, I'm excited to jump in!
+
+**Link(s) to work:**
+1. Repo is private so I stored it on bitbucket instead of github (public by default)
+
+## Day 15: March 4, 2017 - Saturday
+
+**Today's Progress:**  iOS Animations with Josh at the Apple Store Fashion Island
+
+**Thoughts:**  Josh had some impressive and complex stuff here.  He will post the code later at some point and that will give me a chance to dig into it
+
+**Link(s) to work:**
+1. []()
+
+## Day 14: March 3, 2017 - Friday
+
+**Today's Progress:**  Completed all sections of Unity Certification Prep, passed Unity certification exam in SF!
+
+**Thoughts:**  Done!  Feels good to check this one off the list, and move on to the next challenge
+
+**Link(s) to work:**
+1. [Unity Certification Prep](https://github.com/BrianLeip/UnityCertificationPrep)
+
 ## Day 13: March 2, 2017 - Thursday
 
 **Today's Progress:**  Completed sections 10, 11, 12, 13 of Unity Certification Prep
