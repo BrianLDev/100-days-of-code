@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 17: March 7, 2017 - Tuesday
+
+**Today's Progress:**  Created Prison yard ground, walls, barbed wire, skybox, Navmesh, brick building, garage, and some lighting.
+
+**Thoughts:**  Level is coming along nicely.  Fight scene tomorrow then add polish and details on Thurs
+
+**Link(s) to work:**
+1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo
+
 ## Day 16: March 6, 2017 - Monday
 
 **Today's Progress:**  Started in on Devslopes Locked up demo (on bitbucket) - Aim to complete by Thu night
@@ -7,7 +16,7 @@
 **Thoughts:**  Missed yesterday but back on it for the long haul today.  This sounds like a great project, I'm excited to jump in!
 
 **Link(s) to work:**
-1. Repo is private so I stored it on bitbucket instead of github (public by default)
+1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo
 
 ## Day 15: March 4, 2017 - Saturday
 
@@ -16,7 +25,7 @@
 **Thoughts:**  Josh had some impressive and complex stuff here.  He will post the code later at some point and that will give me a chance to dig into it
 
 **Link(s) to work:**
-1. []()
+1. [pending from Josh...]()
 
 ## Day 14: March 3, 2017 - Friday
 
