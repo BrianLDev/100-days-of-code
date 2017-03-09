@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 18: March 8, 2017 - Wednesday
+
+**Today's Progress:**  Big improvements to prison yard scene.  Added NPCs, boxes, lights, some security cameras, isometric camera that follows player, replaced flat ground with terrain and used multiple textures to make it realistic.
+
+**Thoughts:**  I'll call the level design done at this point.  Tomorrow is the project deadline so I'll be creating an animation controller for for the Fighting Animpro set (didn't come with any), and then coreographing a cool fight scene.
+
+**Link(s) to work:**
+1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo
+2. [Unity - Character Animation](https://github.com/BrianLeip/CharacterAnimationSetup)
+
 ## Day 17: March 7, 2017 - Tuesday
 
 **Today's Progress:**  Created Prison yard ground, walls, barbed wire, skybox, Navmesh, brick building, garage, and some lighting.
