@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+## Day 21: March 12, 2017 - Sunday
+
+**Today's Progress:**  Playing with different game ideas for a personl game project
+
+**Thoughts:**  Using the Bitgem 3D assets that I created to see what is available and what I could do with it.
+
+**Link(s) to work:**
+1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo
+
+## Day 20: March 10, 2017 - Friday
+
+**Today's Progress:**  Finished up the Locked up promo, got it into workable form and sent over to Devslopes.
+
+**Thoughts:**  I turned out pretty good, I like what I put together.  It's not perfect by any stretch and I wish I had more time to add more but I got the job done and Mark at Devslopes liked it.
+
+**Link(s) to work:**
+1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo
+
+## Day 19: March 9, 2017 - Thursday
+
+**Today's Progress:**  Worked on the Animator Controller for Anim Fighter Pro set (none was included) most of the day.  
+
+**Thoughts:**  This was a beast!  Learned a ton about Unity Animation and Animation Controllers, layers, blend trees, etc. 
+
+**Link(s) to work:**
+1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo
+
 ## Day 18: March 8, 2017 - Wednesday
 
 **Today's Progress:**  Big improvements to prison yard scene.  Added NPCs, boxes, lights, some security cameras, isometric camera that follows player, replaced flat ground with terrain and used multiple textures to make it realistic.
