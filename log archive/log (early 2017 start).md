@@ -1,10 +1,11 @@
 # 100 Days Of Code - Log
 
+
 ## Day 22: March 13, 2017 - Monday
 
 **Today's Progress:**  Made improvements to Haunted Zombie Rush game - Added some more obstacles to avoid and brains to collect to flush out the level more.  Also upgraded to Unity 5.5.2f1 
 
-**Thoughts:**  I'm in discussions about a potential game dev freelancing gig for the next 45 days.  Sounds promising so fingers crossed.
+**Thoughts:**  I'm in discussions about a potential game dev freelancing gig for the next 45 days.  Sounds promising!
 
 **Link(s) to work:**
 1. [Haunted Zombie Rush](https://github.com/BrianLeip/HauntedZombieRush/commit/adb30eda489b245dafc53d7c44f767b2f7289bdb)
@@ -43,7 +44,7 @@
 **Thoughts:**  I'll call the level design done at this point.  Tomorrow is the project deadline so I'll be creating an animation controller for for the Fighting Animpro set (didn't come with any), and then coreographing a cool fight scene.
 
 **Link(s) to work:**
-1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo
+1. Locked Up Demo - Private project so I have to store on a private Bitbucket repo    
 2. [Unity - Character Animation](https://github.com/BrianLeip/CharacterAnimationSetup)
 
 ## Day 17: March 7, 2017 - Tuesday
@@ -173,10 +174,4 @@
 **Link(s) to work:**
 1. [BNR-Swift sections 2-3 (if/else) and 2-4 (numbers)](https://github.com/BrianLeip/BNR-Swift3/commit/199675fa1f6217a54caa5225907ab98bb8a3d978)
 2. [BNR-Swift section 2-5 (switch)](https://github.com/BrianLeip/BNR-Swift3/commit/58061858e295005ff2d12c5e8a9be634d0b997ec)
-
-
-
-
-
-
 
