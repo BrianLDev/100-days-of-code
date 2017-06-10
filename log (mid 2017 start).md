@@ -8,4 +8,4 @@
 **Thoughts:**  Rebooting 100 days of code after being pulled into Devslopes Unity project and some accounting contracts.  Feels good to get going again!
 
 **Link(s) to work:**
-1. [Excel VBA progress on section 6]()
+1. [Excel VBA progress on section 6](https://github.com/BrianLeip/ExcelVBACourse/commit/1dc1f11ff868df8e7dfebd21dd7e4d7a611e7129)
