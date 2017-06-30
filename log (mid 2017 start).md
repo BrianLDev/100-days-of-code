@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 3: June 29, 2017 - Thursday
+
+**Today's Progress:**  Making progress on the Machine learning course
+
+**Thoughts:**  This is tough because it's new, but I'm getting the hang of it the more I work on it
+
+**Link(s) to work:**
+1. [Machine Learning (Coursera) - Week 2 - Feature Normalization](https://github.com/BrianLeip/MachineLearning-Coursera/commit/11f72d7f8c2dc91afbb3f488bf1c18924b304103)
 
 ## Day 2: June 26, 2017 - Monday
 
