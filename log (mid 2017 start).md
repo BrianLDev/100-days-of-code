@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 5: Juky 4, 2017 - Tuesday
+
+**Today's Progress:**  Progress on the Excel VBA course
+
+**Thoughts:**  It's the 4th of July but wanted to get some coding in for a bit
+
+**Link(s) to work:**
+1. [Excel VBA progress](https://github.com/BrianLeip/ExcelVBACourse/commit/d7915e588d424ae02eb5e2aa68619c10fc6d12b3)
+
+## Day 4: June 30, 2017 - Friday
+
+**Today's Progress:**  Finished week 2 of the machine learning course: cost function for multiple features, gradient descent for multiple features, using the normal equation
+
+**Thoughts:**  Done and done.  Moving on to week 3
+
+**Link(s) to work:**
+1. [Machine Learning (Coursera) - Week 2 - Gradient Descent multi](https://github.com/BrianLeip/MachineLearning-Coursera/commit/a06b88ef6d3b7876f81f9c4a4f526b5ad4e257de)
+2. [Machine Learning (Coursera) - Week 2 - Normal equation](https://github.com/BrianLeip/MachineLearning-Coursera/commit/e5cbffc8759f8d1b1dc9d589dbb37d773bcad3b5)
+
 ## Day 3: June 29, 2017 - Thursday
 
 **Today's Progress:**  Making progress on the Machine learning course
