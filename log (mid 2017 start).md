@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-## Day 5: Juky 4, 2017 - Tuesday
+## Day 6: July 5, 2017 - Wednesday
+
+**Today's Progress:**  More progress on the Excel VBA course
+
+**Thoughts:**  Keep on movin
+
+**Link(s) to work:**
+1. [Excel VBA progress](https://github.com/BrianLeip/ExcelVBACourse/commit/f9e9791a1bf6a4a69d225af6ce143196cefba942)
+
+## Day 5: July 4, 2017 - Tuesday
 
 **Today's Progress:**  Progress on the Excel VBA course
 
