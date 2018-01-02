@@ -7,7 +7,7 @@
 bitcoind -printtoconsole -reindex
 
 **Link(s) to work:**
-1. N/A
+1. N/A  
 
 
 ## Day 3: December 30, 2017 - Saturday
