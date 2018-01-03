@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 5: January 2, 2018 - Tuesday
+**Today's Progress:**  1 hour - Introductory call with my Springboard Mentor - Nate Kugland, Data Scientist at AirBnB.  Also reviewed the full course material and manually added everythig in to Asana so I can schedule and track my progress along the way.
+
+**Thoughts:**  Nate seems like a good guy and look forward to working with him and leaning on him when I have any questions.  After reviewing the course schedule I can see that it's going to be a lot of work and I'll have to make some sacrifices to keep moving forward.  Going to get started in on it tomorrow.
+
+**Link(s) to work:**
+1. [Screenshot of Data Science Intensive schedule in Asana](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/16c7e2a7bd762835d9565f03fd8924058126ba58) 
+
+
 ## Day 4: January 1, 2018 - Monday
 **Today's Progress:**  1.5 hours - Continued configuring bitcoin core bitcoin.conf file for bitcoind daemon.  Ch 3 of Mastering Bitcoin book
 
