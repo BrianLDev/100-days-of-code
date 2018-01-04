@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 6: January 3, 2018 - Wednesday
+**Today's Progress:**  2 hours - Completed section 2.1 of Data Science Intensive course.  Also spent some time getting familiar with 2 Blockchain Cryptocurrency wallets: Daedalus for Cardano/ADA, and IOTA wallet.
+
+**Thoughts:**  Most of my day was tied up with both my main job and finishing up a contractor project, but I pushed to make sure I got 1 hour of code in too.
+
+**Link(s) to work:**
+1. [Section 2.1](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/tree/master/Ch%202) 
+
+
 ## Day 5: January 2, 2018 - Tuesday
 **Today's Progress:**  1 hour - Introductory call with my Springboard Mentor - Nate Kugland, Data Scientist at AirBnB.  Also reviewed the full course material and manually added everythig in to Asana so I can schedule and track my progress along the way.
 
