@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 7: January 4, 2018 - Thursday
+**Today's Progress:**  1 hr - Read the Capstone project guidelines for Data Science Intensive course.  Brainstormed on some ideas for the project.  
+
+**Thoughts:**  Since the Capstone project is where I'll spend the majority of my time in this course, I want to pick a project that combines my current passions and interests.  Currenly that revolves around Bitcoin/Blockchain, AI and Machine Learning.  I'll publish my ideas tomorrow once they're more fleshed out.
+
+**Link(s) to work:**
+1. [Capstone project guidelines](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/27ae12885e98b4f3503ba660ea41e62bc4ce9935/CH%202/Capstone%20Project%20Guidelines.pdf) 
+
 ## Day 6: January 3, 2018 - Wednesday
 **Today's Progress:**  2 hours - Completed section 2.1 of Data Science Intensive course.  Also spent some time getting familiar with 2 Blockchain Cryptocurrency wallets: Daedalus for Cardano/ADA, and IOTA wallet.
 
