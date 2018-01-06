@@ -1,12 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 8: January 5, 2018 - Friday
+**Today's Progress:**  2 hrs - Research and write up the 3 Capstone project ideas for Data Science Intensive course.  
+
+**Thoughts:**  I love all 3 ideas and would like to be able to do them all at some point in my life when time permits.  The one that probably has the most immediate use to me and could also turn into a service / startup idea for is idea #1 - CryptoCurrency price analysis.  I put out the idea to my mentor, the Springboard community, and will also post on Twitter to get some feedback.
+
+**Link(s) to work:**
+1. [Capstone - 3 project ideas](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/master/Capstone%20Project/Ideas%20for%20Capstone%20Project.md) 
+---
+
 ## Day 7: January 4, 2018 - Thursday
 **Today's Progress:**  1 hr - Read the Capstone project guidelines for Data Science Intensive course.  Brainstormed on some ideas for the project.  
 
-**Thoughts:**  Since the Capstone project is where I'll spend the majority of my time in this course, I want to pick a project that combines my current passions and interests.  Currenly that revolves around Bitcoin/Blockchain, AI and Machine Learning.  I'll publish my ideas tomorrow once they're more fleshed out.
+**Thoughts:**  Since the Capstone project is where I'll spend the majority of my time in this course, I want to pick a project that combines my current passions and interests.  Currenly that revolves around Bitcoin/Blockchain/CryptoCurrencies, and also AI and Machine Learning.  I'll publish my ideas tomorrow once they're more fleshed out.
 
 **Link(s) to work:**
 1. [Capstone project guidelines](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/27ae12885e98b4f3503ba660ea41e62bc4ce9935/CH%202/Capstone%20Project%20Guidelines.pdf) 
+---
 
 ## Day 6: January 3, 2018 - Wednesday
 **Today's Progress:**  2 hours - Completed section 2.1 of Data Science Intensive course.  Also spent some time getting familiar with 2 Blockchain Cryptocurrency wallets: Daedalus for Cardano/ADA, and IOTA wallet.
@@ -15,7 +25,7 @@
 
 **Link(s) to work:**
 1. [Section 2.1](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/tree/master/Ch%202) 
-
+---
 
 ## Day 5: January 2, 2018 - Tuesday
 **Today's Progress:**  1 hour - Introductory call with my Springboard Mentor - Nate Kugland, Data Scientist at AirBnB.  Also reviewed the full course material and manually added everythig in to Asana so I can schedule and track my progress along the way.
@@ -24,7 +34,7 @@
 
 **Link(s) to work:**
 1. [Screenshot of Data Science Intensive schedule in Asana](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/16c7e2a7bd762835d9565f03fd8924058126ba58) 
-
+---
 
 ## Day 4: January 1, 2018 - Monday
 **Today's Progress:**  1.5 hours - Continued configuring bitcoin core bitcoin.conf file for bitcoind daemon.  Ch 3 of Mastering Bitcoin book
@@ -34,7 +44,7 @@ bitcoind -printtoconsole -reindex
 
 **Link(s) to work:**
 1. N/A  
-
+---
 
 ## Day 3: December 30, 2017 - Saturday
 **Today's Progress:**  1.5 hours - Joined up with Devslopes Coffee & Code live coding session - Intro to Solidity Development on the Ethereum Blockchain
@@ -43,7 +53,7 @@ bitcoind -printtoconsole -reindex
 
 **Link(s) to work:**
 1. N/A
-
+---
 
 ## Day 2: December 29, 2017 - Friday
 **Today's Progress:**  Configure, compile and install Bitcoin core Node on Linux Ubuntu:
@@ -55,7 +65,7 @@ bitcoind -printtoconsole -reindex
 
 **Link(s) to work:**
 1. N/A
-
+---
 
 ## Day 1: December 28, 2017 - Thursday
 **Today's Progress:**  Read Data Science Intensive "Getting Started" section on springboard.com.  Set up git repository for DS Intensive course.  Update git and log to restart 100 days of code.
