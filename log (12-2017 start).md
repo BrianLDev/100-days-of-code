@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 9: January 6, 2018 - Saturday
+**Today's Progress:**  1 hr - Intro to Python for Data Science (Data Camp)
+
+**Thoughts:**  Spent most of the day doing a major cleaning and reorg of my home, but made sure to get 1 hour of coding in.  Python boot camp on Data Camp.  I'm a hands on learner so this is right up my alley: watching a video then doing 5-10 examples with actual code.  Good stuff going to do more tomorrow.
+
+**Link(s) to work:**
+1. N/A
+---
+
 ## Day 8: January 5, 2018 - Friday
 **Today's Progress:**  2 hrs - Research and write up the 3 Capstone project ideas for Data Science Intensive course.  
 
