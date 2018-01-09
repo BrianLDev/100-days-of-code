@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 10 & 11: January 8, 2018 - Sunday & Monday
+**Today's Progress:**  Spend the last 2 days making progress on the Python boot camp.  Finished the Intro to Python section, more to go
+
+**Thoughts:**  This is going to be a crazy week with multiple deadlines at work and with clients, and taking care of my puppy that's been sick and still not house trained.  Still going to push myself to get at least 1 hr of Python coding in each day.  Who needs sleep, right?
+
+**Link(s) to work:**
+1. [Intro to Python Cert](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/master/Data%20Camp/Statement%20of%20Accomplishment%20-%20Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
+---
+
 ## Day 9: January 6, 2018 - Saturday
 **Today's Progress:**  1 hr - Intro to Python for Data Science (Data Camp)
 
