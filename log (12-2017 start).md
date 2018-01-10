@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 12: January 9, 2018 - Saturday
+**Today's Progress:**  1.5 hrs - Intermediate Python for Data Science (Data Camp), weekly call with Mentor
+
+**Thoughts:**  Still super busy but made time for my 30 min call with my Data Science mentor and 1 hour on the intermediate python course on Data Camp.  This section is on graphically plotting data with matplotlib and I'm loving it.
+
+**Link(s) to work:**
+1. N/A
+---
+
 ## Day 10 & 11: January 8, 2018 - Sunday & Monday
 **Today's Progress:**  Spend the last 2 days making progress on the Python boot camp.  Finished the Intro to Python section, more to go
 
