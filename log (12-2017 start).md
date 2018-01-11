@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-## Day 12: January 9, 2018 - Saturday
+## Day 13: January 10, 2018 - Wednesday
+**Today's Progress:**  1 hr - Quick one today.  Installed Anaconda Python package on my macbook pro, tested out a few python scripts using Jupyter and matplotlib
+
+**Thoughts:**  Doing the Data Camp exercises is a great way to learn but since everything is in their safe, sanitized environment, it feels disconnected from coding in a "real" Python environment.  To fix that, I installed the Anaconda Python install that includes a bunch of Data Science related packages like Numpy and Matplotlib.  Tested it out, got it working, and ready to roll.
+
+**Link(s) to work:**
+1. [Anaconda Python - Jupyter and Matplotlib test script](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/e5b661c3b92ffa77fb115015690e5eda8b55cbce/Ch%202/Jupyter%20and%20Matplotlib%20test.py)
+---
+
+## Day 12: January 9, 2018 - Tuesday
 **Today's Progress:**  1.5 hrs - Intermediate Python for Data Science (Data Camp), weekly call with Mentor
 
 **Thoughts:**  Still super busy but made time for my 30 min call with my Data Science mentor and 1 hour on the intermediate python course on Data Camp.  This section is on graphically plotting data with matplotlib and I'm loving it.
