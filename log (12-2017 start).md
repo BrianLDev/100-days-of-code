@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 14: January 11, 2018 - Thursday
+**Today's Progress:**  1 hr - Intermediate Python for Data Science (Data Camp)
+
+**Thoughts:**  Busiest day yet but making 1 hour of code happen anyways.  The worst is behind me, will have more time over the weekend
+
+**Link(s) to work:**
+1. [Dictionary test in Jupyter Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/master/Ch%202/Dictionary%2Btest.py)
+---
+
 ## Day 13: January 10, 2018 - Wednesday
 **Today's Progress:**  1 hr - Quick one today.  Installed Anaconda Python package on my macbook pro, tested out a few python scripts using Jupyter and matplotlib
 
