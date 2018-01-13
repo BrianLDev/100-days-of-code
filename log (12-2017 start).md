@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 15: January 12, 2018 - Friday
+**Today's Progress:**  1 hr - Intermediate Python for Data Science (Data Camp) - Pandas and DataFrames, improved Jupyter and Github workflows
+
+**Thoughts:**  Today felt like I finally got a good workflow/routine down for Data Camp, combined with live Python coding in Jupyter, combined with 100DaysOfCode tracking on Github.  Do an example on Data Camp, then create a Python Jupyter Notebook for each example and copy/paste/save it.  That will allow me to come back and reference examples in the future if I need to and also keep Github tracking moving.  I also figured out how to run Jupyter from terminal without having to use the shitty Anaconda Dashboard.  Open terminal, go to the folder that you want to work in, then type Jupyter Notebook and it will start Jupyter in a browser using the current folder you're in.  That's a time saver because the Anaconda Dashboard would never remember previous directories and I'd waste time navigating back every time I open or save a file.  Making progress every day, looking forward to more tomorrow.
+
+**Link(s) to work:**
+1. [Multiple Jupyter notebooks completed](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/e41ccd7ce6ada04f7a78e8b3dce87fd666c95fdc)
+---
+
 ## Day 14: January 11, 2018 - Thursday
 **Today's Progress:**  1 hr - Intermediate Python for Data Science (Data Camp)
 
