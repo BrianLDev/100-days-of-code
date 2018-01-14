@@ -1,16 +1,26 @@
 # 100 Days Of Code - Log
 
-## Day 15: January 12, 2018 - Friday
-**Today's Progress:**  1 hr - Intermediate Python for Data Science (Data Camp) - Pandas and DataFrames, improved Jupyter and Github workflows
+## Day 16: January 13, 2018 - Saturday
+**Today's Progress:**  3.75 hours - Completed all 5 chapters of the Intermediate Python for Data Science course on DataCamp
 
-**Thoughts:**  Today felt like I finally got a good workflow/routine down for Data Camp, combined with live Python coding in Jupyter, combined with 100DaysOfCode tracking on Github.  Do an example on Data Camp, then create a Python Jupyter Notebook for each example and copy/paste/save it.  That will allow me to come back and reference examples in the future if I need to and also keep Github tracking moving.  I also figured out how to run Jupyter from terminal without having to use the shitty Anaconda Dashboard.  Open terminal, go to the folder that you want to work in, then type Jupyter Notebook and it will start Jupyter in a browser using the current folder you're in.  That's a time saver because the Anaconda Dashboard would never remember previous directories and I'd waste time navigating back every time I open or save a file.  Making progress every day, looking forward to more tomorrow.
+**Thoughts:**  I spent a lot more time than normal on this but I wanted to push to get some solid progress on the course.  There's still so much left to do in the course and this is just the tip of the iceberg.  I'm loving python so far, especially the data viz with matplotlib.  I can use a lot of these skills for work in accounting/finance, tracking my own portfolios, running simulations, etc.  Excited to learn more!
+
+**Link(s) to work:**
+1. [Completed 4 of 5 sections of Intermediate Python for Data Science on DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/ac504a09b6485257508a98d389e23e4f458ea7da)
+2. [Completed 5 of 5 sections of Intermediate Python for Data Science on DataCamp, got certificate](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/780201e5ac1945d01d55bdf2149558771fedec1c)
+---
+
+## Day 15: January 12, 2018 - Friday
+**Today's Progress:**  1 hr - Intermediate Python for Data Science (DataCamp) - Pandas and DataFrames, improved Jupyter and Github workflows
+
+**Thoughts:**  Today felt like I finally got a good workflow/routine down for DataCamp, combined with live Python coding in Jupyter, combined with 100DaysOfCode tracking on Github.  Do an example on DataCamp, then create a Python Jupyter Notebook for each example and copy/paste/save it.  That will allow me to come back and reference examples in the future if I need to and also keep Github tracking moving.  I also figured out how to run Jupyter from terminal without having to use the shitty Anaconda Dashboard.  Open terminal, go to the folder that you want to work in, then type Jupyter Notebook and it will start Jupyter in a browser using the current folder you're in.  That's a time saver because the Anaconda Dashboard would never remember previous directories and I'd waste time navigating back every time I open or save a file.  Making progress every day, looking forward to more tomorrow.
 
 **Link(s) to work:**
 1. [Multiple Jupyter notebooks completed](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/e41ccd7ce6ada04f7a78e8b3dce87fd666c95fdc)
 ---
 
 ## Day 14: January 11, 2018 - Thursday
-**Today's Progress:**  1 hr - Intermediate Python for Data Science (Data Camp)
+**Today's Progress:**  1 hr - Intermediate Python for Data Science (DataCamp)
 
 **Thoughts:**  Busiest day yet but making 1 hour of code happen anyways.  The worst is behind me, will have more time over the weekend
 
@@ -21,16 +31,16 @@
 ## Day 13: January 10, 2018 - Wednesday
 **Today's Progress:**  1 hr - Quick one today.  Installed Anaconda Python package on my macbook pro, tested out a few python scripts using Jupyter and matplotlib
 
-**Thoughts:**  Doing the Data Camp exercises is a great way to learn but since everything is in their safe, sanitized environment, it feels disconnected from coding in a "real" Python environment.  To fix that, I installed the Anaconda Python install that includes a bunch of Data Science related packages like Numpy and Matplotlib.  Tested it out, got it working, and ready to roll.
+**Thoughts:**  Doing the DataCamp exercises is a great way to learn but since everything is in their safe, sanitized environment, it feels disconnected from coding in a "real" Python environment.  To fix that, I installed the Anaconda Python install that includes a bunch of Data Science related packages like Numpy and Matplotlib.  Tested it out, got it working, and ready to roll.
 
 **Link(s) to work:**
 1. [Anaconda Python - Jupyter and Matplotlib test script](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/e5b661c3b92ffa77fb115015690e5eda8b55cbce/Ch%202/Jupyter%20and%20Matplotlib%20test.py)
 ---
 
 ## Day 12: January 9, 2018 - Tuesday
-**Today's Progress:**  1.5 hrs - Intermediate Python for Data Science (Data Camp), weekly call with Mentor
+**Today's Progress:**  1.5 hrs - Intermediate Python for Data Science (DataCamp), weekly call with Mentor
 
-**Thoughts:**  Still super busy but made time for my 30 min call with my Data Science mentor and 1 hour on the intermediate python course on Data Camp.  This section is on graphically plotting data with matplotlib and I'm loving it.
+**Thoughts:**  Still super busy but made time for my 30 min call with my Data Science mentor and 1 hour on the intermediate python course on DataCamp.  This section is on graphically plotting data with matplotlib and I'm loving it.
 
 **Link(s) to work:**
 1. N/A
@@ -46,9 +56,9 @@
 ---
 
 ## Day 9: January 6, 2018 - Saturday
-**Today's Progress:**  1 hr - Intro to Python for Data Science (Data Camp)
+**Today's Progress:**  1 hr - Intro to Python for Data Science (DataCamp)
 
-**Thoughts:**  Spent most of the day doing a major cleaning and reorg of my home, but made sure to get 1 hour of coding in.  Python boot camp on Data Camp.  I'm a hands on learner so this is right up my alley: watching a video then doing 5-10 examples with actual code.  Good stuff going to do more tomorrow.
+**Thoughts:**  Spent most of the day doing a major cleaning and reorg of my home, but made sure to get 1 hour of coding in.  Python boot camp on DataCamp.  I'm a hands on learner so this is right up my alley: watching a video then doing 5-10 examples with actual code.  Good stuff going to do more tomorrow.
 
 **Link(s) to work:**
 1. N/A
