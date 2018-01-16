@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 17 & 18: January 14 & 15, 2018 - Sunday & Monday
+**Today's Progress:**  1 hour each - Made progress on Python Data Science Toolbox (Part 1)
+
+**Thoughts:**  Making progress.  Keep moving forward.
+
+**Link(s) to work:**
+1. [Python Functions](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/a0aa7df3d7c7798cdd7895b910a288f15c1f805f)
+2. [Finished Python Data Science Toolbox (Part 1) - Chapter 1 - Functions](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/9a18fa5745db790e6a740dff937fa2a613f5178b)
+---
+
 ## Day 16: January 13, 2018 - Saturday
 **Today's Progress:**  3.75 hours - Completed all 5 chapters of the Intermediate Python for Data Science course on DataCamp
 
