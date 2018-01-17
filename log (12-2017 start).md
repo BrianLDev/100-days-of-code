@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 19: January 16, 2018 - Tuesday
+**Today's Progress:**  1 hour - Completed chapter 2 of 3 of the DataCamp - Python Data Science Toolbox (Part 1)
+
+**Thoughts:**  Had an event scheduled tonight after work but still managed to get 1 hour of code in.  Moving forward.
+
+**Link(s) to work:**
+1. [completed Chapter 2 of 3 in Python Data Science Toolbox (Part 1)](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/bc15bc5ff2b3557f09a7dba6f9441ce795d04246)
+---
+
 ## Day 17 & 18: January 14 & 15, 2018 - Sunday & Monday
 **Today's Progress:**  1 hour each - Made progress on Python Data Science Toolbox (Part 1)
 
