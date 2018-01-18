@@ -1,16 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 20: January 17, 2018 - Wednesday
+**Today's Progress:**  1 hour - Completed chapter 3 of 3 of the DataCamp - Python Data Science Toolbox (Part 1).  Covered lambda functions (inline functions) and error handling
+
+**Thoughts:**  Keep on moving.  A little bit further every day.
+
+**Link(s) to work:**
+1. [Completed Chapter 3 of 3 in Python Data Science Toolbox (Part 1)](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/edda34c77d4e691423b7fbffe308b3e8e9282d6e)
+---
+
 ## Day 19: January 16, 2018 - Tuesday
-**Today's Progress:**  1 hour - Completed chapter 2 of 3 of the DataCamp - Python Data Science Toolbox (Part 1)
+**Today's Progress:**  1 hour - Completed chapter 2 of 3 of the DataCamp - Python Data Science Toolbox (Part 1).  Covered functions with default arguments and flexible arguments *args and **kwargs
 
 **Thoughts:**  Had an event scheduled tonight after work but still managed to get 1 hour of code in.  Moving forward.
 
 **Link(s) to work:**
-1. [completed Chapter 2 of 3 in Python Data Science Toolbox (Part 1)](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/bc15bc5ff2b3557f09a7dba6f9441ce795d04246)
+1. [Completed Chapter 2 of 3 in Python Data Science Toolbox (Part 1)](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/bc15bc5ff2b3557f09a7dba6f9441ce795d04246)
 ---
 
 ## Day 17 & 18: January 14 & 15, 2018 - Sunday & Monday
-**Today's Progress:**  1 hour each - Made progress on Python Data Science Toolbox (Part 1)
+**Today's Progress:**  1 hour each - Made progress on Python Data Science Toolbox (Part 1).  Covered functions with single return values, multiple return values, tuples, and scope with global and nonlocal keywords.
 
 **Thoughts:**  Making progress.  Keep moving forward.
 
