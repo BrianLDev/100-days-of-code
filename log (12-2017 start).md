@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 21 & 22: January 18 & 19, 2018 - Thursday & Friday
+**Today's Progress:**  1 hour each - Completed chapter 1 of 5 of the DataCamp - Data Types for Data Science course.  Covered working with Lists, Tuples, and Set unions/differences.
+
+**Thoughts:**  Worked 12+ hour days both Thu and Fri but made sure to get some coding time in.  Hope to have more time this weekend
+
+**Link(s) to work:**
+1. [Chapter 1 of 5 of the DataCamp - Data Types for Data Science course](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/2530d47ee4a2086002902bbcf24379def0ed94c7)
+---
+
 ## Day 20: January 17, 2018 - Wednesday
 **Today's Progress:**  1 hour - Completed chapter 3 of 3 of the DataCamp - Python Data Science Toolbox (Part 1).  Covered lambda functions (inline functions) and error handling
 
