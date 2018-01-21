@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 23: January 20, 2018 - Saturday
+**Today's Progress:**  1 hour - Progress on chapter 2 of 5 of the DataCamp - Data Types for Data Science.  Working with lists, tuples and dictionaries.  Also tried out DataCamps Daily Practice exercises.  
+
+**Thoughts:**  I really like the DataCamp Daily Practice exercises, they're a great way to solidify and reinforce what's been learned before.  I'll probably start doing half daily practice and half new material because if I just rush forward without practicing what was learned then nothing will stick.
+
+**Link(s) to work:**
+1. [Progress on ch 2 of 5 on DataCamp - Data Types for Data Science)](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/eadf7bc1142638b559d09b4fe839862c224d1c5f)
+---
+
 ## Day 21 & 22: January 18 & 19, 2018 - Thursday & Friday
 **Today's Progress:**  1 hour each - Completed chapter 1 of 5 of the DataCamp - Data Types for Data Science course.  Covered working with Lists, Tuples, and Set unions/differences.
 
