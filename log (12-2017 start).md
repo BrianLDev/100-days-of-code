@@ -1,12 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 24 thru 27: January 21 thru 24, 2018 - Sunday thru Wednesday
+**Today's Progress:**  Finished ch 2 of 5 on DataCamp - Data Types for Data Science.  Did a little each day, the most on Wednesday.  Covered in depth usage of Dictionaries and accessing data, and reading dictionaries from csv files.
+
+**Thoughts:**  This was a rough chapter with poor instructions and overly complex exercises.  I even went through one of them with my mentor (PHD, full time Data Scientist using Python) and he was as frustrated with it as I was.  That being said, it started to dabble in CSV imports and exports which I'm interested in so pushing through.
+
+**Link(s) to work:**
+1. [Finished ch 2 of 5 on DataCamp - Data Types for Data Science](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/8f680c3cf74a94297452898c024b25437995753e)
+---
+
 ## Day 23: January 20, 2018 - Saturday
 **Today's Progress:**  1 hour - Progress on chapter 2 of 5 of the DataCamp - Data Types for Data Science.  Working with lists, tuples and dictionaries.  Also tried out DataCamps Daily Practice exercises.  
 
 **Thoughts:**  I really like the DataCamp Daily Practice exercises, they're a great way to solidify and reinforce what's been learned before.  I'll probably start doing half daily practice and half new material because if I just rush forward without practicing what was learned then nothing will stick.
 
 **Link(s) to work:**
-1. [Progress on ch 2 of 5 on DataCamp - Data Types for Data Science)](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/eadf7bc1142638b559d09b4fe839862c224d1c5f)
+1. [Progress on ch 2 of 5 on DataCamp - Data Types for Data Science](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/eadf7bc1142638b559d09b4fe839862c224d1c5f)
 ---
 
 ## Day 21 & 22: January 18 & 19, 2018 - Thursday & Friday
