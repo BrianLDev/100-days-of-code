@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 28: January 25, 2018 - Thursday
+**Today's Progress:**  1.5 hours - ch 2 of 5 on DataCamp - Data Types for Data Science.  Covered the collections module with Counter, DefaultDict, OrderedDict, etc.
+
+**Thoughts:**  The examples in this section of DataCamp aren't very good but to make it into a positive I need to do more troubleshooting to get the code to work which always leads to learning.  
+
+**Link(s) to work:**
+1. [ch 3 of 5 on DataCamp - Data Types for Data Science](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/98387976da574510e16bc481c8ccc5007c315b78)
+---
+
 ## Day 24 thru 27: January 21 thru 24, 2018 - Sunday thru Wednesday
 **Today's Progress:**  Finished ch 2 of 5 on DataCamp - Data Types for Data Science.  Did a little each day, the most on Wednesday.  Covered in depth usage of Dictionaries and accessing data, and reading dictionaries from csv files.
 
