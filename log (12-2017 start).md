@@ -1,7 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 29: January 26, 2018 - Friday
+**Today's Progress:**  1.5 hours - ch 4 of 5 on DataCamp - Data Types for Data Science.  Covered datetime objects, converting to string/datetimes, comparing now vs UTC time, and working with timezones.
+
+**Thoughts:**  Making progress but still so much to do and not enough time.  I want to block off a good chunk of Sat & Sun to hammer this stuff out.
+
+**Link(s) to work:**
+1. [ch 4 of 5 on DataCamp - Data Types for Data Science](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/9592542c46393533904576c13b342f3e0e5217ab)
+---
+
 ## Day 28: January 25, 2018 - Thursday
-**Today's Progress:**  1.5 hours - ch 2 of 5 on DataCamp - Data Types for Data Science.  Covered the collections module with Counter, DefaultDict, OrderedDict, etc.
+**Today's Progress:**  1.5 hours - ch 3 of 5 on DataCamp - Data Types for Data Science.  Covered the collections module with Counter, DefaultDict, OrderedDict, etc.
 
 **Thoughts:**  The examples in this section of DataCamp aren't very good but to make it into a positive I need to do more troubleshooting to get the code to work which always leads to learning.  
 
