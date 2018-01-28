@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 30: January 27, 2018 - Saturday
+**Today's Progress:**  2+ hours - Ch 5 of 5 on DataCamp - Data Types for Data Science.  In this section we brought all the different pieces together to gather and parse data from a Chicago crimes data list.  All starting to come together.
+
+**Thoughts:**  Glad to be done with that course and excited to get started on the Data Viz course!  That's my jam
+
+**Link(s) to work:**
+1. [ch 5 of 5 on DataCamp - Data Types for Data Science](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/8a919ff368c4e0d7b28b69010a0d87f66ad5d9cd)
+2. [Certificate - Data Types for Data Science - DataCamp](http://bit.ly/2rM2vgr)
+---
+
 ## Day 29: January 26, 2018 - Friday
 **Today's Progress:**  1.5 hours - ch 4 of 5 on DataCamp - Data Types for Data Science.  Covered datetime objects, converting to string/datetimes, comparing now vs UTC time, and working with timezones.
 
@@ -52,6 +62,7 @@
 
 **Link(s) to work:**
 1. [Completed Chapter 3 of 3 in Python Data Science Toolbox (Part 1)](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/edda34c77d4e691423b7fbffe308b3e8e9282d6e)
+2. [Certificate - Python Data Science Toolbox (Part 1) - DataCamp](http://bit.ly/2Gm5BLk)
 ---
 
 ## Day 19: January 16, 2018 - Tuesday
@@ -81,6 +92,7 @@
 **Link(s) to work:**
 1. [Completed 4 of 5 sections of Intermediate Python for Data Science on DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/ac504a09b6485257508a98d389e23e4f458ea7da)
 2. [Completed 5 of 5 sections of Intermediate Python for Data Science on DataCamp, got certificate](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/780201e5ac1945d01d55bdf2149558771fedec1c)
+3. [Certificate - Intermediate Python for Data Science - DataCamp](http://bit.ly/2niDfd4)
 ---
 
 ## Day 15: January 12, 2018 - Friday
@@ -125,7 +137,7 @@
 **Thoughts:**  This is going to be a crazy week with multiple deadlines at work and with clients, and taking care of my puppy that's been sick and still not house trained.  Still going to push myself to get at least 1 hr of Python coding in each day.  Who needs sleep, right?
 
 **Link(s) to work:**
-1. [Intro to Python Cert](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/master/Data%20Camp/Statement%20of%20Accomplishment%20-%20Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
+1. [Intro to Python Cert](http://bit.ly/2FlcA6c)
 ---
 
 ## Day 9: January 6, 2018 - Saturday
