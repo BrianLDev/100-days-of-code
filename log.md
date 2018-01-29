@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 31: January 28, 2018 - Sunday
+**Today's Progress:**  0.5 hours - Started the Data Visualization course on DataCamp
+
+**Thoughts:**  Spent most of the day getting a buttload of personal things done that had been backlogged for a while.  Spent less time on this than I wanted to but tomorrow is another day.
+
+**Link(s) to work:**
+1. [Started Ch 1 of 5 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/acefefdc309d2615ef0eccb1273e0f05adf149eb)
+---
+
 ## Day 30: January 27, 2018 - Saturday
 **Today's Progress:**  2+ hours - Ch 5 of 5 on DataCamp - Data Types for Data Science.  In this section we brought all the different pieces together to gather and parse data from a Chicago crimes data list.  All starting to come together.
 
