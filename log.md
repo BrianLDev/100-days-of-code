@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 32: January 29, 2018 - Monday
+**Today's Progress:**  0.5 hours - Progress on the Data Visualization course on DataCamp
+
+**Thoughts:**  Another busy day. Getting frustrated but need to keep moving and make time
+
+**Link(s) to work:**
+1. [Progerss on Ch 1 of 5 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/e323d399647d5acf2471e60fdd46f3dc2ecddd2a)
+---
+
 ## Day 31: January 28, 2018 - Sunday
 **Today's Progress:**  0.5 hours - Started the Data Visualization course on DataCamp
 
