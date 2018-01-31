@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 33: January 30, 2018 - Tuesday
+**Today's Progress:**  2 hours - Completed the Sprinboard sections on Jupyter / Anaconda Python, and Git / Github.  Then spent 30 min on a Skype call with my mentor Nate, discussing ideas for my capstone and potential Data Science and Machine learning tools or libraries I can use.  Then did some more work on DataCamp to keep the git log green squares flowing.  
+
+**Thoughts:**  Good day overall, very productive.  Pretty much done with the Python bootcamp section after wrapping up a couple final things.  Next up is to formalize my Capstone project writeup and get mentor sign off, finalize the last of the Data Viz course, and then its on to the Data Wrangling section.  Data Wrangling is the biggest section of the course and is going to take at least a month to complete it.  I'm going to see if I can move from 1 hour a day on average to 2 hours a day on average to keep things moving along even faster.
+
+**Link(s) to work:**
+1. [Progress on Ch 1 of 5 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/0eb54c078bef92c6ba67e383dd8ddc0889301b60)
+---
+
 ## Day 32: January 29, 2018 - Monday
 **Today's Progress:**  0.5 hours - Progress on the Data Visualization course on DataCamp
 
