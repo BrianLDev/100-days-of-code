@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 34: January 31, 2018 - Wednesday
+**Today's Progress:**  2.5 hours -  Did some more Data Viz, but more importantly, I was really needing a clear roadmap for how long the course would take and when each section would be due by.  So I laid out the entire Springboard Intermediate Data Science course in Excel and created a dynamic scheduler to calculate how many hours per week of work is required and when each section should be completed by.  
+
+**Thoughts:**  Good lord, I wish I had created this dynamic scheduler from the beginning! I was relying on the one that Springboard provides which unfortunately turned out to be very bad at calculating which sections need to be completed in which weeks.  If I had stuck with the (7-14 hours per week) guideline, I would finish the course by the end of July (7 months for a 3-4 month course!)  Now that I have an accurate schedule in place, I have a firm grasp on the actual roadmap/deadlines for the course and what I need to do to get to the finish line.  I see now that I am a bit behind on a 3-4 month timeframe and will have to kick things up a few notches.  I plan on sharing the dynamic scheduler with Chris at Springboard in the hopes that he will pass it on and it will help other students as much as it's already helped me.  Maybe share on the Springboard forums as well.
+
+**Link(s) to work:**
+1. [Finished Ch 1 of 5 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/4d287317759a0042651e0e9129499435e3e0ef06)
+2. [Improved Dynamic Course Scheduling Spreadsheet for Springboard Intermediate Data Science Course](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/c6e184a8bdb38ef812bdbe95113783f7f81e2d12/Springboard%20Course%20Schedule%20%26%20Study%20Plan.xlsx)
+---
+
 ## Day 33: January 30, 2018 - Tuesday
 **Today's Progress:**  2 hours - Completed the Sprinboard sections on Jupyter / Anaconda Python, and Git / Github.  Then spent 30 min on a Skype call with my mentor Nate, discussing ideas for my capstone and potential Data Science and Machine learning tools or libraries I can use.  Then did some more work on DataCamp to keep the git log green squares flowing.  
 
