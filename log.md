@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 38: February 4, 2018 - Sunday
+**Today's Progress:**  2 hours - Capstone Project proposal writeup and research.  Sent to mentor Nate for review.  
+
+**Thoughts:**  I'm missing the beginning of the SuperBowl but gotta git er done!  Capstone project proposal submitted and now on to watch the game.
+
+**Link(s) to work:**
+1. [Capstone Project proposal draft sent to mentor](http://bit.ly/2s5MF0B)
+---
+
 ## Day 35 to 37: February 1 to 3, 2018 - Thu to Sun
 **Today's Progress:**   Made improvements to the springboard dynamic course scheduler so that it calculates how many hours per day / week I will need to put in based on both the course as a whole and (excited about this one) based on the current progress of what's been done and what remains.  In other words, since I found out that I'm a little behind where I should be in the course, the calculations tell me how many hours per day/week to put in so that I still finish by my deadline.  The scheduler also adds calculations for completing 100% of the Capstone and 60% of the curriculum in order to get the certificate.  Separate from the scheduler, I also made progress on the data viz section. 
 
