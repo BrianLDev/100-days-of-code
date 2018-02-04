@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 35 to 37: February 1 to 3, 2018 - Thu to Sun
+**Today's Progress:**   Made improvements to the springboard dynamic course scheduler so that it calculates how many hours per day / week I will need to put in based on both the course as a whole and (excited about this one) based on the current progress of what's been done and what remains.  In other words, since I found out that I'm a little behind where I should be in the course, the calculations tell me how many hours per day/week to put in so that I still finish by my deadline.  The scheduler also adds calculations for completing 100% of the Capstone and 60% of the curriculum in order to get the certificate.  Separate from the scheduler, I also made progress on the data viz section. 
+
+**Thoughts:**  To be honest, once I created the scheduler and saw that I was 40+ hours behind because I relied on the Springboard scheduler and recommended hours per week (7-14 is much too low), I was very frustrated.  I still made some progress every day, but was upset that the Springboard scheduler misled me and that I had a mountain worth of work ahead of me in less time than before.  I've since pushed past that, and come to terms with the reality of my situation and my goals for the course.  If I put in 2 hours on average every day, I will be able to complete the course by May 9th, 2018.  That's 3 months from now, and will mean that I'll have to pay for an additional month of the Springboard course ($500), possibly another month on top of that if 2 hours a day is not possible.  My schedule is currently too full to take on any more, and I'm going to have to start being more selective with my workload and unload tasks that aren't paying well or aren't worth my time.  My schedule may change in the future and may open up more, but for now, this is the reality that I'm working with and have accepted, and will just keep pushing forward until I reach the finish line.
+
+**Link(s) to work:**
+1. [Ch 2 of 5 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/24741cd4d66e3d2f3660e3dff31079f375d9e42b)
+2. [Changes to Improved Dynamic Course Scheduling Spreadsheet for Springboard Intermediate Data Science Course](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/4c95dd78f538ea2f0b71a2a18c569382f0182183/Springboard%20Course%20Schedule%20%26%20Study%20Plan.xlsx)
+---
+
 ## Day 34: January 31, 2018 - Wednesday
 **Today's Progress:**  2.5 hours -  Did some more Data Viz, but more importantly, I was really needing a clear roadmap for how long the course would take and when each section would be due by.  So I laid out the entire Springboard Intermediate Data Science course in Excel and created a dynamic scheduler to calculate how many hours per week of work is required and when each section should be completed by.  
 
