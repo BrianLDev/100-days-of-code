@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 39: February 5, 2018 - Monday
+**Today's Progress:**  0.5 hours - Progress on ch 3 of 4 - Intro to Data Viz with Python - DataCamp
+
+**Thoughts:**  It's been a rough couple of days... With the Patiots losing, Cryptocurrencies crashing 65% since January highs and 25% overnight, stock market crashing the most single day drop ever, and work/personal drama to deal with.  I still put in some coding time to make progress and keep the streak going, but I'm making it an early night to get some sleep and be done with today.  Here's hoping for better days to come.
+
+**Link(s) to work:**
+1. [Progress on ch 3 of 4 - Intro to Data Viz with Python - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/da9ffc1c612050f7a02d9298826877e6f7bc3f2b)
+---
+
 ## Day 38: February 4, 2018 - Sunday
 **Today's Progress:**  2 hours - Capstone Project proposal writeup and research.  Sent to mentor Nate for review.  
 
