@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 40 to 42: February 8 to 8, 2018 - Tue to Thu
+**Today's Progress:**   Finished ch 3 and 4 on the Intro to Data Viz with Python to complete this section and get the certificate
+
+**Thoughts:**  This was a great section I loved it and fit perfectly with my Capstone.  There was some charting of stock prices using time series data and moving averages as well.  I took good notes so that I can come back and reference it in the future if needed.
+
+**Link(s) to work:**
+1. [Ch 3 of 4 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/148d8523ebd671651b60790ef988f0e4af831ec3)
+2. [Ch 3 of 4 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/c5b7c5c11bed0e348379bee412ef363f6b1a6754)
+3. [Intro to Data Viz with Python - Certificate - DataCamp](http://bit.ly/2EfRohS)
+---
+
 ## Day 39: February 5, 2018 - Monday
 **Today's Progress:**  0.5 hours - Progress on ch 3 of 4 - Intro to Data Viz with Python - DataCamp
 
@@ -24,7 +35,7 @@
 **Thoughts:**  To be honest, once I created the scheduler and saw that I was 40+ hours behind because I relied on the Springboard scheduler and recommended hours per week (7-14 is much too low), I was very frustrated.  I still made some progress every day, but was upset that the Springboard scheduler misled me and that I had a mountain worth of work ahead of me in less time than before.  I've since pushed past that, and come to terms with the reality of my situation and my goals for the course.  If I put in 2 hours on average every day, I will be able to complete the course by May 9th, 2018.  That's 3 months from now, and will mean that I'll have to pay for an additional month of the Springboard course ($500), possibly another month on top of that if 2 hours a day is not possible.  My schedule is currently too full to take on any more, and I'm going to have to start being more selective with my workload and unload tasks that aren't paying well or aren't worth my time.  My schedule may change in the future and may open up more, but for now, this is the reality that I'm working with and have accepted, and will just keep pushing forward until I reach the finish line.
 
 **Link(s) to work:**
-1. [Ch 2 of 5 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/24741cd4d66e3d2f3660e3dff31079f375d9e42b)
+1. [Ch 2 of 4 on DataCamp - Intro to Data Viz with Python](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/24741cd4d66e3d2f3660e3dff31079f375d9e42b)
 2. [Changes to Improved Dynamic Course Scheduling Spreadsheet for Springboard Intermediate Data Science Course](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/4c95dd78f538ea2f0b71a2a18c569382f0182183/Springboard%20Course%20Schedule%20%26%20Study%20Plan.xlsx)
 ---
 
