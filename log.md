@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
-## Day 40 to 42: February 8 to 8, 2018 - Tue to Thu
+## Day 43 & 44: February 9 & 10, 2018 - Friday & Saturday
+**Today's Progress:**   6 hours - Finished all 4 chapters of the pandas Foundations course on DataCamp
+
+**Thoughts:**  I buckled down and put a big chunk of time in to get as much done as I can on this course.  I'm really liking working with data in Python and all the different statistics and visualizations that can be done after you clean up the data and get it into a usable format.  I can really see this coming in handy at work and on personal projects so I'm glad I decided to push my knowledge further by taking this course.
+
+**Link(s) to work:**
+1. [Finished ch 1 of 4 - pandas Foundations - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/b484ea9763657dc4fa15324e11df8b55ad8b99b2)
+2. [Finished ch 2 of 4 - pandas Foundations - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/ded8b832fbdaac9b84c329b53f0dcfae1a0e25b7)
+3. [Finished ch 3 of 4 - pandas Foundations - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/212374c1ede1971345b387722de41ed106bc9734)
+4. [Finished ch 4 of 4 - pandas Foundations - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/8c505500358bd3b8acb9dbd0895ca4b42236999c)
+5. [Certificate for completing course - pandas Foundations - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/blob/8c505500358bd3b8acb9dbd0895ca4b42236999c/Data%20Camp/06-pandas%20Foundations%20Course%20-%20Certificate%20-%20DataCamp.pdf)
+---
+
+## Day 40 to 42: February 6 to 8, 2018 - Tue to Thu
 **Today's Progress:**   Finished ch 3 and 4 on the Intro to Data Viz with Python to complete this section and get the certificate
 
 **Thoughts:**  This was a great section I loved it and fit perfectly with my Capstone.  There was some charting of stock prices using time series data and moving averages as well.  I took good notes so that I can come back and reference it in the future if needed.
