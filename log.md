@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 45: February 11, 2018 - Sunday
+**Today's Progress:**  The biggest chunk of work done today was wrapping up the pandas foundations course (early AM), but also put in some code time before bed to start the new course Manipulating DataFrames with pandas
+
+**Thoughts:**  Starting to get in a groove and get things done.  That may change during the work week with other obligations but I'm going to push to keep it moving.
+
+**Link(s) to work:**
+1. [Progress on ch 1 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/a2118aaf32ab13bdc820abd3b0573614766bcb96)
+---
+
 ## Day 43 & 44: February 9 & 10, 2018 - Friday & Saturday
 **Today's Progress:**   6 hours - Finished all 4 chapters of the pandas Foundations course on DataCamp
 
