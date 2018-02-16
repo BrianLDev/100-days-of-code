@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 49: February 15, 2018 - Thursday
+**Today's Progress:**  Finished ch 1 of 5 - Manipulating DataFrames with pandas - DataCamp
+
+**Thoughts:**  Long day.  Still got some coding in.
+
+**Link(s) to work:**
+1. [Finished ch 1 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/23e13d652bb33457e902ba8428543928affb2e68)
+---
+
 ## Day 46 thru 48: February 12 thru 14, 2018 - Monday thru Wednesday
 **Today's Progress:**  Progress on ch 1 of 5 - Manipulating DataFrames with pandas - DataCamp.  Mentor call with Nate.  Discussions with Springboard.
 
