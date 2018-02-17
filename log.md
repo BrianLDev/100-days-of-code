@@ -1,9 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 50: February 16, 2018 - Friday
+**Today's Progress:**  Finished ch 2 of 5 - Manipulating DataFrames with pandas - DataCamp.  Discussed course pause with Springboard while still continuing progress and resuming with new mentor when my schedule frees up.
+
+**Thoughts:**  Hit the halfway mark to 100 days!  It's amazing how forming positive habits can have a huge effect on your productivity and accomplishments and take on a momentum of their own.  I'm loving it so far, proud that I stuck with it through extremely busy days, and going to keep it rolling.
+
+**Link(s) to work:**
+1. [Finished ch 2 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/f85d28abfed3f7497ac2245c6d118bf7eedd2982)
+---
+
 ## Day 49: February 15, 2018 - Thursday
 **Today's Progress:**  Finished ch 1 of 5 - Manipulating DataFrames with pandas - DataCamp
 
-**Thoughts:**  Long day.  Still got some coding in.
+**Thoughts:**  Long day.  Sleep now.
 
 **Link(s) to work:**
 1. [Finished ch 1 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/23e13d652bb33457e902ba8428543928affb2e68)
