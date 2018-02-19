@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 51 & 52: February 17 & 18, 2018 - Sat & Sun
+**Today's Progress:**  Progress on ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp.
+
+**Thoughts:**  Had a lot of career / accounting / job / contract related responsibilities that took priority the last 2 days but still getting some coding in.
+
+**Link(s) to work:**
+1. [Progress on ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/f2e640e3552522b3e056a9f4fb043f34a199e650)
+2. [Progress on ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/769b2147984823760bbd42676592f73763119227)
+---
+
 ## Day 50: February 16, 2018 - Friday
 **Today's Progress:**  Finished ch 2 of 5 - Manipulating DataFrames with pandas - DataCamp.  Discussed course pause with Springboard while still continuing progress and resuming with new mentor when my schedule frees up.
 
