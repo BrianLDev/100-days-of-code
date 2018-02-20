@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 53: February 19, 2018 - Monday
+**Today's Progress:**  Finished ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp.  
+
+**Thoughts:**  I will need to spend more time with .pivot, .melt and .pivot_table to better understand them. 
+
+**Link(s) to work:**
+1. [Finished ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/b1f97b28ccba44899addd659258d007f08995ea8
+---
+
 ## Day 51 & 52: February 17 & 18, 2018 - Sat & Sun
 **Today's Progress:**  Progress on ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp.
 
