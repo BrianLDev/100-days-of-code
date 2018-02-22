@@ -1,12 +1,30 @@
 # 100 Days Of Code - Log
 
+## Day 55: February 21, 2018 - Wednesday
+**Today's Progress:**  House Price Prediction Model using Data Science - DevMasters live coding session.  We used Jupyter notebooks, Python, pandas, matplotlib, and scikit tools on a set of housing data from Kaggle to predict housing prices.  For sake of time we only used 1 feature to predict price: square footage of the house
+
+**Thoughts:**  I was reluctant to come to this meetup but really glad that I did.  It combined a lot of the tools that I've been learning in the Springboard course and with DataCamp, but applied to a real problem and using statistics, and getting actual results.  Using the tools you've learned on an actual project is **hugely** important in the learning process.  The Springboard course has us on a treadmill of learning new material after new material, but stopping to use the knowledge on an actual problem is really important for actually putting the individual pieces together and retaining the knowledge.
+
+**Link(s) to work:**
+1. [House Price Prediction Model using Data Science - DevMasters live coding session](https://github.com/BrianLeip/HousePricePredictionModel/commits/master)
+---
+
+## Day 54: February 20, 2018 - Tuesday
+**Today's Progress:**  Progress on ch 4 of 5 - Manipulating DataFrames with pandas - DataCamp
+
+**Thoughts:**  Not a lot of time to code today but got some done
+
+**Link(s) to work:**
+1. [Progress on ch 4 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/d1374b2d9cbfe6adeae80c02493469bdcc9cdfb5)
+---
+
 ## Day 53: February 19, 2018 - Monday
 **Today's Progress:**  Finished ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp.  
 
 **Thoughts:**  I will need to spend more time with .pivot, .melt and .pivot_table to better understand them. 
 
 **Link(s) to work:**
-1. [Finished ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/b1f97b28ccba44899addd659258d007f08995ea8
+1. [Finished ch 3 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/b1f97b28ccba44899addd659258d007f08995ea8)
 ---
 
 ## Day 51 & 52: February 17 & 18, 2018 - Sat & Sun
