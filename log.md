@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 58: February 24, 2018 - Saturday
+**Today's Progress:**  Rather than rushing forward to complete example and example, I went back and recreated the first 4 example problems from ch 4 in Manipulating DataFrames with pandas.  
+
+**Thoughts:**  Things are starting to get more and more complex and if I just rush through then I won't understand any of it and then what's the point.  So this was a deep dive into using groupby, running statistics like mean on the groups, using .agg() to aggregate data by sum, mean, and even functions like the spread between max and min.  I recreated all the DataCamp examples from scratch in Jupyter, imported the csv files, created dataFrames, etc to make sure I was really getting it.  A lot of this looked very similar to Pivot tables in Excel so I recreated example 4-04 in excel and compared results.  Very similar, but Python has more flexibility and more power at the cost of being more complex.  All in all really interesting stuff.
+
+**Link(s) to work:**
+1. [Extensive review of first 4 examples in ch 4 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/7245cc1ed7527a840f95da781d86572e4649989a)
+---
+
+## Day 56 & 57: February 22 & 23, 2018 - Thursday & Friday
+**Today's Progress:**  Progress on ch 4 of 5 - Manipulating DataFrames with pandas - DataCamp
+
+**Thoughts:**  Busy couple days.  On Friday worked from 9am until 1:30am
+
+**Link(s) to work:**
+1. [Progress on ch 4 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/9244aae46abf19c4193275d1a54f6e1b2a2d0c0a)
+2. [Progress on ch 4 of 5 - Manipulating DataFrames with pandas - DataCamp](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/a76e7d060a2023ec4323b5353b5a17faa112ed98)
+---
+
 ## Day 55: February 21, 2018 - Wednesday
 **Today's Progress:**  House Price Prediction Model using Data Science - DevMasters live coding session.  We used Jupyter notebooks, Python, pandas, matplotlib, and scikit tools on a set of housing data from Kaggle to predict housing prices.  For sake of time we only used 1 feature to predict price: square footage of the house
 
