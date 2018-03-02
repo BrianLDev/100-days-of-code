@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 62: February 28, 2018 - Wednesday
+**Today's Progress:**  Found out that I need to have surgery soon and also lost access to my DataCamp course somehow.  Need to take a break from 100DaysOfCode to get this figured out.
+
+**Thoughts:**  I may be on break...but it's not the end.  I love this Data Science shit.  I'll be back and ready for more soon.
+
+**Link(s) to work:**
+1. []()
+---
+
+## Day 59 thru 61: February 25 thru 27, 2018 - Sunday thru Tuesday
+**Today's Progress:**  Progress on ch 4 of 5 - Manipulating DataFrames with pandas - DataCamp
+
+**Thoughts:**  Wish I had more time.  Chipping away at the course when time allows but it's been a very busy few days 
+
+**Link(s) to work:**
+1. [day 59](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/f1b6393fec03284b024148592f8f44f08699fe44)
+1. [day 60](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/a0a493ab0427a350d1e583d8aa6fd66a49f038c8)
+1. [day 61](https://github.com/BrianLeip/Data-Science-Intensive-Springboard/commit/4d1e5fa84e664310e48a388cc978ed43ccd27f30)
+---
+
 ## Day 58: February 24, 2018 - Saturday
 **Today's Progress:**  Rather than rushing forward to complete example and example, I went back and recreated the first 4 example problems from ch 4 in Manipulating DataFrames with pandas.  
 
