@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 03: January 22, 2019 - Tuesday
+
+**Today's Progress:**  
+Created Titanic v5 which removes all items that require the internet (e.g. !wget) over to a Jupyter notebook that pulls the data from the Titanic folder.  The new version will also work with Google Colab so it's cross compatible.  Now an internet connection is no longer required and can be worked on at anytime including while I ride the train.  Also looked into potential visualizations for the linear regression covariable weights, and started coding one.  Will need to finalize in the future.
+
+**Thoughts:**  
+Today was my first day starting my role as Controller at Sentieo.  So with that being my primary focus, I only was able to spend about 30 minutes coding while I was on the train commuting to/from work, and a bit after I got home.
+
+**Link(s) to work:**
+1. [Titanic v5 - no longer requires internet and Google Colab](https://github.com/BrianLeip/PythonMLBootcamp2019-01-19/blob/master/Titanic/Titanic%20(2019-BL)%20v5.ipynb)
+---
+
 ## Day 03: January 21, 2019 - Monday
 
 **Today's Progress:**  
