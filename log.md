@@ -1,6 +1,30 @@
 # 100 Days Of Code - Log
 
-## Day 03: January 22, 2019 - Tuesday
+## Day 06: January 24, 2019 - Thursday
+
+**Today's Progress:**  
+
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. []()
+---
+
+## Day 05: January 23, 2019 - Wednesday
+
+**Today's Progress:**  
+Started Tableau A to Z (Data Visualization) course on Udemy.  Installed Tableau, downloaded first data set and created first dat Viz.
+
+**Thoughts:**  
+I'm really enjoying this so far and Tableau / Data Viz in general will be hugely important at my new job and for personal projects in the future.
+
+**Link(s) to work:**
+1. [SuperStore exercise - dataset and viz](https://github.com/BrianLeip/TableauAtoZ/tree/master/01-SuperStore%20Exercise)
+---
+
+## Day 04: January 22, 2019 - Tuesday
 
 **Today's Progress:**  
 Created Titanic v5 which removes all items that require the internet (e.g. !wget) over to a Jupyter notebook that pulls the data from the Titanic folder.  The new version will also work with Google Colab so it's cross compatible.  Now an internet connection is no longer required and can be worked on at anytime including while I ride the train.  Also looked into potential visualizations for the linear regression covariable weights, and started coding one.  Will need to finalize in the future.
