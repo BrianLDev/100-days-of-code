@@ -1,15 +1,33 @@
 # 100 Days Of Code - Log
 
+
+## Day 07: January 26, 2019 - Saturday
+
+**Today's Progress:**  
+Day 1 of Intro to Machine Learning Bootcamp.  Covered Python, Pandas, and Linear Regression confusion matrix in the AM.  Titanic (again) from 12pm to 2pm. Housing price prediction from 2pm to 4:30pm.
+
+**Thoughts:**  
+Unfortunately I've already learned most of this at the other meetup and weekend bootcamp.  This wasn't the best or most focused course I've taken yet, hopefully tomorrow will be better.
+
+**Link(s) to work:**
+1. [Intro to ML day 1 files: PDF about ML, Mini Titanic Jupyter notebook, Housing price prediction notebook](https://github.com/BrianLeip/Intro_to_ML_Bootcamp_2019-01-26/commit/d6bd142b0e16a92169f8241b07cdf2f40d23d138)
+---
+
+## SKIPPED: January 25, 2019 - Friday
+Busy day at work at the new job and then after work event to welcome new hires until midnight.
+
+---
+
 ## Day 06: January 24, 2019 - Thursday
 
 **Today's Progress:**  
-
+Tableau A to Z - 2nd data set - business challenge
 
 **Thoughts:**  
-
+Short one today, was very busy with work
 
 **Link(s) to work:**
-1. []()
+1. [Tableau - Business Challenge - dataset](https://github.com/BrianLeip/TableauAtoZ/commit/c336b61aa8a6d4f07c94fe397d2974dba910e905)
 ---
 
 ## Day 05: January 23, 2019 - Wednesday
@@ -21,7 +39,7 @@ Started Tableau A to Z (Data Visualization) course on Udemy.  Installed Tableau,
 I'm really enjoying this so far and Tableau / Data Viz in general will be hugely important at my new job and for personal projects in the future.
 
 **Link(s) to work:**
-1. [SuperStore exercise - dataset and viz](https://github.com/BrianLeip/TableauAtoZ/tree/master/01-SuperStore%20Exercise)
+1. [Tableau - SuperStore exercise - dataset and viz](https://github.com/BrianLeip/TableauAtoZ/tree/master/01-SuperStore%20Exercise)
 ---
 
 ## Day 04: January 22, 2019 - Tuesday
