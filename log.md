@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 08: January 27, 2019 - Sunday
+
+**Today's Progress:**  
+Day 2 of Intro to Machine Learning Bootcamp.  
+- Delved into ML statistics, linear regressions, recapped confusion matrix.
+- Completed the ML Outline (Titanic reshuffle) where all the key Titanic linear code lines are shuffled in the wrong order.  Re-order them in the correction sections of the 7 step Machine Learning process
+- K Means clustering
+- MINST handwritten number image recognition
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [ML Outline (Titanic Reshuffled)](https://github.com/BrianLeip/Intro_to_ML_Bootcamp_2019-01-26/blob/426e308406f15bd6ee1b8e6cd75348d8d84f5a89/ML%20Outline%20(Titanic%20reshuffle).ipynb)
+2. [K Means Clustering](https://github.com/BrianLeip/Intro_to_ML_Bootcamp_2019-01-26/blob/4f5633556df0970a307aff71c897823a74f58bc1/K%20Means%20Clustering.ipynb)
+3. [MINST - handwritten number image recognition](https://github.com/BrianLeip/Intro_to_ML_Bootcamp_2019-01-26/blob/4b651d347af2156b9fef1ba6c74cdd0392fd0172/MNIST%20-%20Simple.ipynb)
+---
 
 ## Day 07: January 26, 2019 - Saturday
 
