@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+
+## Day 10: January 30, 2019 - Wednesday
+
+**Today's Progress:**  
+Back to the Tableau A to Z course since it will be crucial to my new job.  Completed 02-Business Challenge - Sales by rep by region data viz.
+
+**Thoughts:**  
+I haven't heard back from my Kaggle petfinder partner in a bit, and since Data Viz (Tableau especially) is going to be crucial in my new job, I'm focusing my attention on that.  Really love the program and the Udemy course too, going to keep moving on this and finish as fast as possible and then jump back to Kaggle and Machine Learning.
+
+**Link(s) to work:**
+1. [Tableau AtoZ 02-Business Challenge - Sales by rep by region](https://github.com/BrianLeip/TableauAtoZ/commit/0eeb9bb6cce21ae74b154ad8015bc42b778ce21d)
+
+## Day 09: January 29, 2019 - Tuesday
+
+**Today's Progress:**  
+Busy day but I connected with a fellow coder doing 100 Days of code on Twitter who is taking on the Kaggle Pet Finder pet adoption challenge.  Joined the challenge, downloaded the data and started digging in.
+
+**Thoughts:**  
+I have a lot going on with my new job, but want to keep pushing forward on 100 Days of Code as much as possible. Also it's fun to collaborate with someone else on a Kaggle competition and even though it involves some things that are more complex (natural language processing, sentiment analysis, image recognition, etc.), sometimes the best way to learn is to get in a little over your head and force yourself to figure it out.
+
+**Link(s) to work:**
+1. [Started the Kaggle Petfinder competition](https://github.com/BrianLeip/Kaggle_Petfinder/commits/master)
+
 ## Day 08: January 27, 2019 - Sunday
 
 **Today's Progress:**  
@@ -10,7 +33,7 @@ Day 2 of Intro to Machine Learning Bootcamp.
 - MINST handwritten number image recognition
 
 **Thoughts:**  
-
+Good day, much better than day 1.  But a lot of the topics we covered are quite deep and will require some deep dives in the future to truly grok everything.
 
 **Link(s) to work:**
 1. [ML Outline (Titanic Reshuffled)](https://github.com/BrianLeip/Intro_to_ML_Bootcamp_2019-01-26/blob/426e308406f15bd6ee1b8e6cd75348d8d84f5a89/ML%20Outline%20(Titanic%20reshuffle).ipynb)
