@@ -4,7 +4,7 @@
 ## Day 10: January 30, 2019 - Wednesday
 
 **Today's Progress:**  
-Back to the Tableau A to Z course since it will be crucial to my new job.  Completed 02-Business Challenge - Sales by rep by region data viz.
+Back to the Tableau A to Z course since it will be crucial to my new job.  Completed 02-Business Challenge - Sales by rep by region data viz. *
 
 **Thoughts:**  
 I haven't heard back from my Kaggle petfinder partner in a bit, and since Data Viz (Tableau especially) is going to be crucial in my new job, I'm focusing my attention on that.  Really love the program and the Udemy course too, going to keep moving on this and finish as fast as possible and then jump back to Kaggle and Machine Learning.
