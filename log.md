@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 11: January 30, 2019 - Thursday
+
+**Today's Progress:**  
+Continued Tableau AtoZ course - Downloaded all course DataSources and instructor vizzes, created folder structure, then started on section 3.
+
+**Thoughts:**  
+Relatively short day but making progress every day
+
+**Link(s) to work:**
+1. [Downloaded all DataSets and instructor vizzes for the course](https://github.com/BrianLeip/TableauAtoZ/commit/ad0ec494f41c6101420ab40630e4e1a2e4458ae7)
+---
 
 ## Day 10: January 30, 2019 - Wednesday
 
@@ -11,6 +22,7 @@ I haven't heard back from my Kaggle petfinder partner in a bit, and since Data V
 
 **Link(s) to work:**
 1. [Tableau AtoZ 02-Business Challenge - Sales by rep by region](https://github.com/BrianLeip/TableauAtoZ/commit/0eeb9bb6cce21ae74b154ad8015bc42b778ce21d)
+---
 
 ## Day 09: January 29, 2019 - Tuesday
 
@@ -22,6 +34,7 @@ I have a lot going on with my new job, but want to keep pushing forward on 100 D
 
 **Link(s) to work:**
 1. [Started the Kaggle Petfinder competition](https://github.com/BrianLeip/Kaggle_Petfinder/commits/master)
+---
 
 ## Day 08: January 27, 2019 - Sunday
 
