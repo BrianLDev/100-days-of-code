@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
-## Day 11: January 30, 2019 - Thursday
+## Day 12: February 1, 2019 - Friday
+
+**Today's Progress:**  
+Completed Tableau AtoZ section 03 - Time Series, Aggregation using Unemployment statistics.
+
+**Thoughts:**  
+This was an important one for me since I work with a lot of stock data which is considered time series data.  Will continue to play around and experiment with it to continue improving.
+
+**Link(s) to work:**
+1. [Tableau AtoZ 03 - Time Series, Aggregation using Unemployment statistics](https://github.com/BrianLeip/TableauAtoZ/commit/a4c8cdf9ca3c3df5cdf70f1202da6b7bb10fa647)
+---
+
+## Day 11: January 31, 2019 - Thursday
 
 **Today's Progress:**  
 Continued Tableau AtoZ course - Downloaded all course DataSources and instructor vizzes, created folder structure, then started on section 3.
@@ -9,7 +21,7 @@ Continued Tableau AtoZ course - Downloaded all course DataSources and instructor
 Relatively short day but making progress every day
 
 **Link(s) to work:**
-1. [Downloaded all DataSets and instructor vizzes for the course](https://github.com/BrianLeip/TableauAtoZ/commit/ad0ec494f41c6101420ab40630e4e1a2e4458ae7)
+1. [Downloaded all DataSets and instructor vizzes for the course, started on section 3](https://github.com/BrianLeip/TableauAtoZ/commit/ad0ec494f41c6101420ab40630e4e1a2e4458ae7)
 ---
 
 ## Day 10: January 30, 2019 - Wednesday
