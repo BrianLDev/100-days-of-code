@@ -1,5 +1,77 @@
 # 100 Days Of Code - Log
 
+## Day 18: February 11, 2019 - Monday
+
+**Today's Progress:**  
+Made a lot of progress on my Kaggle Petfinder notebook. Laid out structure of the notebook with all 7 steps of the Machine Learning Process, completed 3 of them, and working on step 4 - Feature Engineering and Data Cleansing.
+
+**Thoughts:**  
+Got back on the wagon today and cranked out a couple hours worth of work.  Feels good and want to keep the streak going again.
+
+**Link(s) to work:**
+1. [Big update to Petfinder Notebook - completed steps 1-3 and working on step 4](https://github.com/BrianLeip/Kaggle_Petfinder/blob/7fa37f3e17379641a31f4f1d9996ca83189ea596/Petfinder_Kaggle.ipynb)
+---
+
+## Day 17: February 8, 2019 - Friday
+
+**Today's Progress:**  
+more EDA on the Petfinder DataSet
+
+**Thoughts:**  
+Busy but moving forward
+
+**Link(s) to work:**
+1. [more EDA on the Petfinder DataSet](https://github.com/BrianLeip/Kaggle_Petfinder/blob/6499e453530d0d178b8b3a2b7a180a5fed23589b/Petfinder_Kaggle.ipynb)
+---
+
+## Day 16: February 6, 2019 - Wednesday
+
+**Today's Progress:**  
+some EDA on the Petfinder DataSet
+
+**Thoughts:**  
+Busy but moving forward
+
+**Link(s) to work:**
+1. [some EDA on the Petfinder DataSet](https://github.com/BrianLeip/Kaggle_Petfinder/blob/d3c690049f0f1f7d11b85e55a13cf9304d6d0371/Petfinder_Kaggle.ipynb)
+---
+
+## Day 15: February 5, 2019 - Tuesday
+
+**Today's Progress:**  
+Unemployment TimeSeries viz-added filters
+
+**Thoughts:**  
+Busy but moving forward
+
+**Link(s) to work:**
+1. [Unemployment TimeSeries viz-added filters](https://github.com/BrianLeip/TableauAtoZ/commit/90e3ec586556bd7c71b4b0fb63dda5dc55b75495)
+---
+
+## Day 14: February 3, 2019 - Sunday
+
+**Today's Progress:**  
+Tried getting the Kaggle API set up with Google Colab but there were a lot of issues with the kaggle.json credentials file and Googling that issue shows that almost everyone has problems with it.  Changed to instead use Dropbox and github, but remove the image DataSets since those are the largest by far.  Got it working and now can successfully use both Github and Colab by downloading the files from my Dropbox folder.
+
+**Thoughts:**  
+It was a frustrating day getting this set up and wish I could have spent that time coding.  But now that the setup part is done, future days can be spent analyzing the datasets and doing ML.
+
+**Link(s) to work:**
+1. [Kaggle Petfinder folder with DataSets - images excluded](https://github.com/BrianLeip/Kaggle_Petfinder/tree/d72238cbeded1c0fd45f3313795238c8c25851d2/DataSets)
+---
+
+## Day 13: February 2, 2019 - Saturday
+
+**Today's Progress:**  
+Set up Colab notebook for the Kaggle petfinder competition that I'm planning to tag team with a coder I met on Twitter. Tried to push the DataSet to github but it's too big.
+
+**Thoughts:**  
+The DataSet was too big to sync to github, so I also looked into other ways to make this work - possibly use the Kaggle API?
+
+**Link(s) to work:**
+1. [Kaggle Petfinder Colab](https://colab.research.google.com/drive/14oaWM71SXiiOWr-2ncHZlH4AwBTSlrtU)
+---
+
 ## Day 12: February 1, 2019 - Friday
 
 **Today's Progress:**  
