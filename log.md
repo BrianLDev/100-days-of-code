@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 19: February 12, 2019 - Tuesday
+
+**Today's Progress:**  
+Completed Kaggle's Data Cleaning Challenge day 1 of 5 - Handling Missing Values.
+
+**Thoughts:**  
+Want to focus on improving my Data Cleaning and Pandas experience, this is a good and quick 5 day challege to facilitate that.
+
+**Link(s) to work:**
+1. [Data Cleaning Challenge Day 1 - Hangling Missing Values](https://github.com/BrianLeip/data_cleaning_Kaggle/blob/master/Data%20Cleaning%2001-Handling%20Missing%20Values.ipynb)
+---
+
 ## Day 18: February 11, 2019 - Monday
 
 **Today's Progress:**  
