@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Day 21: February 20, 2019 - Wednesday
+
+**Today's Progress:**  
+Completed Kaggle's Data Cleaning Challenge day 3 of 5 - Parsing Dates
+
+**Thoughts:**  
+Another good one.  Save for future reference and practice on other data.
+
+**Link(s) to work:**
+1. [Data Cleaning Challenge Day 3 - Parsing Dates](https://github.com/BrianLeip/data_cleaning_Kaggle/blob/be3345c99b9cc21dfa18698c0fb66770bc5b4d64/Data%20Cleaning%2003-Parsing%20Dates.ipynb)
+---
+
+## Day 20: February 17, 2019 - Sunday
+
+**Today's Progress:**  
+Started and completed Kaggle's Data Cleaning Challenge day 2 of 5 - Scale and Normalize data
+
+**Thoughts:**  
+Missed a few days but won't let that deter me.
+The scale and normalize data challenge was an excellent one and combined data cleaning, statistics, and data viz.  Save for future reference
+
+**Link(s) to work:**
+1. [Data Cleaning Challenge Day 2 - Scale and Normalize Data](https://github.com/BrianLeip/data_cleaning_Kaggle/blob/60baea302104c7ae04535b2550c104d891c7cc23/Data%20Cleaning%2002-Scale%20and%20Normalize%20Data.ipynb)
+---
+
 ## Day 19: February 12, 2019 - Tuesday
 
 **Today's Progress:**  
