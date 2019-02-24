@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 23: February 24, 2019 - Sunday
+
+**Today's Progress:**  
+Completed Kaggle's Data Cleaning Challenge day 5 of 5 - Inconsistent Data Entry
+
+**Thoughts:**  
+Another interesting and useful one.  Using fuzzywuzzy library to find similar text matches with fuzzy logic matching, and then replace incorrect spelling is going to be super useful in the future.  Save this one.
+
+**Link(s) to work:**
+1. [Data Cleaning Challenge Day 5 - Inconsistent Data Entry](https://github.com/BrianLeip/data_cleaning_Kaggle/blob/d3a3a51e515a81a43b1485c0bdd7a7a5912edbdc/Data%20Cleaning%2005-Inconsistent%20Data%20Entry.ipynb)
+---
+
 ## Day 22: February 23, 2019 - Saturday
 
 **Today's Progress:**  
