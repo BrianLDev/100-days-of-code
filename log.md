@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 22: February 23, 2019 - Saturday
+
+**Today's Progress:**  
+Completed Kaggle's Data Cleaning Challenge day 4 of 5 - Character Encodings
+
+**Thoughts:**  
+This one was a little dull but important to know if data isn't loading properly and how to find and fix the encoding issue.
+
+**Link(s) to work:**
+1. [Data Cleaning Challenge Day 4 - Character Encodings](https://github.com/BrianLeip/data_cleaning_Kaggle/blob/fa8c525918026f92d2f1d8f963f24fd9ac2b78d4/Data%20Cleaning%2004-Character%20Encodings.ipynb)
+---
+
 ## Day 21: February 20, 2019 - Wednesday
 
 **Today's Progress:**  
