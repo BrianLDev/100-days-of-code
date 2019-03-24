@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 27: March 23, 2019 - Saturday
+
+**Today's Progress:**  
+Completed the last available challenges from Python Project night at Yelp - Beginner SIG.  String Manipulation, args and kwargs.
+
+**Thoughts:**  
+These were great challenges, and I learned quite a bit, even from fixing the small bugs that happened when Simeon rushed to create this for everyone.  String manipulation funcitons are important and ubiquitous so that was a great one. Using args and kwargs in functions to allow dynamic inputs is challenging for most people at first, so I made sure I did it multiple times to better understand it.
+
+**Link(s) to work:**
+1. [Python Beginner SIG - Redid basic logic: looping & iteration to use while and for loops](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/blob/396d96b43b47631a4b843d0ad3e1ee364cd10d67/basic_logic/looping_and_iteration.py)
+2. [Python Beginner SIG - String Manipulation completed](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/blob/10f37f78f73c23f2f6b731ada26ff5bd1768c6ff/strings/string_manipulation.py)
+3. [Python Beginner SIG - args and kwargs completed](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/blob/41fe060da35af3b73960695c594ee4ea9bc3422c/intermediate/args_and_kwargs.py)
+---
+
 ## Day 26: March 22, 2019 - Friday
 
 **Today's Progress:**  
@@ -9,7 +23,7 @@ Continued with Python Project night at Yelp - Beginner SIG.  Completed basic log
 Completed this using the most efficient string methods I was aware of.  But realized after that Simeon's intention was to do it using while and for loops to improve understanding of loops, so I redid the functions using while and for loops.  Was more challenging to get the syntax to work right but gave me a better understanding.
 
 **Link(s) to work:**
-1. [Python Beginner SIG - Completed basic logic: looping & iteration](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/commit/7ebe534d15d8db26ef2b3b3e5699aad587309c96)
+1. [Python Beginner SIG - Completed basic logic: looping & iteration](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/blob/396d96b43b47631a4b843d0ad3e1ee364cd10d67/basic_logic/looping_and_iteration.py)
 ---
 
 ## Day 25: March 21, 2019 - Thursday
