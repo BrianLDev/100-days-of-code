@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 24: March 20, 2019 - Wednesday
+
+**Today's Progress:**  
+Python Project night at Yelp - Beginner SIG.  Completed the 2 "getting started" challenges - getting_started.py and basic_functions.py.
+
+**Thoughts:**  
+Jumping back in to 100 days of code after a break to focus on a major project at work.
+Python Project night at Yelp - Went to the Beginner Special Interest Group (SIG) led by Simeon Franklin.  This was actually really good and a fresh, hands-on approach to learning code.  All interactive challenges are actual python programs that you run in terminal, and you create the functions that will make all the tests pass.  Paired up with a guy that was a little less familiat with github, git, and python than I am so it was also helpful to teach someone how to work through some of the challenges.  Like Richard Feinman says, "When 1 person teaches another, 2 people learn."
+
+**Link(s) to work:**
+1. [Python Beginner SIG - first 2 challenges completed](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/commit/ac326302726b21820c3f7b10048a3ecbf388ceed)
+---
+
 ## Day 23: February 24, 2019 - Sunday
 
 **Today's Progress:**  
