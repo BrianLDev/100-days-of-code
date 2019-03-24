@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 26: March 22, 2019 - Friday
+
+**Today's Progress:**  
+Continued with Python Project night at Yelp - Beginner SIG.  Completed basic logic: looping & iteration
+
+**Thoughts:**  
+Completed this using the most efficient string methods I was aware of.  But realized after that Simeon's intention was to do it using while and for loops to improve understanding of loops, so I redid the functions using while and for loops.  Was more challenging to get the syntax to work right but gave me a better understanding.
+
+**Link(s) to work:**
+1. [Python Beginner SIG - Completed basic logic: looping & iteration](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/commit/7ebe534d15d8db26ef2b3b3e5699aad587309c96)
+---
+
 ## Day 25: March 21, 2019 - Thursday
 
 **Today's Progress:**  
