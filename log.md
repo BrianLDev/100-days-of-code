@@ -1,9 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 25: March 21, 2019 - Thursday
+
+**Today's Progress:**  
+Continued with Python Project night at Yelp - Beginner SIG.  Completed basic logic: operators_and_if and indexing challenges (actually finished later that night on 3/20)
+
+**Thoughts:**  
+Loving these challenges.  Going to keep working through them all until I finish what Simeon has created so far (he's creating them on the fly and it's a WIP)
+
+**Link(s) to work:**
+1. [Python Beginner SIG - Completed basic logic: operators_and_if and indexing challenges](https://github.com/BrianLeip/2019-03-20_Python_Project_Night_Yelp/commit/efb84624ebebecacb3697404f18801b102d05096)
+---
+
 ## Day 24: March 20, 2019 - Wednesday
 
 **Today's Progress:**  
-Python Project night at Yelp - Beginner SIG.  Completed the 2 "getting started" challenges - getting_started.py and basic_functions.py.
+Python Project night at Yelp - Beginner SIG.  Set up repo, completed the 2 Gtting Started challenges - getting_started.py and basic_functions.py.
 
 **Thoughts:**  
 Jumping back in to 100 days of code after a break to focus on a major project at work.
