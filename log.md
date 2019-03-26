@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 29: March 25, 2019 - Monday
+
+**Today's Progress:**  
+Completed the first chapter and exercises for the Python for Financial Analysis and Algo Trading course.  01-Python Crash Course.  
+
+**Thoughts:**  
+After talking about all the different coding options with the guys at Py and Beer, I decided that my best and most relevant option at the moment is Python for Financial Analysis and Algo trading (Udemy course).  It's something that I actually started a while back and have been watching videos while I shower on my ipad, but this is a very hands on course and need to get my hands dirty in the code.  So far I'm actually really liking the course and going to keep rolling forward on it.
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading - 01 Python Crash Course](https://github.com/BrianLeip/Python_For_Finance/tree/master/01-Python-Crash-Course)
+---
+
 ## Day 28: March 24, 2019 - Sunday
 
 **Today's Progress:**  
