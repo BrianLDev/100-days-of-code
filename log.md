@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 28: March 24, 2019 - Sunday
+
+**Today's Progress:**  
+Went to Py and Beer meetup with Connor and crew.  Talked about a few Python projects, met some people and created some repos for Python challenges and Python Cookbook.
+
+**Thoughts:**  
+More of a networking / social day than a pure coding one but important to have those every now and then and connect with other people that are getitng into coding Python.
+
+**Link(s) to work:**
+1. [Python Cookbook repo setup and sample code downloaded](https://github.com/BrianLeip/Python_Cookbook)
+2. [PyBites Challenges repo set up and code downloaded](https://github.com/BrianLeip/PyBites_Challenges)
+---
+
 ## Day 27: March 23, 2019 - Saturday
 
 **Today's Progress:**  
