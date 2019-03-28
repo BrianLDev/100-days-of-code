@@ -3,6 +3,19 @@
 ## Day 29: March 25, 2019 - Monday
 
 **Today's Progress:**  
+Completed another section and examples of Python for Financial Analysis and Algo Trading course:
+02-NumPy
+
+**Thoughts:**  
+Cruising along and taking notes in Evernote as I go for future reference in Python, Numpy, and Pandas
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading - 01 Python Crash Course](https://github.com/BrianLeip/Python_For_Finance/tree/79507c031186126d19963db9623a68003d2f7e5d/02-NumPy)
+---
+
+## Day 29: March 25, 2019 - Monday
+
+**Today's Progress:**  
 Completed the first chapter and exercises for the Python for Financial Analysis and Algo Trading course.  01-Python Crash Course.  
 
 **Thoughts:**  
