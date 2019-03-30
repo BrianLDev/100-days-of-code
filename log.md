@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
-## Day 29: March 25, 2019 - Monday
+## Day 31: March 29, 2019 - Friday
+
+**Today's Progress:**  
+Started in on Python for Financial Analysis and Algo Trading course:
+03-DataFrames
+
+**Thoughts:**  
+Been a busy week at work, working late (until 2am on Thu) but want to keep moving on this too.  
+Starting in on DataFrames
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading 03 - Pandas - Started](https://github.com/BrianLeip/Python_For_Finance/tree/12675c460d4abd7108c310aa58cf4e557660536e/03-%20General%20Pandas)
+---
+
+## Day 30: March 27, 2019 - Wednesday
 
 **Today's Progress:**  
 Completed another section and examples of Python for Financial Analysis and Algo Trading course:
@@ -10,7 +24,7 @@ Completed another section and examples of Python for Financial Analysis and Algo
 Cruising along and taking notes in Evernote as I go for future reference in Python, Numpy, and Pandas
 
 **Link(s) to work:**
-1. [Python for Financial Analysis and Algo Trading - 01 Python Crash Course](https://github.com/BrianLeip/Python_For_Finance/tree/79507c031186126d19963db9623a68003d2f7e5d/02-NumPy)
+1. [Python for Financial Analysis and Algo Trading 02 - NumPy - Completed](https://github.com/BrianLeip/Python_For_Finance/tree/79507c031186126d19963db9623a68003d2f7e5d/02-NumPy)
 ---
 
 ## Day 29: March 25, 2019 - Monday
@@ -22,7 +36,7 @@ Completed the first chapter and exercises for the Python for Financial Analysis 
 After talking about all the different coding options with the guys at Py and Beer, I decided that my best and most relevant option at the moment is Python for Financial Analysis and Algo trading (Udemy course).  It's something that I actually started a while back and have been watching videos while I shower on my ipad, but this is a very hands on course and need to get my hands dirty in the code.  So far I'm actually really liking the course and going to keep rolling forward on it.
 
 **Link(s) to work:**
-1. [Python for Financial Analysis and Algo Trading - 01 Python Crash Course](https://github.com/BrianLeip/Python_For_Finance/tree/master/01-Python-Crash-Course)
+1. [Python for Financial Analysis and Algo Trading 01 Python Crash Course - Completed](https://github.com/BrianLeip/Python_For_Finance/tree/master/01-Python-Crash-Course)
 ---
 
 ## Day 28: March 24, 2019 - Sunday
