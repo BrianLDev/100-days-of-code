@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 32: March 30, 2019 - Saturday
+
+**Today's Progress:**  
+Completed most of Python for Financial Analysis and Algo Trading course:
+03-DataFrames
+
+**Thoughts:**  
+DataFrames are a super important part of Pandas (which is the Python version of Excel), so I want to know them inside and out until I can use Pandas as well or better than I've been able to use Excel over the 16 years using it.
+I'm taking detailed notes in EverNote as I go along and want to find a lot of DataFrame challenges (online or in a book) to keep practicing.
+Then the next thing I want to do is to take any work that I do in Excel, and recreate it in Pandas
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading 03 - Pandas - Mostly completed](https://github.com/BrianLeip/Python_For_Finance/tree/a644e0dcb0b9e35951f31e58e20c5f30216bbb7b)
+---
+
 ## Day 31: March 29, 2019 - Friday
 
 **Today's Progress:**  
