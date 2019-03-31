@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 33: March 31, 2019 - Sunday
+
+**Today's Progress:**  
+Completed Python for Financial Analysis and Algo Trading course:
+03-DataFrames
+
+**Thoughts:**  
+This was a big section compared to the previous 2 and I wanted to dive deep enough to really understand Pandas, and use all the methods, data imports/exports, data selction, .apply, lambda functions, and pivot tables.  Learned quite a bit and got great hands on experience. Going to continue practicing with Pandas, recreating Excel work in Pandas.
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading 03 - Pandas - Completed](https://github.com/BrianLeip/Python_For_Finance/tree/89fe1a71a13c4870fa47c4dcce5929ac900c816f/03-%20General%20Pandas)
+---
+
 ## Day 32: March 30, 2019 - Saturday
 
 **Today's Progress:**  
@@ -12,7 +25,7 @@ I'm taking detailed notes in EverNote as I go along and want to find a lot of Da
 Then the next thing I want to do is to take any work that I do in Excel, and recreate it in Pandas
 
 **Link(s) to work:**
-1. [Python for Financial Analysis and Algo Trading 03 - Pandas - Mostly completed](https://github.com/BrianLeip/Python_For_Finance/tree/a644e0dcb0b9e35951f31e58e20c5f30216bbb7b)
+1. [Python for Financial Analysis and Algo Trading 03 - Pandas - Mostly completed](https://github.com/BrianLeip/Python_For_Finance/tree/a644e0dcb0b9e35951f31e58e20c5f30216bbb7b/03-%20General%20Pandas)
 ---
 
 ## Day 31: March 29, 2019 - Friday
