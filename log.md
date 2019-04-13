@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 34: April 12, 2019 - Friday
+
+**Today's Progress:**  
+Completed Python for Financial Analysis and Algo Trading course:
+04-01-Matplotlib
+
+**Thoughts:**  
+Busy time at work with quarter end deadlines, not much time to code, but back at it now.  
+Matplotlib is a universal data viz library for Python and this section barely scratched the surface.  The course focused too much on watching examples and not enough on actual coding which is where you actually learn, so I'll have to spend more time doing that on my own.
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading 04-01-Matplotlib - Completed](https://github.com/BrianLeip/Python_For_Finance/tree/86950623fc5dbc09fc5a7ba2e3e01347232be136/04-Visualization-Matplotlib-Pandas/04-01-Matplotlib)
+---
+
 ## Day 33: March 31, 2019 - Sunday
 
 **Today's Progress:**  
