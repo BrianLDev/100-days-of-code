@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 35: April 13, 2019 - Saturday
+
+**Today's Progress:**  
+Completed Python for Financial Analysis and Algo Trading course:
+04-01-Pandas Visualization
+
+**Thoughts:**  
+Good day, spent about 3-4 hours on this, taking detailed notes and practicing all the different Pandas data viz.  Area plots, box plots, scatter plots, hex bin plots. Different styles of data viz (personal favorite is 'seaborn-deep').  Colormap styles (favorite here is 'coolwarm').  Saving figures to files like JPG, PNG, and PDF.  And visualizing time series stock data.  Loved all of this and will be using this often in both work and personal.
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading 04-01-Pandas Visualization - Completed](https://github.com/BrianLeip/Python_For_Finance/tree/abb8860b17a31bf0660bc86c9cbc0238da9390ae/04-Visualization-Matplotlib-Pandas/04-02-Pandas%20Visualization)
+2. [Example of Area Plot with semi transparency, legend outside of figure, and saved to JPG](https://raw.githubusercontent.com/BrianLeip/Python_For_Finance/90f76ce1df5a869dcd5362d72bba2c23db170e00/04-Visualization-Matplotlib-Pandas/04-02-Pandas%20Visualization/AreaPlot.jpg)
+---
+
 ## Day 34: April 12, 2019 - Friday
 
 **Today's Progress:**  
