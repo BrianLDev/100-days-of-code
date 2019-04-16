@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 36: April 15, 2019 - Monday
+
+**Today's Progress:**  
+Completed Python for Financial Analysis and Algo Trading course:
+05-Data Sources
+
+**Thoughts:**  
+Quick section but a great one to get access to free Python data sources that have stock data, housing data, Federal Reserve, etc.  2 main options: Pandas Datareader, and Quandl.  The Wiki EOD stock prices free data is no longer available on Quandl so I'll use Pandas Datareader and access IEX instead.
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading 05-Data Sources- Completed](https://github.com/BrianLeip/Python_For_Finance/tree/6ec4e21fc8b31f891a1eca63c74e71f4c0a6e0bf/06-Data-Sources)
+
 ## Day 35: April 13, 2019 - Saturday
 
 **Today's Progress:**  
 Completed Python for Financial Analysis and Algo Trading course:
-04-01-Pandas Visualization
+04-02-Pandas Visualization
 
 **Thoughts:**  
 Good day, spent about 3-4 hours on this, taking detailed notes and practicing all the different Pandas data viz.  Area plots, box plots, scatter plots, hex bin plots. Different styles of data viz (personal favorite is 'seaborn-deep').  Colormap styles (favorite here is 'coolwarm').  Saving figures to files like JPG, PNG, and PDF.  And visualizing time series stock data.  Loved all of this and will be using this often in both work and personal.
