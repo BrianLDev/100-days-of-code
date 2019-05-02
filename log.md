@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 38: April 26, 2019 - Friday
+
+**Today's Progress:**  
+Created git repo and folder structure for the upcoming Machine Learning and Deep Learning bootcamp (4 weekends)
+
+**Thoughts:**  
+Work has been rough lately with a few late nights, one to 4am, but with the upcoming ML and DL bootcamp coming up I'm excited to get back into coding.
+
+**Link(s) to work:**
+1. [Set up git repo and README.MD for upcoming ML and DL bootcamp](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/tree/b3a7bc7cc406fcba48f702106d557ab6244e57b6)
+
 ## Day 37: April 17, 2019 - Wednesday
 
 **Today's Progress:**  
