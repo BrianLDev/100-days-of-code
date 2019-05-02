@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 39: April 27, 2019 - Saturday
+
+**Today's Progress:**  
+Day 1 of 8 - ML and DL bootcamp.  
+- We walked through the End to End Titanic Data Cleaning and ML Kaggle competition
+- Unscrambled a version of the Titanic Jupyter notebook that had all steps in mixed up orders.  Challenge for class
+- As a class we walked through the CA house price linear regression Jupyter Notebook
+
+**Thoughts:**  
+Most of this was review from the previous sessions that I've had with ML Academy and Venkatesh.  Where I left off last time was starting in on Housing Prices / MNIST handwritten digit recognition.  
+
+The CA House price linear regression was most interesting to me, and unfortunately we only did a surface level overview of in in class.  But there is a book that Venkatesh used for this entire course that dives into this example in much more depth so I plan to do that when time permits.  Book is called [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS/) and it's wideley regarded as one of the best books out there to grok Machine Learning and Deep Learning.  As of today it's ranked 4.4/5 with 268 reviews on Amazon.  [The 2nd edition of Hands-On ML](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) is in the works and is expected to be released Aug 4, 2019.  I'll stick with the 1st edition for now and then wait for the Kindle edition.
+
+**Link(s) to work:**
+1. [End to End Titanic ML Kaggle competition - Completed ](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/blob/3824bef06dda07fa61c39e45d7625fffc9d76050/01-Intro%20to%20ML/End_to_End_Titanic_(4).ipynb)
+2. [Titanic unscramble challenge - Completed](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/blob/3824bef06dda07fa61c39e45d7625fffc9d76050/01-Intro%20to%20ML/Titanic_Kaggle_Jumbled_Challenge.ipynb)
+3. [CA house price linear regression in-class walkthrough - Completed](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/blob/3824bef06dda07fa61c39e45d7625fffc9d76050/01-Intro%20to%20ML/CA_House_Pricing.ipynb)
+
 ## Day 38: April 26, 2019 - Friday
 
 **Today's Progress:**  
