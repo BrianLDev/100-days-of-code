@@ -1,9 +1,27 @@
 # 100 Days Of Code - Log
 
+## Day 40: April 28, 2019 - Sunday
+
+**Today's Progress:**  
+### Day 2 of 8 - ML and DL bootcamp
+- In class walkthrough of the MNIST handwritten numbers / digits recognition and classification Jupyter Notebook
+- Google Cloud Platform (GCP) Course 2: Module 1 - Completed
+
+**Thoughts:**  
+This was similar to what I covered in previous weekend course with ML Academy (I had done the 1st of 4 weekends, and then scheduling conflicts meant I had to complete the other 3 weeks later). 
+
+MNIST handwritten number recognition done in class, but this was very surface level as well.  Will need to dig deeper during my "free time" to really understand everything.
+
+We also ended up spending a lot of class time on starting the Google Cloud Platform certification course, which is a separate course that Venkatesh teaches and being heavily promoted by Google (I went to another meetup that granted free access to this course, $300 in free credits, etc).  While it's interesting and was cool to see our Housing Price prediction ML algorithm integrated into a web app, at the same time it felt like a distraction from the ML and DL course that we are actually focused on.  Venkatesh encouraged all of us to get GCP certified, which if I had the time I would do, but since time is a rare commodity these days I have to narrow my focus to only the core things I want to hone in on right now.  And that is ML and DL.  
+
+**Link(s) to work:**
+1. [MNIST Classification Jupyter Notebook (handwritten digit recognition) - Completed](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/blob/61637fdf5eb5fed057ec6b518cb3cdbd1b07d517/01-Intro%20to%20ML/MNIST_Simple.ipynb)
+2. [Architecting with Google Cloud Platform (GCP) Coursera Course - Course 2: Module 1 - Completed](https://www.coursera.org/learn/gcp-infrastructure-foundation/home/welcome)
+
 ## Day 39: April 27, 2019 - Saturday
 
 **Today's Progress:**  
-Day 1 of 8 - ML and DL bootcamp.  
+### Day 1 of 8 - ML and DL bootcamp
 - We walked through the End to End Titanic Data Cleaning and ML Kaggle competition
 - Unscrambled a version of the Titanic Jupyter notebook that had all steps in mixed up orders.  Challenge for class
 - As a class we walked through the CA house price linear regression Jupyter Notebook
