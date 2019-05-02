@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 37: April 17, 2019 - Wednesday
+
+**Today's Progress:**  
+Started Python for Financial Analysis and Algo Trading course:
+06-Pandas With Time Series
+
+**Thoughts:**  
+Starting in on the Pandas w/ Time Series section.  Getting very busy with deadlines at work so won't have much time to work on this in the near future.
+
+**Link(s) to work:**
+1. [Python for Financial Analysis and Algo Trading 06-Pandas With Time Series - Started](https://github.com/BrianLeip/Python_For_Finance/tree/e68ad5c3731c6331ebffd77232b2ae679b30a326/06-Pandas-with-Time-Series)
+
 ## Day 36: April 15, 2019 - Monday
 
 **Today's Progress:**  
@@ -7,10 +19,10 @@ Completed Python for Financial Analysis and Algo Trading course:
 05-Data Sources
 
 **Thoughts:**  
-Quick section but a great one to get access to free Python data sources that have stock data, housing data, Federal Reserve, etc.  2 main options: Pandas Datareader, and Quandl.  The Wiki EOD stock prices free data is no longer available on Quandl so I'll use Pandas Datareader and access IEX instead.
+Quick section but a useful one to get access to free Python data sources that have stock data, housing data, Federal Reserve, etc.  2 main options: Pandas Datareader, and Quandl.  The Quandl Wiki EOD stock prices free data is no longer available so I'll use Pandas Datareader and access IEX for stock data instead.
 
 **Link(s) to work:**
-1. [Python for Financial Analysis and Algo Trading 05-Data Sources- Completed](https://github.com/BrianLeip/Python_For_Finance/tree/6ec4e21fc8b31f891a1eca63c74e71f4c0a6e0bf/06-Data-Sources)
+1. [Python for Financial Analysis and Algo Trading 05-Data Sources - Completed](https://github.com/BrianLeip/Python_For_Finance/tree/6ec4e21fc8b31f891a1eca63c74e71f4c0a6e0bf/06-Data-Sources)
 
 ## Day 35: April 13, 2019 - Saturday
 
