@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 41: April 30, 2019 - Tuesday
+
+**Today's Progress:**  
+Figured out how to filter over large files (100MB+) from previous git commits - MNIST.csv
+
+**Thoughts:**  
+Github was giving me an error message when I pushed my previous commits including a large 100MB+ file to github, saying the file was too large.  Deleting it from the current folder and repo wasn't working because Git saves all historic files.  So I had 2 options: 
+1. Revert to a previous commit and re-add the new files including a zipped version of the MNIST data.  The downside of this is that I would lose my commit history from 4/28
+2. Filter out / prune that file from my commit history
+
+After some google-fu and searching through Stack overflow, a few different solutions came up, and the one below was the best.
+
+`git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch <file/dir>' HEAD`
+
+**Link(s) to work:**
+1. [Figured out how to filter over large files (100MB+) from previous git commits - MNIST.csv](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/tree/1b6aca805b9715cb2b1b613abf295eb71d2c6d5d/01-Intro%20to%20ML)
+2. [Stack Overflow - How to remove large files from git commit history](https://stackoverflow.com/questions/19573031/cant-push-to-github-because-of-large-file-which-i-already-deleted)
+
 ## Day 40: April 28, 2019 - Sunday
 
 **Today's Progress:**  
