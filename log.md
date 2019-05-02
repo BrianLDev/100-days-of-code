@@ -1,9 +1,24 @@
 # 100 Days Of Code - Log
 
+## Day 42: May 1, 2019 - Wednesday
+
+**Today's Progress:**  
+*Hands On ML Book*
+- Set up git repo and downloaded source code from official github
+- Read Ch 1 and part of Ch2
+- Took notes of important points in Chapter 1
+
+**Thoughts:**  
+This book is amazing...  Very readable, and packed with real life hands on applications of Machine Learning and Deep Learning.  Hands-On is always the way that I learn best so I'm going to continue working through this book during the weekdays (as time permits of course) and go through the in-class examples at the ML bootcamp, which is more of a surface level overview and interactive workshop compared to how deep and detailed the book is. They will be good complements to each other.
+
+**Link(s) to work:**
+1. [Hands On ML Book - Set up git repo and downloaded source code from official github, read Ch 1 and part of Ch2](https://github.com/BrianLeip/Hands_On_Machine_Learning/tree/715587fb98f9c10fd98eda28e1266f7d928202c1/00-handson-ml-master)
+2. [Hands On ML Book - Notes from Chapter 1](https://github.com/BrianLeip/Hands_On_Machine_Learning/blob/715587fb98f9c10fd98eda28e1266f7d928202c1/01-The%20ML%20Landscape/01-NOTES.MD)
+
 ## Day 41: April 30, 2019 - Tuesday
 
 **Today's Progress:**  
-Figured out how to filter over large files (100MB+) from previous git commits - MNIST.csv
+Figured out how to filter out large files (100MB+) from previous git commits
 
 **Thoughts:**  
 Github was giving me an error message when I pushed my previous commits including a large 100MB+ file to github, saying the file was too large.  Deleting it from the current folder and repo wasn't working because Git saves all historic files.  So I had 2 options: 
@@ -15,7 +30,7 @@ After some google-fu and searching through Stack overflow, a few different solut
 `git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch <file/dir>' HEAD`
 
 **Link(s) to work:**
-1. [Figured out how to filter over large files (100MB+) from previous git commits - MNIST.csv](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/tree/1b6aca805b9715cb2b1b613abf295eb71d2c6d5d/01-Intro%20to%20ML)
+1. [Figured out how to filter over large files (100MB+) from previous git commits - MNISTdata.csv](https://github.com/BrianLeip/ML_and_DL_Bootcamp_2019/tree/1b6aca805b9715cb2b1b613abf295eb71d2c6d5d/01-Intro%20to%20ML)
 2. [Stack Overflow - How to remove large files from git commit history](https://stackoverflow.com/questions/19573031/cant-push-to-github-because-of-large-file-which-i-already-deleted)
 
 ## Day 40: April 28, 2019 - Sunday
