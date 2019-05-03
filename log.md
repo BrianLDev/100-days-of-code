@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 43: May 2, 2019 - Thursday
+
+**Today's Progress:**  
+*Hands-On ML Book*
+- Read through chapter 1 and part of chapter 2
+- Took notes on chapter 1 using markdown `01-NOTES.MD`
+- Re-ran original source code from Ch 1 and part of Ch 2 in Jupyter notebook
+- Started working through the CA Housing Price regression notebook from Ch 2
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [Took notes on ch 1, going through Jupyter notebooks from ch1 and 2](https://github.com/BrianLeip/Hands_On_Machine_Learning/blob/dcf8a62c11b8d449f14fd446808b2364995baab0/01-The%20ML%20Landscape/01-NOTES.MD)
+
 ## Day 42: May 1, 2019 - Wednesday
 
 **Today's Progress:**  
