@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 46: May 6, 2019 - Monday
+
+**Today's Progress:**  
+- Titanic Kaggle using ANN - Tweaking and testing the inputs to the ANN to see what impacts it
+
+**Thoughts:**  
+note - couldn't make it to ML bootcamp day 4 since I rented my car out on Turo.  
+
+Made a few tweaks to the Titanic ANN inputs to see what affects the result.  Still not able to get results over 70% so will need to keep leaerning.
+
+**Link(s) to work:**
+1. [Titanic Kaggle using ANN - Tweaking and testing the inputs to the ANN to see what impacts it](n)
+
 ## Day 45: May 4, 2019 - Saturday
 
 **Today's Progress:**  
@@ -10,8 +23,11 @@
 - I completed the Titanic kaggle ANN using the Kaggle test data and submitted
 
 **Thoughts:**  
-Venkat switched up the agenda and instead of doing Advanced ML (time series, stock data, random forests), he skipped to Intro to Deep Learning.  Personally I was really looking forward to Advanced ML (time series, stock data, random forests) but will have to wait until next week.
+Venkat switched up the agenda and instead of doing Advanced ML (time series, stock data, random forests), he skipped to Intro to Deep Learning.  Personally I was really looking forward to Advanced ML (time series, stock data, random forests) but will have to wait until next week.  
 
+Artificial Neural Networks are very interesting and powerful and we barely scratched the surface here. Need to dive deeper in the future.  
+
+Interestingly, the ANN only got 64% success rate on Titanic, where the simpler logistic regression previously got 74%.  Plan to tweak inputs and read about them to understand how to improve it.
 
 **Link(s) to work:**
 1. [Created repo for Titanic Kaggle](https://github.com/BrianLeip/Kaggle_Titanic)
