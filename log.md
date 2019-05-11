@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 45: May 4, 2019 - Saturday
+
+**Today's Progress:**  
+*ML bootcamp - day 3 of 8*
+- Intro to Deep Learning:
+  - Titanic kaggle using artificial neural network (start)
+  - Neural network strctures (perceptrons, neurons, etc)
+- I completed the Titanic kaggle ANN using the Kaggle test data and submitted
+
+**Thoughts:**  
+Venkat switched up the agenda and instead of doing Advanced ML (time series, stock data, random forests), he skipped to Intro to Deep Learning.  Personally I was really looking forward to Advanced ML (time series, stock data, random forests) but will have to wait until next week.
+
+
+**Link(s) to work:**
+1. [Created repo for Titanic Kaggle](https://github.com/BrianLeip/Kaggle_Titanic)
+2. [Titanic Kaggle using Artificial Neural Network (ANN) - In class model training, converted to Jupyter notebook](https://github.com/BrianLeip/Kaggle_Titanic/blob/d4def6e8eb4deb06e893f31d4cd97847fd1c9b0d/Titanic%20ANN%20v1%20(2019-BL).ipynb)
+3. [Titanic Kaggle using Artificial Neural Network (ANN) - Ran ANN on Kaggle test data, submitted results](https://github.com/BrianLeip/Kaggle_Titanic/blob/dc2cf459fe6e9a3c11ee19f307ca4d7e26b3d779/Titanic%20ANN%20v1%20(2019-BL).ipynb)
+
 ## Day 44: May 3, 2019 - Friday
 
 **Today's Progress:**  
