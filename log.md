@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 44: May 3, 2019 - Friday
+
+**Today's Progress:**  
+*Hands-On ML Book*
+- Updated README.MD, updated 01-NOTES.MD for improved formatting, nested lists
+
+**Thoughts:**  
+Light day - will have a bigger one tomorrow with ML bootcamp
+
+**Link(s) to work:**
+1. [Updated notes from ch 01 - Hands on ML book](https://github.com/BrianLeip/Hands_On_Machine_Learning/blob/e3db1e99b2a890cea1587d2d60d572c7839af3f8/01-The%20ML%20Landscape/01-NOTES.MD)
+
 ## Day 43: May 2, 2019 - Thursday
 
 **Today's Progress:**  
@@ -10,7 +22,7 @@
 - Started working through the CA Housing Price regression notebook from Ch 2
 
 **Thoughts:**  
-
+Still liking the hands on ML book as a more in-depth tie in with the ML Academy bootcamp.  But I'm not a big fan of the coding style so far.  Funny how someone can have such a readable and approachable and clean English writing style and then their coding style is less so.  
 
 **Link(s) to work:**
 1. [Took notes on ch 1, going through Jupyter notebooks from ch1 and 2](https://github.com/BrianLeip/Hands_On_Machine_Learning/blob/dcf8a62c11b8d449f14fd446808b2364995baab0/01-The%20ML%20Landscape/01-NOTES.MD)
