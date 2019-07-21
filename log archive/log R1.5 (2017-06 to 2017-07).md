@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log (Round 1.5)
 
 ## Day 6: July 5, 2017 - Wednesday
 
@@ -8,6 +8,7 @@
 
 **Link(s) to work:**
 1. [Excel VBA progress](https://github.com/BrianLeip/ExcelVBACourse/commit/f9e9791a1bf6a4a69d225af6ce143196cefba942)
+---
 
 ## Day 5: July 4, 2017 - Tuesday
 
@@ -17,6 +18,7 @@
 
 **Link(s) to work:**
 1. [Excel VBA progress](https://github.com/BrianLeip/ExcelVBACourse/commit/d7915e588d424ae02eb5e2aa68619c10fc6d12b3)
+---
 
 ## Day 4: June 30, 2017 - Friday
 
@@ -27,6 +29,7 @@
 **Link(s) to work:**
 1. [Machine Learning (Coursera) - Week 2 - Gradient Descent multi](https://github.com/BrianLeip/MachineLearning-Coursera/commit/a06b88ef6d3b7876f81f9c4a4f526b5ad4e257de)
 2. [Machine Learning (Coursera) - Week 2 - Normal equation](https://github.com/BrianLeip/MachineLearning-Coursera/commit/e5cbffc8759f8d1b1dc9d589dbb37d773bcad3b5)
+---
 
 ## Day 3: June 29, 2017 - Thursday
 
@@ -36,6 +39,7 @@
 
 **Link(s) to work:**
 1. [Machine Learning (Coursera) - Week 2 - Feature Normalization](https://github.com/BrianLeip/MachineLearning-Coursera/commit/11f72d7f8c2dc91afbb3f488bf1c18924b304103)
+---
 
 ## Day 2: June 26, 2017 - Monday
 
@@ -45,6 +49,7 @@
 
 **Link(s) to work:**
 1. [Machine Learning (Coursera) - Week 2 - Gradient Descent](https://github.com/BrianLeip/MachineLearning-Coursera/commit/5d4fb69a4b64e11ee2691d94c6c3465a4645dab2)
+---
 
 ## Day 1: June 20, 2017 - Tuesday
 
