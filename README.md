@@ -2,9 +2,12 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+## Logs
+* [Log - click here to see my progress](log.md)
+* [Log Archive - logs from previous 100 days of code challenges](https://github.com/BrianLeip/100-days-of-code/tree/master/log%20archive)
 
 ## If you've decided to join:
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
