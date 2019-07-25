@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D4: July 23, 2019 - Tuesday
+
+**Today's Progress:**  
+*Automate the Boring Stuff with Python*
+- Read about half of ch 6: Manipulating Strings
+- completed validateInput.py
+
+**Thoughts:**  
+Was feeling terrible today and stayed home sick.  Still got a little coding in.
+
+**Link(s) to work:**
+1. [06_validateInput.py](https://github.com/BrianLeip/Automate_With_Python/blob/ad63aa68994b51e93ae04d211585dfa33f9d0b28/01-Python%20Basics/06_validateInput.py)
+---
+
 ## R4D3: July 22, 2019 - Monday
 
 **Today's Progress:**  
