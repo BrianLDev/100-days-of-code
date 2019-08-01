@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log (Round 4)
 
-## R4D4: July 23, 2019 - Tuesday
+## R4D6: July 26, 2019 - Friday
+
+**Today's Progress:**  
+*Automate the Boring Stuff with Python*
+- Created picnicTable.py - uses .ljust() and .rjust() to format text output.
+
+**Thoughts:**  
+Still got a little coding in today even though I'm extremely busy at work and also flying out to Montana for a family reunion today. Back from reunion on Monday and the last major deadline at work is on Tuesday, so free time will be sparse until Wed next week but will code as often as I can.
+
+**Link(s) to work:**
+1. [06_picnicTable.py](https://github.com/BrianLeip/Automate_With_Python/blob/3a97db84b28bc55ebe403e7a2f8a9531782bf0da/01-Python%20Basics/06_picnicTable.py)
+---
+
+## R4D5: July 24, 2019 - Wednesday
 
 **Today's Progress:**  
 *Automate the Boring Stuff with Python*
@@ -14,7 +27,7 @@ Was feeling terrible today and stayed home sick.  Still got a little coding in.
 1. [06_validateInput.py](https://github.com/BrianLeip/Automate_With_Python/blob/ad63aa68994b51e93ae04d211585dfa33f9d0b28/01-Python%20Basics/06_validateInput.py)
 ---
 
-## R4D3: July 22, 2019 - Monday
+## R4D4: July 23, 2019 - Tuesday
 
 **Today's Progress:**  
 *Automate the Boring Stuff with Python*
