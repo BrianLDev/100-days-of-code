@@ -1,10 +1,23 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D8: July 31, 2019 - Wednesday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Created 06_pw.py password locker (Note - need to install pyperclip module for it to work.  `pip install pyperclip`)
+
+**Thoughts:**  
+After an long stretch of being insanely busy, the major work deadlines are done and family reunion is over.  Time to get back in the coding groove.
+
+**Link(s) to work:**
+1. [06_pw.py - Password Locker](https://github.com/BrianLeip/Automate_With_Python/blob/3dc4c7df743e591de337c98f5a179b9d37560b76/01-Python%20Basics/06_pw.py)
+---
+
 ## R4D7: July 28, 2019 - Sunday
 
 **Today's Progress:**  
 - **Automate the Boring Stuff with Python**
-  - Updated the picnicTable.py printout so that it auto-determines the left and right with based on the length of the data in the dictionary.  Looks nicer and makes it easier to call the function
+  - Improved the picnicTable.py printout so that it auto-determines the left and right with based on the length of the data in the dictionary.  Looks nicer and makes it easier to call the function
 
 **Thoughts:**  
 Spending as much time with friends and family as I can this weekend during the family reunion.  40 adults and 20 kids showed up and I haven't seen or talked to most of them in 20 years or so.  Still carving out time when I can to code.
