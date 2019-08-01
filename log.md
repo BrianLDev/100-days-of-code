@@ -1,10 +1,23 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D7: July 28, 2019 - Sunday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Updated the picnicTable.py printout so that it auto-determines the left and right with based on the length of the data in the dictionary.  Looks nicer and makes it easier to call the function
+
+**Thoughts:**  
+Spending as much time with friends and family as I can this weekend during the family reunion.  40 adults and 20 kids showed up and I haven't seen or talked to most of them in 20 years or so.  Still carving out time when I can to code.
+
+**Link(s) to work:**
+1. [Improvements to 06_picnicTable.py](https://github.com/BrianLeip/Automate_With_Python/blob/18d1f583fd98bdbf9e22392b13384affc073215d/01-Python%20Basics/06_picnicTable.py)
+---
+
 ## R4D6: July 26, 2019 - Friday
 
 **Today's Progress:**  
-*Automate the Boring Stuff with Python*
-- Created picnicTable.py - uses .ljust() and .rjust() to format text output.
+- **Automate the Boring Stuff with Python**
+  - Created picnicTable.py - uses .ljust() and .rjust() to format text output.
 
 **Thoughts:**  
 Still got a little coding in today even though I'm extremely busy at work and also flying out to Montana for a family reunion today. Back from reunion on Monday and the last major deadline at work is on Tuesday, so free time will be sparse until Wed next week but will code as often as I can.
@@ -16,9 +29,9 @@ Still got a little coding in today even though I'm extremely busy at work and al
 ## R4D5: July 24, 2019 - Wednesday
 
 **Today's Progress:**  
-*Automate the Boring Stuff with Python*
-- Read about half of ch 6: Manipulating Strings
-- completed validateInput.py
+- **Automate the Boring Stuff with Python**
+  - Read about half of ch 6: Manipulating Strings
+  - completed validateInput.py
 
 **Thoughts:**  
 Was feeling terrible today and stayed home sick.  Still got a little coding in.
@@ -30,10 +43,10 @@ Was feeling terrible today and stayed home sick.  Still got a little coding in.
 ## R4D4: July 23, 2019 - Tuesday
 
 **Today's Progress:**  
-*Automate the Boring Stuff with Python*
-- 05 Dictionaries - Practice questions
-- made 05_fantasyGameInventory.py using Dictionaries
-- created a funtion that can add loot (items in a list) to the fantasy game inventory (Dictionary)
+- **Automate the Boring Stuff with Python**
+  - 05 Dictionaries - Practice questions
+  - made 05_fantasyGameInventory.py using Dictionaries
+  - created a funtion that can add loot (items in a list) to the fantasy game inventory (Dictionary)
 
 **Thoughts:**  
 Another long day but I kicked ass at work and made sure to get some coding in too.  Keepin that streak going.
@@ -47,9 +60,9 @@ Another long day but I kicked ass at work and made sure to get some coding in to
 ## R4D3: July 22, 2019 - Monday
 
 **Today's Progress:**  
-*Automate the Boring Stuff with Python*
-- read through ch 5: Dictionaries
-- completed 2 sample programs along the way: 05_characterCount.py and 05_prettyCharacterCount.py
+- **Automate the Boring Stuff with Python**
+  - read through ch 5: Dictionaries
+  - completed 2 sample programs along the way: 05_characterCount.py and 05_prettyCharacterCount.py
 
 **Thoughts:**  
 13+ hour day at work and I'm beat.  Still had to get some coding in and made it happen.
@@ -61,10 +74,10 @@ Another long day but I kicked ass at work and made sure to get some coding in to
 ## R4D2: July 21, 2019 - Sunday
 
 **Today's Progress:**  
-*Automate the Boring Stuff with Python*
-- Much improved README.md for this repo
-- Completed ch 3: Functions - all Practice Questions and Projects
-- Completed ch 4: Lists - all Practice Questions and Projects
+- **Automate the Boring Stuff with Python**
+  - Much improved README.md for this repo
+  - Completed ch 3: Functions - all Practice Questions and Projects
+  - Completed ch 4: Lists - all Practice Questions and Projects
 
 **Thoughts:**  
 Cruising through these so that I can get to the fun projects starting in chapter 7
@@ -84,10 +97,10 @@ Cruising through these so that I can get to the fun projects starting in chapter
 ## R4D1: July 20, 2019 - Saturday
 
 **Today's Progress:**  
-*Automate the Boring Stuff with Python*
-- Completed 01 Python Basics - Practice Questions
-- Completed 02 Flow Control - Practice Questions
-- rearranged the files and folders a bit
+- **Automate the Boring Stuff with Python**
+  - Completed 01 Python Basics - Practice Questions
+  - Completed 02 Flow Control - Practice Questions
+  - rearranged the files and folders a bit
 
 **Thoughts:**  
 Cruising through these so that I can get to the fun projects starting in chapter 7
