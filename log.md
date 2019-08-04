@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D10: August 2, 2019 - Friday
+
+**Today's Progress:**  
+- Created prank.py - a python script that replaces what's in the clipboard with a random fun phrase like `"This is the FBI.  Do not move.  We will arrive shortly"`.
+- The script also has a nice section that checks if pyperclip has already been installed on their computer and if not, it automatically runs `pip install pyperclip`
+- Now I just need to figure out how to link this to the Ctrl+C keyboard shortcut, put it on someone's computer, and then watch with childish glee
+
+**Thoughts:**  
+This was a fun one, and love that I'm already able to start making my own little programs using the Automate with Python book
+
+**Link(s) to work:**
+1. [prank.py](https://github.com/BrianLeip/Automate_With_Python/blob/2148fe6c7df613cfb8413fd80e8129a55234eedd/01-Python%20Basics/prank.py)
+---
+
+## R4D9: August 1, 2019 - Thursday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - 06-Strings: Created bullet point adder python script
+
+**Thoughts:**  
+Very tired today, but still got in some coding.  This was a pretty interesting one actually because it took hidden text in the clipboard (when you Ctrl+C copy from a website), then manipulates it and replaces the clipboard with an updated version.  I can imagine that people have played some fun pranks by messing with someones clipboard :)
+
+**Link(s) to work:**
+1. [06_bulletPointAdder.py](https://github.com/BrianLeip/Automate_With_Python/blob/c67d8fc500ae47238cf9aca0a3657f201834359b/01-Python%20Basics/06_bulletPointAdder.py)
+---
+
 ## R4D8: July 31, 2019 - Wednesday
 
 **Today's Progress:**  
