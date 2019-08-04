@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D11: August 3, 2019 - Saturday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - 06-Strings: Practice Questions
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [06-Strings: Practice Questions](https://github.com/BrianLeip/Automate_With_Python/blob/990735072135c500d18aec03fc3e81b759c1f1e6/01-Python%20Basics/06%20String%20Manipulation%20-%20Practice%20Questions.md)
+---
+
 ## R4D10: August 2, 2019 - Friday
 
 **Today's Progress:**  
