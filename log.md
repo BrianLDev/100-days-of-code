@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D12: August 4, 2019 - Sunday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - 06-Strings: Table printer (practice project) 
+    - takes a 2D nested list of strings and prints them out in a nice format with all data right justified in each column which is adjusted to the right width and each sublist item paired with the other sublist items
+  - Completed the Strings chapter
+- **General**
+  - Set up a complete coding environment on my PC in orange county
+  - Installed the new windows terminal
+  - Created a custom color theme for windows terminal
+  - Added WakaTime extension to VS Code
+
+
+**Thoughts:**  
+Got VS Code, anaconda, python, etc all set up on my PC back in Orange County.  Wanted to switch up the coding environment to windows to make sure that I can code anywhere on any system.  Also installed the new windows terminal, set up a custom theme on it, and installed WakaTime so that I can track how much time I spend coding each day and on different projects.
+
+Also, it feels **great** to be done with the Strings chapter!  With my busy schedule that one took longer than expected.  That was the last chapter in the python programming basics section so now it's on to the fun stuff - Automating Tasks.
+
+**Link(s) to work:**
+1. [06_tablePrinter.py](https://github.com/BrianLeip/Automate_With_Python/blob/eaa0c0a9ac88fdb0c54482419b9c65f4af2d074e/01-Python%20Basics/06_tablePrinter.py)
+---
+
 ## R4D11: August 3, 2019 - Saturday
 
 **Today's Progress:**  
