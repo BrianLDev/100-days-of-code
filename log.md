@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D13: August 5, 2019 - Monday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - 07 RegEx - created isPhoneNumber.py - a quick script that checks if a chunk of text in a string is a phone number.  Meant as an early comparison to show how much easier it will be to use RegEx instead later in the chapter.
+
+**Thoughts:**  
+Slammed as usual with both work and getting the condo ready for sale.  But making sure to continue carving out time to code.
+
+**Link(s) to work:**
+1. [isPhoneNumber.py](https://github.com/BrianLeip/Automate_With_Python/blob/4a7d70ad4bf13ef6389f753f340fae397ed91689/07-Pattern%20Matching/isPhoneNumber.py)
+---
+
 ## R4D12: August 4, 2019 - Sunday
 
 **Today's Progress:**  
