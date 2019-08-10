@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D15: August 7, 2019 - Wednesday
+
+**Today's Progress:**  
+- **DataQuest**
+  - Mission 200 - variables and data types
+  - Mission 312 - Lists and for loops
+
+**Thoughts:**  
+Bought DataQuest 1 year subscription while it was 50% off, so thought I would give it a try and take a brief break from the Automate with Python Regex chapter
+
+**Link(s) to work:**
+1. [Mission 200 - variables and data types](https://github.com/BrianLeip/DataQuest/blob/eaa56b77e0f946502a5e5991ff7bc2925c870be9/01-Python%20Intro/01-Python%20Fundamentals/mission-200-variables-and-data-types-takeaways.pdf)
+2. [Mission 312 - Lists and for loops](https://github.com/BrianLeip/DataQuest/blob/4fe72c3680ea9cb030805aafdc004c9870242a2a/01-Python%20Intro/01-Python%20Fundamentals/mission-312-lists-and-for-loops-takeaways.pdf)
+---
+
 ## R4D14: August 6, 2019 - Tuesday
 
 **Today's Progress:**  
