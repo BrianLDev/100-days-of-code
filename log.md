@@ -1,17 +1,30 @@
 # 100 Days Of Code - Log (Round 4)
 
-## R4D16: August 8, 2019 - Thursday
+## R4D17: August 9, 2019 - Friday
 
 **Today's Progress:**  
 - **DataQuest**
   - Mission 312 - Lists and for loops
 
 **Thoughts:**  
+Continuing onward with DataQuest.  These intro courses are basic... may skip to the next section or just cruise through as fast as possible
+
+**Link(s) to work:**
+1. [Mission 312 - Lists and for loops](https://github.com/BrianLeip/DataQuest/blob/4fe72c3680ea9cb030805aafdc004c9870242a2a/01-Python%20Intro/01-Python%20Fundamentals/mission-312-lists-and-for-loops-takeaways.pdf)
+---
+
+## R4D16: August 8, 2019 - Thursday
+
+**Today's Progress:**  
+- **DataQuest**
+  - Mission 311 - Programming in Python
+
+**Thoughts:**  
 18+ hour day at work.  So damned tired...  
 Continued DataQuest
 
 **Link(s) to work:**
-1. [Mission 312 - Lists and for loops](https://github.com/BrianLeip/DataQuest/blob/4fe72c3680ea9cb030805aafdc004c9870242a2a/01-Python%20Intro/01-Python%20Fundamentals/mission-312-lists-and-for-loops-takeaways.pdf)
+1. [Mission 311 - Programming in Python](https://github.com/BrianLeip/DataQuest/blob/4fe72c3680ea9cb030805aafdc004c9870242a2a/01-Python%20Intro/01-Python%20Fundamentals/mission-311-programming-in-python-takeaways.pdf)
 ---
 
 ## R4D15: August 7, 2019 - Wednesday
