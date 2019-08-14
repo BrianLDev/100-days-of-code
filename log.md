@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D19: August 11, 2019 - Sunday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - 07 RegEx - finally got isPhoneNumber.py regex to work
+
+**Thoughts:**  
+Still slammed.  but got it to work
+
+**Link(s) to work:**
+1. [isPhoneNumber.py - finally fixed regex](https://github.com/BrianLeip/Automate_With_Python/blob/ee373a53249f76bff6ca63204d29947843a36231/07-RegEx/isPhoneNumber.py)
+---
+
 ## R4D18: August 10, 2019 - Saturday
 
 **Today's Progress:**  
