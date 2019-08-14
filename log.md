@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D20: August 13, 2019 - Tuesday
+
+**Today's Progress:**  
+- **DataQuest**
+  - Mission 314 - Dictionaries and Frequency tables
+
+**Thoughts:**  
+I jumped back to DataQuest because it seemed like a good one to do some quick coding while prepping my condo for sale and slammed with work.  Still seems too basic for what I've already learned.  But next up is functions so hopefully that will be more useful.
+
+**Link(s) to work:**
+1. [Mission 314 - Dictionaries and Frequency tables](https://github.com/BrianLeip/DataQuest/blob/6ce0a877dae7fdc9a682955a8c45dedbaba1d643/01-Python%20Intro/01-Python%20Fundamentals/mission-314-dictionaries-and-frequency-tables-takeaways.pdf)
+---
+
 ## R4D19: August 11, 2019 - Sunday
 
 **Today's Progress:**  
