@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D21: August 14, 2019 - Wednesday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - 07 RegEx - improvements to isPhoneNumber.py - added groups
+  - Big progress moving through the regex chapter
+  - Added all the in book examples to a new python script regexChapterExamples.py
+
+**Thoughts:**  
+So tired.  So busy.  But must keep going.
+
+**Link(s) to work:**
+1. [isPhoneNumber.py - added groups](https://github.com/BrianLeip/Automate_With_Python/blob/9c41eee10689624be89d50da0da4e2eaaa1452f2/07-RegEx/isPhoneNumber.py)
+2. [regexChapterExamples.py - thru the findall() method](https://github.com/BrianLeip/Automate_With_Python/blob/9c41eee10689624be89d50da0da4e2eaaa1452f2/07-RegEx/regexChapterExamples.py)
+---
+
 ## R4D20: August 13, 2019 - Tuesday
 
 **Today's Progress:**  
