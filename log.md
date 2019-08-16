@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D22: August 15, 2019 - Thursday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - More strong progress moving through the regex chapter (this is a long one)
+  - All the in book examples added to regexChapterExamples.py
+
+**Thoughts:**  
+Still so much going on but glad to keep moving forward on this Regex chapter because I'm starting to see how powerful it can be when you understand it.
+Saving all my notes and files for future reference
+
+**Link(s) to work:**
+1. [regexChapterExamples.py - thru the review of regex symbols](https://github.com/BrianLeip/Automate_With_Python/blob/b163806aeb1a2fc0287b706907b85556a7802336/07-RegEx/regexChapterExamples.py)
+---
+
 ## R4D21: August 14, 2019 - Wednesday
 
 **Today's Progress:**  
