@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D23: August 17, 2019 - Saturday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - More progress moving through the regex chapter
+    - case insensitive regex
+    - the sub() method
+
+
+**Thoughts:**  
+Finally finished packing up and I'm making the long drive from OC to SF. Stopped at Kettleman city to charge Shadow (my Tesla Model 3) and getting a little coding done in the lobby.
+
+**Link(s) to work:**
+1. [regexChapterExamples.py - thru sub() method](https://github.com/BrianLeip/Automate_With_Python/blob/0cd95085409e619b8d4b1d2739d17ede188f3d0f/07-RegEx/regexChapterExamples.py)
+---
+
 ## R4D22: August 15, 2019 - Thursday
 
 **Today's Progress:**  
