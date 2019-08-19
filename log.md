@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D24: August 18, 2019 - Sunday
+
+**Today's Progress:**  
+- PyBay 2019 - Python programming conference
+- Presentations:
+  - Effective visual representations using python
+  - Deploy Deep Leraning models as microservices in minutes
+  - Patters for clean API design
+  - Understanding Concurrency in Python
+  - Project Jupyter: Tools for interactive, reproducible data science
+  - Financial Data Access at Kiva.org
+  - A/B Testing in Python
+  - Lightning talks (multipel topics)
+
+**Thoughts:**  
+Great day with mountains of useful info and not enough time to recap it all here.  Will post some of the links in the work section below.
+
+**Link(s) to work:**
+1. [PyBay 2019](https://pybay.com/)
+2. [PyBay 2019 Schedule](https://pybay.com/schedule/)
+3. [Effective visual representations using python](https://github.com/alark/PyBay19-DataVis)
+4. [IBM MAX (Model Asset Exchange) cloud based dockerized Machine Learning Models](https://developer.ibm.com/exchanges/models/)
+5. [Python Variants (polymorphism for python classes)](https://github.com/python-variants/variants)
+6. [Concurrency using AsyncIO](https://docs.python.org/3/library/asyncio.html) 
+7. [JupyterHub setup on Kubernetes](https://z2jh.jupyter.org)
+8. [JupyterHub setup - the Littlest JupyterHub](https://tljh.jupyter.org)
+9. [nbgitpuller - clones a git repo of Jupyter notebook without any git code - good for beginners or non coders](https://jupyterhub.github.io/nbgitpuller)
+10. [Jupyter binder - Turn a git repo into a collection of interactive notebooks](https://mybinder.org)
+11. [Jupyter Book - Creates a textbook like linked document from multiple Jupyter notebooks](https://jupyter.org/jupyter-book/intro.html)
+12. [Kiva.org - historic loan and public lender data](https://www.kiva.org/build/data-snapshots)
+13. [Kiva.org - API GraphQL JSON database](https://api.kivaws.org/graphql)
+14. [A/B Testing Jupyter Notebook - very detailed](https://bit.ly/Raul-ABTesting)
+
+---
+
 ## R4D23: August 17, 2019 - Saturday
 
 **Today's Progress:**  
@@ -7,7 +42,6 @@
   - More progress moving through the regex chapter
     - case insensitive regex
     - the sub() method
-
 
 **Thoughts:**  
 Finally finished packing up and I'm making the long drive from OC to SF. Stopped at Kettleman city to charge Shadow (my Tesla Model 3) and getting a little coding done in the lobby.
