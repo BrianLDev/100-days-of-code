@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D25: August 19, 2019 - Monday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Finally finished the last in chapter examples in the regex chapter
+    - Managing Complex Regexes
+    - Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE
+  - Up next: Regex chapter project, summary and practice projects
+
+**Thoughts:**  
+Another busy day - work in the AM then 6-7 hour drive to Yosemite.  Carving out a little time at the Yosemite Mountain Room Lounge
+
+**Link(s) to work:**
+1. [regexChapterExamples.py - DONE](https://github.com/BrianLeip/Automate_With_Python/blob/2f006c32e7a3ffdbb519ef3b41f3aeb9d04fc44f/07-RegEx/regexChapterExamples.py)
+---
+
 ## R4D24: August 18, 2019 - Sunday
 
 **Today's Progress:**  
