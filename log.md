@@ -4,6 +4,22 @@
 
 **Today's Progress:**  
 - **Automate the Boring Stuff with Python**
+  - Finished the Regex Strong Password checker project - phoneAndEmail.py
+- **100 Days of Code**
+  - Got caught up on about 5 or 6 days of 100 days of code
+
+**Thoughts:**  
+Got it done and working.  Even suggests which of the 4 strong PW checks failed e.g. "Must have 1 capital letter"
+Also tried out some feedback from Kyle on SPAR - another guy doing the coding challenge with me.  Turned out his test wasn't working but appreciated the input all the same.
+
+**Link(s) to work:**
+1. [phoneAndEmail.py](https://github.com/BrianLeip/Automate_With_Python/blob/438079148cff49903d7ef786e210f0f99b2ce76f/07-RegEx/strongPW.py)
+---
+
+## R4D29: August 26, 2019 - Monday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
   - Started the Regex Strong Password checker project - phoneAndEmail.py
 
 **Thoughts:**  
