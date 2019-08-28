@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D29: August 26, 2019 - Monday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Started the Regex Strong Password checker project - phoneAndEmail.py
+
+**Thoughts:**  
+Did this while on the long drive from SF to OC during a recharge / refuel break.  
+Project is nearly done but was running to errors with the `None` return types for the regex search. Need to replace with boolean checks and should be good. 
+
+**Link(s) to work:**
+1. [phoneAndEmail.py](https://github.com/BrianLeip/Automate_With_Python/blob/719b3833c3c763651bc9adda2367b55102cc9262/07-RegEx/phoneAndEmail.py)
+---
+
 ## R4D28: August 24, 2019 - Saturday
 
 **Today's Progress:**  
