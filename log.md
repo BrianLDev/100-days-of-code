@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D28: August 24, 2019 - Saturday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Finished the Regex Practice Questions
+
+**Thoughts:**  
+Difficult but important chapter.  Similar to git in that the initial learning curve is steep but then once you have it down it's really useful.  Next up I need to do the 2 Regex practice projects then on to chapter 8.
+
+**Link(s) to work:**
+1. [Ch 07 - Regex Chapter Questions](https://github.com/BrianLeip/Automate_With_Python/blob/7cf53dfd3e48318be78c474f9171d0c58310fdbb/07-RegEx/07%20RegEx%20-%20Practice%20Questions.md)
+---
+
 ## R4D27: August 23, 2019 - Friday
 
 **Today's Progress:**  
