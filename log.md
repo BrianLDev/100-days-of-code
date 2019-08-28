@@ -1,13 +1,26 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D26: August 22, 2019 - Thursday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - started phoneAndEmail.py - project to find all phone numbers and email addresses saved in the clipboard and replace the clipboard with just those - using Regex
+
+**Thoughts:**  
+been a very busy few days and didn't get a chance to code.  Back on it
+
+**Link(s) to work:**
+1. [phoneAndEmail.py](https://github.com/BrianLeip/Automate_With_Python/blob/38996788b66dfe0d4069b2ecb1775afda9be28a7/07-RegEx/phoneAndEmail.py)
+---
+
 ## R4D25: August 19, 2019 - Monday
 
 **Today's Progress:**  
 - **Automate the Boring Stuff with Python**
-  - Finally finished the last in chapter examples in the regex chapter
-    - Managing Complex Regexes
-    - Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE
-  - Up next: Regex chapter project, summary and practice projects
+  - Finally finished the last in chapter examples in the regex chapter 
+    - Managing Complex Regexes 
+    - Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE 
+  - Up next: Regex chapter project, summary and practice projects 
 
 **Thoughts:**  
 Another busy day - work in the AM then 6-7 hour drive to Yosemite.  Carving out a little time at the Yosemite Mountain Room Lounge
