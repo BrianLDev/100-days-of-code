@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D27: August 23, 2019 - Friday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Finished phoneAndEmail.py - project to find all phone numbers and email addresses saved in the clipboard and replace the clipboard with just those - using Regex
+
+**Thoughts:**  
+This is actuall a really cool little script.  Can go to any website and do Ctrl+A, Ctrl+C to copy everything, then run the script, and when you paste the clipboard it will be only the email and phone numbers left.  Could be useful for web scraping.
+
+**Link(s) to work:**
+1. [phoneAndEmail.py - DONE](https://github.com/BrianLeip/Automate_With_Python/blob/f1ced820a19c7ce046c9eb73000690951f2f8187/07-RegEx/phoneAndEmail.py)
+---
+
 ## R4D26: August 22, 2019 - Thursday
 
 **Today's Progress:**  
