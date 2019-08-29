@@ -1,12 +1,27 @@
 # 100 Days Of Code - Log (Round 4)
 
-## R4D29: August 26, 2019 - Monday
+## R4D31: August 28, 2019 - Wednesday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Completed the practice project - Regex Strip
+  - That's the LAST part of the regex chapter.  Excited to move on to new things
+  - Next up: Ch 8 - Reading and Writing Files
+
+**Thoughts:**  
+Regex was more interesting and more complex than I expected.  Going to have to keep practicing to master this, but at the same time, there's so many other things to learn so don't want to get bogged down on it.  Moving on to ch 08 - reading and writing files.
+
+**Link(s) to work:**
+1. [regexStrip.py](https://github.com/BrianLeip/Automate_With_Python/blob/aec7e818e66136a6f2a606784f9bf80ef1192418/07-RegEx/regexStrip.py)
+---
+
+## R4D30: August 27, 2019 - Tuesday
 
 **Today's Progress:**  
 - **Automate the Boring Stuff with Python**
   - Finished the Regex Strong Password checker project - phoneAndEmail.py
 - **100 Days of Code**
-  - Got caught up on about 5 or 6 days of 100 days of code
+  - Got caught up on 6 days of 100 days of code
 
 **Thoughts:**  
 Got it done and working.  Even suggests which of the 4 strong PW checks failed e.g. "Must have 1 capital letter"
