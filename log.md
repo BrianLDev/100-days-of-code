@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D33: August 30, 2019 - Friday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Continued 08 File IO - Book Examples.py
+
+**Thoughts:**  
+Got about 45 min to 1 hr on book & coding mix.  This chapter is already starting to be interesting by showing how to create folders in any directory and move around on absolute or relative folders.  Going to keep on movin.
+
+**Link(s) to work:**
+1. [08 File IO - Book Examples.py](https://github.com/BrianLeip/Automate_With_Python/blob/bf925d66cb239605050fa7228c70dd2340c33e58/07-RegEx/07%20RegEx%20-%20Book%20Examples.py)
+---
+
 ## R4D32: August 29, 2019 - Thursday
 
 **Today's Progress:**  
