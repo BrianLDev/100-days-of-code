@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D32: August 29, 2019 - Thursday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Started 08 File IO - Book Examples.py
+
+**Thoughts:**  
+Worked until about 2am so didn't have a lot of time to code today but still getting a little progress in
+
+**Link(s) to work:**
+1. [08 File IO - Book Examples.py](https://github.com/BrianLeip/Automate_With_Python/blob/a452cb55f3400d90f276815d331794c681b42d4c/07-RegEx/07%20RegEx%20-%20Book%20Examples.py)
+---
+
 ## R4D31: August 28, 2019 - Wednesday
 
 **Today's Progress:**  
