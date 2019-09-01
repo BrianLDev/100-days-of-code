@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D34: August 31, 2019 - Saturday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - Continued 08 File IO - Book Examples.py
+     - Finding File Sizes and Folder Contents
+
+**Thoughts:**  
+Was able to carve out about 45 minutes to code today around important personal matters.  Will probably not have a lot of time for coding this week but 
+
+**Link(s) to work:**
+1. [08 File IO - Book Examples.py](https://github.com/BrianLeip/Automate_With_Python/blob/14fe9bc70deab057f49891ba862fc2f648584ac2/08-Read%20Write%20Files/08%20File%20IO%20-%20Book%20Examples.py)
+---
+
 ## R4D33: August 30, 2019 - Friday
 
 **Today's Progress:**  
