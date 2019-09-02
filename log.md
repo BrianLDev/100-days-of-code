@@ -1,14 +1,39 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D35: September 1, 2019 - Sunday
+
+**Today's Progress:**  
+- **Automate the Boring Stuff with Python**
+  - 08 - Reading and Writing Files
+     - Checking path validity 
+     - Opening files with open()
+     - Reading the Contents of Files
+     - Writing to Files
+     - Saving Variables witht he shelve Module
+     - Saving Variables with the pprint.pformat() Function
+  - Up next:
+    - Project: Generating Random Quiz Files
+    - Project: Multiclipboard
+    - Practice Questions
+    - Practice Projects
+    - Then on to 09 - Organizing Files
+
+**Thoughts:**  
+Got in a solid 1.5-2 hours today and got it done earlier than usual.  Made some solid progress on the read and write files chapter and completed everything up until the first Practice project.
+
+**Link(s) to work:**
+1. [08 File IO - Book Examples.py](https://github.com/BrianLeip/Automate_With_Python/blob/a018705ed04d14501925ec2daf563bb03a97fc74/08-Read%20Write%20Files/08%20File%20IO%20-%20Book%20Examples.py)
+---
+
 ## R4D34: August 31, 2019 - Saturday
 
 **Today's Progress:**  
 - **Automate the Boring Stuff with Python**
-  - Continued 08 File IO - Book Examples.py
+  - 08 - Reading and Writing Files
      - Finding File Sizes and Folder Contents
 
 **Thoughts:**  
-Was able to carve out about 45 minutes to code today around important personal matters.  Will probably not have a lot of time for coding this week but 
+Was able to carve out about 45 minutes to code today around important personal matters.  Will probably not have a lot of time for coding this week but still doin it
 
 **Link(s) to work:**
 1. [08 File IO - Book Examples.py](https://github.com/BrianLeip/Automate_With_Python/blob/14fe9bc70deab057f49891ba862fc2f648584ac2/08-Read%20Write%20Files/08%20File%20IO%20-%20Book%20Examples.py)
@@ -18,7 +43,7 @@ Was able to carve out about 45 minutes to code today around important personal m
 
 **Today's Progress:**  
 - **Automate the Boring Stuff with Python**
-  - Continued 08 File IO - Book Examples.py
+  - 08 - Reading and Writing Files
 
 **Thoughts:**  
 Got about 45 min to 1 hr on book & coding mix.  This chapter is already starting to be interesting by showing how to create folders in any directory and move around on absolute or relative folders.  Going to keep on movin.
@@ -31,7 +56,7 @@ Got about 45 min to 1 hr on book & coding mix.  This chapter is already starting
 
 **Today's Progress:**  
 - **Automate the Boring Stuff with Python**
-  - Started 08 File IO - Book Examples.py
+  - Started 08 - Reading and Writing Files
 
 **Thoughts:**  
 Worked until about 2am so didn't have a lot of time to code today but still getting a little progress in
