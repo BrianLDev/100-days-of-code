@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D36: September 2, 2019 - Monday
+
+**Today's Progress:**  
+- **General**
+  - Reinstalled Anaconda and jupyter on PC
+  - Set up windows PATH for jupyter
+- **Python for Financial Analysis and Algorithmic Trading**
+  - Refreshed myself on where I left off:
+  - Rolling and expanding moving averages with Pandas
+  - Converted the jupyter notebook to google colab - pulls data from my github
+
+**Thoughts:**  
+Labor Day  
+Jumped back to the Python for Financial Analysis course since I'm working on some projects that require financial analysis and data science related analytics.  And it's also important to me to finish the things that I start and this was left at 65% done, so going to push this one through to 100% then back to Automate w/ Python book.
+
+Did the rolling and expanding jupyter notebook again as a prep for Section 9 - Capstone project.  Also converted it to work with Google Colab to refresh myself on that as well.
+
+**Link(s) to work:**
+1. [04-Rolling and Expanding.ipynb](https://github.com/BrianLeip/Python_For_Finance/blob/77a2be7eb84077962956dfa440162ef40ea1cf08/06-Pandas-with-Time-Series/04-Rolling%20and%20Expanding.ipynb)
+2. [04_Rolling_and_Expanding_(Colab).ipynb](https://github.com/BrianLeip/Python_For_Finance/blob/77a2be7eb84077962956dfa440162ef40ea1cf08/06-Pandas-with-Time-Series/04_Rolling_and_Expanding_(Colab).ipynb)
+---
+
 ## R4D35: September 1, 2019 - Sunday
 
 **Today's Progress:**  
