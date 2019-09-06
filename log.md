@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D37: September 5, 2019 - Thursday
+
+**Today's Progress:**  
+- **Python for Financial Analysis and Algorithmic Trading**
+  - Started the capstone financial analysis project
+  - Searched for and experimented with different free EOD stock data APIs
+  - Landed on Quandl WIKI, and used it to load 5+ years of Tesla, Ford, and GM stock data
+
+**Thoughts:**  
+Was out of commission the last couple days - lack of sleep and too much going on.  But back on the wagon today.
+
+Finding a free stock data API to import to the project was a challenge.  Tried multiple different options and sources using pandas_datareader and quandl, and exploring IEX, robinhood, etc.  Eventually found one that works: Quandl WIKI that has EOD stock data through 3/27/2018.  Asking around for any other options but that will work for now
+
+**Link(s) to work:**
+1. [Stock Market Analysis Capstone Project](https://github.com/BrianLeip/Python_For_Finance/blob/dfc19009b4736a4cb1fdabf20141e048acae76d4/07-Stock-Market-Analysis-Capstone-Project/.ipynb_checkpoints/Stock%20Market%20Analysis%20Project-BL-checkpoint.ipynb)
+---
+
 ## R4D36: September 2, 2019 - Monday
 
 **Today's Progress:**  
