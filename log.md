@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log (Round 4)
 
+## R4D38: September 6, 2019 - Friday
+
+**Today's Progress:**  
+- **Python for Financial Analysis and Algorithmic Trading**
+  - Finished part 2: Visualize the data
+    - plot closing price, volume, of 3 stocks
+    - Calculate total $ traded and then plot that
+    - Spot the largest days on the chart and then look those days up to see what happened
+    - Create a 50 day and 200 day moving average using .rolling().mean(), then plot the data on a chart
+    - Concatenate the closing prices of all 3 stocks and then compare them against each other using a scatter_matrix
+
+**Thoughts:**  
+Loving this capstone project challenge, and starting to open up new avenues of potential here.  Need to internalize and keep practicing.
+
+**Link(s) to work:**
+1. [Stock Market Analysis Capstone Project](https://github.com/BrianLeip/Python_For_Finance/blob/1fd7de7c6c61c20639f501275dd4abd27030f3ee/07-Stock-Market-Analysis-Capstone-Project/Stock%20Market%20Analysis%20Project-BL.ipynb)
+---
+
 ## R4D37: September 5, 2019 - Thursday
 
 **Today's Progress:**  
