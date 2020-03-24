@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D06: March 23, 2020 - Monday
+
+**Today's Progress:**  
+- Coronavirus Analysis
+  - JH changed their live data format so adjusted for this
+  - JH also deprecated their historic tracking data (non-global)
+  - Created a new jupyter notebook using data from Covid Tracking Project and got the state data and charts caught up to where they were with the JH file
+
+**Thoughts:**  
+Spent a good chunk 2-3 hours on this today and got a lot done.  It's frustrating to see that JH is no longer tracking useful historic data but it is what it is.  Found a good alternative with the Covid tracking project.  
+
+As I was going through the new data, I realized that Covid tracking only has US state data, and JH now only has global data.  So rather than using separate files I'll likely merge them together in the future.
+
+**Link(s) to work:**
+1. [Coronavirus - JH Global](https://github.com/BrianLeip/CoronaVirus/blob/a6ad81fe794b782a8ab479ec54390118f1569323/CoronaVirus%20-%20John%20Hopkins.ipynb)
+2. [Coronavirus - Covid Tracking Project](https://github.com/BrianLeip/CoronaVirus/blob/a6ad81fe794b782a8ab479ec54390118f1569323/CoronaVirus%20-%20Covid%20Tracking%20Project.ipynb)
+
+---
+
 ## R5-D05: March 22, 2020 - Sunday
 
 **Today's Progress:**  
