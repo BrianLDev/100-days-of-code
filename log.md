@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D05: March 22, 2020 - Sunday
+
+**Today's Progress:**  
+- Coronavirus EDA - Refreshed with updated data
+
+**Thoughts:**  
+Another difficult personal day with family issues.  Still got in a bit of coding.
+
+**Link(s) to work:**
+1. [Coronavirus EDA - Refreshed with updated data](https://github.com/BrianLeip/CoronaVirus/blob/c3c8c3947b4b2df4bc0b93a6cc5b7e500da941a9/CoronaVirus.ipynb)
+
+---
+
+## R5-D04: March 21, 2020 - Saturday
+
+**Today's Progress:**  
+- Coronavirus EDA - Added a new US state confirmed cases chart excluding New York to zoom in on the other states
+
+**Thoughts:**  
+Tough day today, dealing with some serious family issues.  Despite not wanting to, I still made time for a bit of coding.
+
+**Link(s) to work:**
+1. [Coronavirus EDA - Added US state confirmed cases](https://github.com/BrianLeip/CoronaVirus/blob/43062a049a508c343e4e70ae21ecc9e3ff6d69d4/CoronaVirus.ipynb)
+
+---
+
 ## R5-D03: March 20, 2020 - Friday
 
 **Today's Progress:**  
