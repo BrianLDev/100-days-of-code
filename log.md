@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D07: March 24, 2020 - Tuesday
+
+**Today's Progress:**  
+- Stanford Algorithms
+  - Finished week 1: Divide & conquer
+  - Asymptotic Analysis
+  - Big Oh Notation with mathematical proofs
+  - Big Omega and Theta Notation with mathematical proofs
+
+**Thoughts:**  
+Did this on Tue but forgot to log it until Wed AM.  
+Week 1 is done.  Course is till highly theoretical, not hands-on.  Hopefully that will change soon.
+
+**Link(s) to work:**
+1. [Stanford Algorithms - Week 1 Notes](https://github.com/BrianLeip/Stanford-Algorithms-Cert/blob/master/01-Divide-Conquer/Week%201%20-%20Divide%20%26%20Conquer.pdf)
+
+---
+
 ## R5-D06: March 23, 2020 - Monday
 
 **Today's Progress:**  
