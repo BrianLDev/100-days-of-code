@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D08: March 25, 2020 - Wednesday
+
+**Today's Progress:**  
+- Stanford Algorithms
+  - Week 1 challenge questions
+- Coronavirus
+  - Merged the John Hopkins (Global) and Covid Tracking Project (US States) datasets together into one jupyter notebook
+  - Updated stats for 3/25
+  - I'm predicting that the US will surpass both Italy and China to have the most confirmed Coronavirus cases by Friday 3/27
+- Unity
+  - Completed a few minigame tutorials and started on the Unity ML-Agent tutorial
+
+**Thoughts:**  
+Got a decent amount of coding done today, feels good.  But the looming threat of Coronavirus is threatening all that we hold dear.  Keep moving forward, that's all we can do.
+
+**Link(s) to work:**
+1. [Coronavirus Analytics - Combined JH and CTP datasets](https://github.com/BrianLeip/CoronaVirus/blob/170eeb69a3bdf034fd060094bc52f85ced93fb68/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D07: March 24, 2020 - Tuesday
 
 **Today's Progress:**  
