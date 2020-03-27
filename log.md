@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D09: March 26, 2020 - Thursday
+
+**Today's Progress:**  
+- Stanford Algorithms
+  - Completed week 1 including challenge questions and programming challenge
+- Unity ML Agents
+  - Creating some Machine Learning agents in Unity.  Penguins, baby penguins, and fish.
+  - About halfway through it so far. Should finish up tomorrow
+
+**Thoughts:**  
+Was tired, no matter.  Coded on.  
+Excited to finish up this Unity ML Agents project see the results, and then play around and test different scenarios.
+
+**Link(s) to work:**
+1. [Stanford Algorithms - Week 1 complete](https://github.com/BrianLeip/Stanford-Algorithms-Cert/tree/c4d819a3eb50682070b26c31adc804204bc77682/01-Divide-Conquer/Week%201)
+2. [Unity ML Agents - Halfway thorugh tutorial](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/9450e5c08614c9621f8018f947b0b386e8b40d1d)
+
+---
+
 ## R5-D08: March 25, 2020 - Wednesday
 
 **Today's Progress:**  
