@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D10: March 28, 2020 - Saturday
+
+**Today's Progress:**  
+- Covid19 Simulator:
+  - Started working on a new Unity project as a combined Game Jam project and Coronavirus simulator
+  - Set up a city, made an isometric camera, Created a person prefab, created script for person movement and turning.
+- Unity ML Agent Penguins:
+  - Finished getting all the scripts, scenes, and prefabs set up
+  - Tested things out.  Oh man...did not go as planned.  Millions of fish everywhere and the penguin bouncing around the screen
+  - Dig in and debug it tomorrow
+- CoronaVirus Analytics:
+  - Updated stats for the day
+
+**Thoughts:**  
+Working on some fun and interesting projects.  Excited to see how they pan out, and if they're able to perform useful forecasting (or at least make a fun game out of them).
+
+**Link(s) to work:**
+1. [Covid19 Simulator](https://github.com/BrianLeip/Covid19_Simulator/tree/2961ad2b307b74916d481d7f91d8577af569c677)
+2. [Unity ML Agent Penguins - too many fish](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/e23237de19c919d7fe002dc69f2e7fb48d7c9646)
+3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/4cb04d76f796844a711b2a93e58128ffabe1481d/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: March 27, 2020 - Friday
+
+**Today's Progress:**  
+- Came down with a pretty bad stomach bug.  Took day off.
+
+**Thoughts:**  
+Was worried it could be Coronavirus at first.  Fortunately it was just a stomach bug.  Took a breather then back at it on Saturday.  Count Saturday as day 10.
+
+**Link(s) to work:**
+1. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/ac41c304f24b1faef31b00cbdd91f0ef2ba463ba/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D09: March 26, 2020 - Thursday
 
 **Today's Progress:**  
@@ -8,6 +44,8 @@
 - Unity ML Agents
   - Creating some Machine Learning agents in Unity.  Penguins, baby penguins, and fish.
   - About halfway through it so far. Should finish up tomorrow
+- CoronaVirus Analytics
+  - Updated stats for the day
 
 **Thoughts:**  
 Was tired, no matter.  Coded on.  
@@ -16,6 +54,7 @@ Excited to finish up this Unity ML Agents project see the results, and then play
 **Link(s) to work:**
 1. [Stanford Algorithms - Week 1 complete](https://github.com/BrianLeip/Stanford-Algorithms-Cert/tree/c4d819a3eb50682070b26c31adc804204bc77682/01-Divide-Conquer/Week%201)
 2. [Unity ML Agents - Halfway thorugh tutorial](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/9450e5c08614c9621f8018f947b0b386e8b40d1d)
+3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/2563deb10dffd7e583004f854b5e8a0d02595ad4/Covid19_Analytics.ipynb)
 
 ---
 
