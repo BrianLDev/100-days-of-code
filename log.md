@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D12: March 30, 2020 - Monday
+
+**Today's Progress:**  
+- Data Structures and Algorithms
+  - Studied for the Upcoming UIUC Data Structures and Algorithms exam
+
+**Thoughts:**  
+Continuing to study.  Unfortunately I can't retake the exams or practice assignments without paying for the course again.  But I saved all of the code in AWS Cloud 9 so I'm going to use that for practice and digging into the details.
+
+**Link(s) to work:**
+1. Studied UIUC C++ Data Structures and Algorithms (no link)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/3c1a4e9045c0c59f4c9029f3b827fbada9c142d8/.ipynb_checkpoints/Covid19_Analytics-checkpoint.ipynb)
+
+---
+
 ## R5-D11: March 29, 2020 - Sunday
 
 **Today's Progress:**  
