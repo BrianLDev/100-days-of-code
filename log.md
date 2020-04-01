@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D13: March 31, 2020 - Tuesday
+
+**Today's Progress:**  
+- Data Structures and Algorithms
+  - More studying for the Upcoming UIUC Data Structures and Algorithms exam
+
+**Thoughts:**  
+A lot to study in a short amount of time...a bit overwhelming.  Need to stay focused.
+
+**Link(s) to work:**
+1. Studied UIUC C++ Data Structures and Algorithms (no link)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/5cd84a641cc8593e9414ccdeb8668a62334fe710/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D12: March 30, 2020 - Monday
 
 **Today's Progress:**  
