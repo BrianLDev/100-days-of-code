@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D14: April 1, 2020 - Wednesday
+
+**Today's Progress:**  
+- Data Structures and Algorithms
+  - More studying for the Upcoming UIUC Data Structures and Algorithms exam
+- LeetCode
+  - Joined the 30 days of LeetCode challenge to keep improving my algorithms toolkit
+  - First challenge: SingleNumber
+- CoronaVirus Analytics
+  - Added NY Times US County data and created a few charts
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Got a lot done today, but still so much more to study for the upcoming DS and Algo exam.  Wishing I had more time.  
+
+It's been months since I've seen my family in MA (has it been years?) and we had a Quarantine game night scheduled today on Zoom so I made sure to carve out time for that.  Really glad I did, it was a lot of fun and a good recharge inbetween study sessions.
+
+**Link(s) to work:**
+1. Studied UIUC C++ Data Structures and Algorithms (no link)
+2. [Coronavirus Analytics - Updated stats for the day, added County level data from NY Times](https://github.com/BrianLeip/CoronaVirus/blob/dffddf34df6f6a6c625047d493f92f49ae4152af/Covid19_Analytics.ipynb)
+3. [LeetCode - SingleNumber Challenge](https://github.com/BrianLeip/LeetCode/blob/master/136-SingleNumber.cpp)
+
+---
+
 ## R5-D13: March 31, 2020 - Tuesday
 
 **Today's Progress:**  
