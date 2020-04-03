@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D15: April 2, 2020 - Thursday
+
+**Today's Progress:**  
+- Data Structures and Algorithms
+  - Last day of studying for the Upcoming UIUC Data Structures and Algorithms exam
+  - Took exam
+- LeetCode
+  - Day 2 of 30 challenge: HappyNumber
+- CoronaVirus Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Up early and studying Data Structures and Algorithms all day. Took the exam and nailed it on the first 3/4 of it...then somehow bombed the last 1/4.  Got very close to the threshhold so I'm still hopeful that I will get accepted to the Masters program, since the exam is optional anyways.  Would be very painful if I don't... keeping my fingers crossed.
+
+Also completed today's LeetCode challenge and updated CoronaVirus analytics.
+
+**Link(s) to work:**
+1. [Studied UIUC C++ Data Structures and Algorithms, took exam](https://github.com/BrianLeip/UIUC-Accel-CS-Code-Env/tree/801cb62b999bef9e4b64e0ba971ec87967008c93)
+2. [LeetCode - Happy Number Challenge](https://github.com/BrianLeip/LeetCode/blob/master/202-HappyNumber.cpp)
+3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/c1dad7c602fc46bb209095b6d97d1823a300931d/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D14: April 1, 2020 - Wednesday
 
 **Today's Progress:**  
@@ -19,8 +42,8 @@ It's been months since I've seen my family in MA (has it been years?) and we had
 
 **Link(s) to work:**
 1. Studied UIUC C++ Data Structures and Algorithms (no link)
-2. [Coronavirus Analytics - Updated stats for the day, added County level data from NY Times](https://github.com/BrianLeip/CoronaVirus/blob/dffddf34df6f6a6c625047d493f92f49ae4152af/Covid19_Analytics.ipynb)
-3. [LeetCode - SingleNumber Challenge](https://github.com/BrianLeip/LeetCode/blob/master/136-SingleNumber.cpp)
+2. [LeetCode - SingleNumber Challenge](https://github.com/BrianLeip/LeetCode/blob/master/136-SingleNumber.cpp)
+3. [Coronavirus Analytics - Updated stats for the day, added County level data from NY Times](https://github.com/BrianLeip/CoronaVirus/blob/dffddf34df6f6a6c625047d493f92f49ae4152af/Covid19_Analytics.ipynb)
 
 ---
 
