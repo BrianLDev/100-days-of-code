@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log (Round 5)
 
-## R5-D17: April 8, 2020 - Tuesday
+## R5-D18: April 8, 2020 - Tuesday
 
 **Today's Progress:**  
 - Covid-19 (Coronavirus) Analytics
@@ -22,13 +22,25 @@ Feels good to be back in it, and love seeing the result of exported csv files th
 
 ---
 
-## R5-Dxx: April 6 & 7, 2020 - Sunday & Monday
+## R5-Dxx: April 7, 2020 - Monday
 
 **Thoughts:**  
-Tough couple days...needed more time to reflect and regroup.  Back in full force on Tues the 8th.
+Tough day...needed more time to reflect and regroup.
 
 ---
+## R5-D17: April 6, 2020 - Sunday
 
+**Today's Progress:**  
+- LeetCode 30 day challenge:
+  - Maximum SubArray
+
+**Thoughts:**  
+Forced myself to get another Leetcode challenge done.  This one was a challenge.  I had a solution that worked but was too slow, so I worked on it until I came up with a much faster and more elegant solution.
+
+**Link(s) to work:**
+1. [LeetCode - Maximum SubArray](https://github.com/BrianLeip/LeetCode/blob/313ddb910292d6cadc1849aefa9e1b4cf1fe896e/053-MaximumSubarray.cpp)
+
+---
 ## R5-D16: April 5, 2020 - Saturday
 
 **Today's Progress:**  
