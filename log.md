@@ -1,5 +1,69 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D17: April 8, 2020 - Tuesday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Major overhaul to notebooks and workflow
+  - Created a separate ETL notebook to gather the data, wrangle and reformat it, then export to .csv
+  - Revised the Analytics notebook so that it now pulls the data created by the ETL notebook
+  - Added a few charts and metrics, including tracking US Counties where my friends and family live
+
+**Thoughts:**  
+Back in action.  Spent most of my day (9-10 hours or so) revamping the Covid-19 analytics notebook to create a separate ETL data wrangling file that exports .csv files to be used by the analytics notebook.  
+
+Feels good to be back in it, and love seeing the result of exported csv files that I created with Python and Pandas, and then using them for a streamlined analytics notebook. 
+
+**Link(s) to work:**
+1. [Coronavirus Analytics - New ETL data wrangling notebook](https://github.com/BrianLeip/CoronaVirus/blob/19fd51e0798b522d0e9dc4b9f5028db5cbd9fc72/Covid19_Data_ETL.ipynb)
+2. [Coronavirus Analytics - New Dataset export folder](https://github.com/BrianLeip/CoronaVirus/tree/19fd51e0798b522d0e9dc4b9f5028db5cbd9fc72/Datasets/JH)
+3. [Coronavirus Analytics - Revised Analytics notebook](https://github.com/BrianLeip/CoronaVirus/blob/19fd51e0798b522d0e9dc4b9f5028db5cbd9fc72/Covid19_Analytics.ipynb)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/19fd51e0798b522d0e9dc4b9f5028db5cbd9fc72/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: April 6 & 7, 2020 - Sunday & Monday
+
+**Thoughts:**  
+Tough couple days...needed more time to reflect and regroup.  Back in full force on Tues the 8th.
+
+---
+
+## R5-D16: April 5, 2020 - Saturday
+
+**Today's Progress:**  
+- LeetCode 30 day challenge:
+  - Best time to buy and sell stock II  
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Forced myself to get a Leetcode challenge done.
+
+**Link(s) to work:**
+1. [LeetCode - Best time to buy and sell stock II](https://github.com/BrianLeip/LeetCode/blob/61c4839c3b1bafd4f3a309bd908edd26f0dacbb9/122-BestTimeToBuyAndSellStock2.cpp)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/efbfb07e09e5f3801944a7535eaa4554de97e0c8/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: April 3 & 4, 2020 - Thursday & Friday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Took a bit of a mental health break after the frustrating experience with the DS and Algorithms exam, and finding out that I was not accepted into the UIUC Masters program.
+
+Being cooped up for too long on Coronavirus quarantine is wearing on me.  
+
+"I feel I need a holiday.  A very long holiday."
+
+**Link(s) to work:**
+1. Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/efbfb07e09e5f3801944a7535eaa4554de97e0c8/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D15: April 2, 2020 - Thursday
 
 **Today's Progress:**  
