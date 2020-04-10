@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log (Round 5)
 
-## R5-D18: April 8, 2020 - Tuesday
+## R5-D19: April 9, 2020 - Thursday
+
+**Today's Progress:**  
+- LeetCode 30 day challenge
+  - Backspace String Compare
+- Covid-19 (Coronavirus) Analytics
+  - Separated the Friends and Family location tracking charts and stats to a separate notebook
+  - Added Costa Rica to Friends & Family notebook
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+I challenged myself to use Regex to solve today's LeetCode challenge and it was tougher than it looked at first.  But powered through and figured it out with very efficient time of O(1).
+
+**Link(s) to work:**
+1. [LeetCode - Backspace String Compare](https://github.com/BrianLeip/LeetCode/blob/84b126355673a6a9dc0d70937b082e0f85768be9/844-BackspaceStringCompare.cpp)
+2. [Coronavirus - Friends and Family location tracking notebook](https://github.com/BrianLeip/CoronaVirus/blob/4ed27830fdb1aeaa257e6fe7eb8b2b9e3726e4c5/Covid19_FnF_Tracker.ipynb)
+3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/766e6eb416d870800be4ec5e43ff3d3ed16232cd/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D18: April 8, 2020 - Wednesday
 
 **Today's Progress:**  
 - Covid-19 (Coronavirus) Analytics
@@ -22,13 +42,13 @@ Feels good to be back in it, and love seeing the result of exported csv files th
 
 ---
 
-## R5-Dxx: April 7, 2020 - Monday
+## R5-Dxx: April 7, 2020 - Tuesday
 
 **Thoughts:**  
 Tough day...needed more time to reflect and regroup.
 
 ---
-## R5-D17: April 6, 2020 - Sunday
+## R5-D17: April 6, 2020 - Monday
 
 **Today's Progress:**  
 - LeetCode 30 day challenge:
@@ -41,7 +61,7 @@ Forced myself to get another Leetcode challenge done.  This one was a challenge.
 1. [LeetCode - Maximum SubArray](https://github.com/BrianLeip/LeetCode/blob/313ddb910292d6cadc1849aefa9e1b4cf1fe896e/053-MaximumSubarray.cpp)
 
 ---
-## R5-D16: April 5, 2020 - Saturday
+## R5-D16: April 5, 2020 - Sunday
 
 **Today's Progress:**  
 - LeetCode 30 day challenge:
@@ -58,7 +78,7 @@ Forced myself to get a Leetcode challenge done.
 
 ---
 
-## R5-Dxx: April 3 & 4, 2020 - Thursday & Friday
+## R5-Dxx: April 3 & 4, 2020 - Friday & Saturday
 
 **Today's Progress:**  
 - Covid-19 (Coronavirus) Analytics
