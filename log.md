@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D20: April 10, 2020 - Friday
+
+**Today's Progress:**  
+- LeetCode 30 day challenge
+  - MinStack
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Spent most of the day doing client work, errands, and some family game time today, but still carved out time to get today's LeetCode challenge done.  Felt more confident solving this one, like the things I'm learning are coming together and the incline of the uphill battle is not as steep.  Got a runtime of 28ms which is better than 94% of other solutions.  Seeing my progress and improvement feels good.
+
+**Link(s) to work:**
+1. [LeetCode - MinStack](https://github.com/BrianLeip/LeetCode/blob/master/155-MinStack.cpp)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/9766d4971c8d081a6162ac70163f52463183646c/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D19: April 9, 2020 - Thursday
 
 **Today's Progress:**  
