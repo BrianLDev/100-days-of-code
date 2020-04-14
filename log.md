@@ -1,5 +1,58 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D23: April 13, 2020 - Monday
+
+**Today's Progress:**  
+- LeetCode
+  - Finished Last Stone Weight
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+The LeetCode Last Stone Weight challenge was a tougher one than previous ones.  But it was good practice to create helper functions like "insertSorted" for a C++ vector and "printVector".  Those functions should really already be built in to the vector library already so it's surprising that they're not.  
+
+It might be a good idea for me to start creating a library of my own with helper functions that I create, which will save a lot of time and follow the DRY method (Don't Repeat Yourself).
+
+**Link(s) to work:**
+1. [LeetCode - Finished Last Stone Weight](https://github.com/BrianLeip/LeetCode/blob/3ab86fc7beb1392908c52becfa8501cbb82b5ece/1046-LastStoneWeight.cpp)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/1a7714ff3aa42408439e9e5474d161a95a4e8936/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D22: April 12, 2020 - Sunday
+
+**Today's Progress:**  
+- LeetCode
+  - Started working on Last Stone Weight
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Another lighter day, enjoying my weekend for a change.  Plan to get back at it again tomorrow.
+
+**Link(s) to work:**
+1. [LeetCode - Started working on Last Stone Weight](https://github.com/BrianLeip/LeetCode/commit/484346e66c79b2444fb4bbed6609a8961b9b1674)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/64c468c46dd4d5d25277301bb3b6bf801429db5b/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D21: April 11, 2020 - Saturday
+
+**Today's Progress:**  
+- Unity:
+  - Testing out Photon Unity Networking 2 (PUN2) package
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Lighter day than usual - had some personal things to take care of.
+
+**Link(s) to work:**
+1. [Testing out Photon Unity Networking 2 (PUN2) package](https://github.com/BrianLeip/PhotonUnityNetworking2-Test/tree/860f4c10c871755cedea0939458664577c9b2dcf)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/b4e80528bac2d6f5eaf686b49db4eb440a3bda12/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D20: April 10, 2020 - Friday
 
 **Today's Progress:**  
