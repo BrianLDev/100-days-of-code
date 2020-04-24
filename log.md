@@ -1,7 +1,30 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D32: April 23, 2020 - Thursday
 
-## R5-D29: April 20 to 22, 2020 - Monday to Wednesday
+**Today's Progress:**  
+- UnityMLAgentPenguins
+  - Finished this project!!
+  - Added all scripts, prefabs, etc
+  - Updated scripts to be compatible with MLAgents 0.15.1
+  - Trained Penguin Agents Neural Net using TensorFlow to find fish and feed her baby
+  - Added the trained NN model to the Penguin prefab
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+This was definitely one of the more challenging but rewarding projects I've worked on.  Challenging because the MLAgents library is evolving rapidly and there are multiple versions of the tutorial, all of which are out of date and don't work out of the box.  Took a lot of tweaking and refactoring to get it to work, but when it all came together in the end it was very rewarding.
+
+Now that I'm more comfortable with Unity ML agents this opens up a whole new world to me and I'm excited to dive in.
+
+**Link(s) to work:**
+1. [UnityMLAgentPenguins - Finished the project!](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/7807f90acac7e84e6f432b4683bcf1468c26bbae)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/2930273031e594610085c79b699b1b431393b3ea/Covid19_Analytics.ipynb)
+
+---
+
+
+## R5-D29 to D31: April 20 to 22, 2020 - Monday to Wednesday
 
 **Today's Progress:**  
 - UnityMLAgentPenguins
@@ -16,7 +39,7 @@
 **Thoughts:**  
 Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
 
-These 3 days sort of blurred together (late nights / early mornings) so for the sake of 100DaysOfCode, I'm combining them together into one "day".
+These 3 days sort of blurred together (late nights / early mornings) so I'm combining them together here.
 
 Made great progress on the Unity Machine Learning Agent Penguins tutorial.  This one is especially hard because the MLAgent package is changing rapidly and the tutorial is already out of date. Need to do a lot of tweaks and adjustments to get things to work.  Frustrating, but great for learning experience.
 
