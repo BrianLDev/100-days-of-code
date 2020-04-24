@@ -1,5 +1,147 @@
 # 100 Days Of Code - Log (Round 5)
 
+
+## R5-D29: April 20 to 22, 2020 - Monday to Wednesday
+
+**Today's Progress:**  
+- UnityMLAgentPenguins
+  - Restarted project to incorporate all recent changes to MLAgent package
+    - MLAgents 0.15.1 and Baracuda 0.6.1 packages
+  - Added ML Agent Example projects
+    - modified them to get them working (missing scripts on the prefabs)
+    - tested example projects out, gain better understanding of MLAgent library
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+
+These 3 days sort of blurred together (late nights / early mornings) so for the sake of 100DaysOfCode, I'm combining them together into one "day".
+
+Made great progress on the Unity Machine Learning Agent Penguins tutorial.  This one is especially hard because the MLAgent package is changing rapidly and the tutorial is already out of date. Need to do a lot of tweaks and adjustments to get things to work.  Frustrating, but great for learning experience.
+
+**Link(s) to work:**
+1. [UnityMLAgentPenguins - Restarted project for updated versions of MLAgent package](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/27a8cf0d1f527ccfb852afaacbeb5dfa3ca61d22/MLAgentPenguins)
+2. [UnityMLAgentPenguins - Added ML Agent example projects, fixed bugs, tested them out](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/e199a32fe7fb607ca300a3fd657a3e6be2f627fc/MLAgentPenguins/Assets/ML-Agents/Examples)
+3. [Coronavirus Analytics - Updated stats for Apr 20](https://github.com/BrianLeip/CoronaVirus/blob/55e622c7ec7cd4dbbf738496a5db741165dd0d56/Covid19_Analytics.ipynb)
+4. [Coronavirus Analytics - Updated stats for Apr 21](https://github.com/BrianLeip/CoronaVirus/blob/c9b5fcfc5cdaa388cff656a86eb874550e2dfc6d/Covid19_Analytics.ipynb)
+5. [Coronavirus Analytics - Updated stats for Apr 22](https://github.com/BrianLeip/CoronaVirus/blob/4dc4f946b2bfafb1dc76255f584d3fa5d505eb5b/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: April 19, 2020 - Sunday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.  
+
+Took the day off today after full day of coding on Sat.  Not counting towards 100 days of code day count.
+
+**Link(s) to work:**
+1. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/020b1fa407c95778624980e0cb015eae9a59f3fb/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D28: April 18, 2020 - Saturday
+
+**Today's Progress:**  
+- Game Jam
+  - Spent full day working on a game jam - Tilted Game Jam 20
+  - Word prompts: 
+    - Colorful
+    - BBQ
+  - Worked on a team of 3 to create a backyard BBQ game where you cook up meat, fish, or veggies and serve to guests
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.  
+
+Spent the full day coding on this game jam.  To be honest, it turned out pretty crappy, but I konw that you have to allow yourself to create bad shit if you every want to create quality, so I'm not brushing it off.  The next one will be better, and the one after that even better, and so on.  Persistence is key.
+
+**Link(s) to work:**
+1. [Tilted Game Jam 20 - Colorful BBQ game](https://github.com/saltyJeff/colorful-bbq/tree/96e75078ddf9f5ac7cc0b796952971bd9b51eac7)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/6a2f9796a9663ee6f0d0d420e3ea4280f6450ac0/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D27: April 17, 2020 - Friday
+
+**Today's Progress:**  
+- LeetCode
+  - Completed on Product of Array Except Self!!
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+
+The "Product of Array Except Self" challenge definitely threw me for a loop.  But I was persistent, and worked through it over a couple days.  Full nights rest and a walk to clear my head did wonders.  
+
+**Link(s) to work:**
+1. [LeetCode - Completed Product of Array Except Self](https://github.com/BrianLeip/LeetCode/blob/4f0416cd2c08b2ca942ee7518be7053025da8422/238-ProductOfArrayExceptSelf.cpp)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/6e303f8195a0e1236324d9f034072a9cd30e8cf5/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D26: April 16, 2020 - Thursday
+
+**Today's Progress:**  
+- LeetCode
+  - Progress on Product of Array Except Self
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+
+The "Product of Array Except Self" challenge definitely threw me for a loop.  But I was persistent, and worked through it over a couple days.  Full nights rest and a walk to clear my head did wonders.  
+
+**Link(s) to work:**
+1. [LeetCode - Progress on Product of Array Except Self](https://github.com/BrianLeip/LeetCode/commit/a843bfdd441d87d14874dd3655c2f9a7aa97a9c8)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/352cef6bdfc918d9a020459d7a4505898e389a43/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D25: April 15, 2020 - Wednesday
+
+**Today's Progress:**  
+- LeetCode
+  - Started Product of Array Except Self
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.  
+
+The "Product of Array Except Self" challenge definitely threw me for a loop.  But I was persistent, and worked through it over a couple days.  Full nights rest and a walk to clear my head did wonders.  
+
+**Link(s) to work:**
+1. [LeetCode - Started Product of Array Except Self](https://github.com/BrianLeip/LeetCode/blob/6a6453e0775808dd4f579e6a79dcce2dba6bf37b/238-ProductOfArrayExceptSelf.cpp)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/e9f2e1a097279cdc3dcea1c9a1b28e6fcdc88cab/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D24: April 14, 2020 - Tuesday
+
+**Today's Progress:**  
+- LeetCode
+  - Completed PerformStringShifts
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+
+**Link(s) to work:**
+1. [LeetCode - Completed PerformStringShifts](https://github.com/BrianLeip/LeetCode/blob/494d8a0892ac6f873577b699c7d850e9526b2f27/PerformStringShifts.cpp)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/a250b37e61ef253be2334a93b28202961a2523fc/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D23: April 13, 2020 - Monday
 
 **Today's Progress:**  
@@ -28,7 +170,7 @@ It might be a good idea for me to start creating a library of my own with helper
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Another lighter day, enjoying my weekend for a change.  Plan to get back at it again tomorrow.
+Another lighter day, enjoying my weekend for a change.  Plan to get back at in more depth tomorrow.
 
 **Link(s) to work:**
 1. [LeetCode - Started working on Last Stone Weight](https://github.com/BrianLeip/LeetCode/commit/484346e66c79b2444fb4bbed6609a8961b9b1674)
@@ -40,12 +182,12 @@ Another lighter day, enjoying my weekend for a change.  Plan to get back at it a
 
 **Today's Progress:**  
 - Unity:
-  - Testing out Photon Unity Networking 2 (PUN2) package
+  - Testing out Photon Unity Networking 2 (PUN2) package - multiplayer for Unity games
 - Covid-19 (Coronavirus) Analytics
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Lighter day than usual - had some personal things to take care of.
+Lighter day than usual; had some personal things to take care of.
 
 **Link(s) to work:**
 1. [Testing out Photon Unity Networking 2 (PUN2) package](https://github.com/BrianLeip/PhotonUnityNetworking2-Test/tree/860f4c10c871755cedea0939458664577c9b2dcf)
@@ -62,7 +204,9 @@ Lighter day than usual - had some personal things to take care of.
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Spent most of the day doing client work, errands, and some family game time today, but still carved out time to get today's LeetCode challenge done.  Felt more confident solving this one, like the things I'm learning are coming together and the incline of the uphill battle is not as steep.  Got a runtime of 28ms which is better than 94% of other solutions.  Seeing my progress and improvement feels good.
+Spent most of the day doing client work, errands, and some family game time today, but still carved out time to get today's LeetCode challenge done.  
+
+Felt more confident solving this one, like the things I'm learning are coming together and the incline of the uphill battle is not as steep.  Got a runtime of 28ms which is better than 94% of other solutions.  Seeing my progress and improvement feels good.
 
 **Link(s) to work:**
 1. [LeetCode - MinStack](https://github.com/BrianLeip/LeetCode/blob/master/155-MinStack.cpp)
