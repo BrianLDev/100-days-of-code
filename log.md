@@ -1,4 +1,24 @@
 # 100 Days Of Code - Log (Round 5)
+
+## R5-D34: April 25, 2020 - Saturday
+
+**Today's Progress:**  
+- Unity: Eye Catching UI Tutorial
+  - Spent an hour or so getting the overly large files compressed, ignored from git, but still usable in the Unity project
+  - Loaded the project and tested out the different UI scenarios.  All working according to plan
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+It took an hour or so to fix but I resolved the tutorial's large file issue. Frustrating for a UI tutorial, but I'm considering it practice to get better with git ignoring specific files, compressing files, etc.
+Now I can actually start the tutorial!  If they have a recommendation section, let them know the files are too damn big.  
+
+**Link(s) to work:**
+1. [Unity: Eye Catching UI Tutorial - Fixed the >60MB file issues, tested out UI](https://github.com/BrianLeip/UI-In-Unity/commit/96a13929fac009cb6d994e9f44c11fb6fd1d194e)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/5323f71fdfe3548aa702396f19dd9910862b29ee/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D33: April 24, 2020 - Friday
 
 **Today's Progress:**  
@@ -39,7 +59,6 @@ Now that I've gotten my first Unity ML agents project under my belt, this opens 
 2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/2930273031e594610085c79b699b1b431393b3ea/Covid19_Analytics.ipynb)
 
 ---
-
 
 ## R5-D29 to D31: April 20 to 22, 2020 - Monday to Wednesday
 
