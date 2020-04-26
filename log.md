@@ -1,4 +1,21 @@
 # 100 Days Of Code - Log (Round 5)
+## R5-D33: April 24, 2020 - Friday
+
+**Today's Progress:**  
+- Unity: Eye Catching UI Tutorial
+  - Finished first 2 course videos, downloaded project files, loaded into project
+  - Some of their files are too big for git (>60MB). Hitting a roadblock will need to revisit tomorrow
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Very frustrating that a tutorial about something as lightweight as UI would use massively large assets that are too big for git.  I'll need to play around to see how to compress or exclude those files so that I can move forward on this.
+
+**Link(s) to work:**
+1. [Unity: Eye Catching UI Tutorial - Started](https://github.com/BrianLeip/UI-In-Unity/commit/8237e966ae96439a1d06872b80bf56fe72820e39)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/de2efd23aa11790498e1b214c3a4ba9c5457baaf/Covid19_Analytics.ipynb)
+
+---
 
 ## R5-D32: April 23, 2020 - Thursday
 
@@ -13,9 +30,9 @@
   - Updated stats for the day as usual
 
 **Thoughts:**  
-This was definitely one of the more challenging but rewarding projects I've worked on.  Challenging because the MLAgents library is evolving rapidly and there are multiple versions of the tutorial, all of which are out of date and don't work out of the box.  Took a lot of tweaking and refactoring to get it to work, but when it all came together in the end it was very rewarding.
+This was definitely one of the more challenging but rewarding projects I've worked on.  Challenging because the MLAgents library is evolving rapidly and none of the code from the tutorial works out of the box.  There are also multiple versions of the tutorial, all of which are out of date.  Took a lot of tweaking and refactoring to get it to work, but when it all came together in the end it was very rewarding.
 
-Now that I'm more comfortable with Unity ML agents this opens up a whole new world to me and I'm excited to dive in.
+Now that I've gotten my first Unity ML agents project under my belt, this opens up a whole new world to me and I'm excited to dive in.
 
 **Link(s) to work:**
 1. [UnityMLAgentPenguins - Finished the project!](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/7807f90acac7e84e6f432b4683bcf1468c26bbae)
