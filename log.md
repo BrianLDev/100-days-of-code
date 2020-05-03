@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D38: May 2, 2020 - Saturday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Created black holes with particle force fields (gravity & rotation)
+  - Looked into VFX Graph as an alternative to DOTS to handle huge num of particles
+  - Switched particle system to be GPU based, made new GPU particle material
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Spent almost all day working on NovaForge and have a great little space sim coming together.  It's amazing how focused and determined I am when working on something I enjoy.
+
+**Link(s) to work:**
+1. [NovaForge - Created black holes, particle force fields, converted particle system to GPU based](https://github.com/BrianLeip/NovaForge/commit/703356aa31827885b7f23e8f19c93bd370a96326)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b43ab3beb8c4d55e1090f9d8bee87944acc63b3f/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D37: May 1, 2020 - Friday
 
 **Today's Progress:**  
