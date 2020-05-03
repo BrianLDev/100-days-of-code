@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D37: May 1, 2020 - Friday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Set up git repo, fixed many .gitignore issues, created Unity project
+  - Created prototype space scene with particle clouds and movement
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Simulation Game jam started!  
+
+*Theme = "A matter of degree"*   
+I brainstormed on different ideas and game mechanics and landed on one that should be pretty fun to make.  Elements (matter) are created stars explode in the raging temperatures (degree) of a supernova.  
+
+*Nova Forge - A supernova simulator where new elements are created*  
+
+Spent the day getting the git repo set up (lots of issues with .gitignore that I eventually worked out), then creating a prototype space scene with particle clouds that you can fly around in.
+
+**Link(s) to work:**
+1. [NovaForge - Set up project, created prototype space scene](https://github.com/BrianLeip/NovaForge/commit/3a1baa99d05c506cf8fff305e044b71d7afc02fb)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/c0d3a6ee6c8eb4783b5824840c7537379adcd871/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D36: April 30, 2020 - Thursday
 
 **Today's Progress:**  
