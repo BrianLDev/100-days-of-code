@@ -1,5 +1,61 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D36: April 30, 2020 - Thursday
+
+**Today's Progress:**  
+- Eye Catching UI In Unity
+  - Created fade in and fade out transitions
+- Unity DOTS / ECS System
+  - Testing out Unity DOTS demos for ECS and Physics
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+*Catch-up for last week of coding Apr 26 - May 1*  
+I joined a game jam that starts on May 1st, so I'm doing a little research on Unity tools / libraries to prepare.  The DOTS / ECS system is a rebuild of the entire Unity library that drastically improves performance.  The game jam is a simulation (processor heavy) so I'm looking into this as a potential option for the game jam.
+
+**Link(s) to work:**
+1. [Eye-catching UI in Unity - Created fade in and fade out transitions](https://github.com/BrianLeip/UI-In-Unity/tree/52a14fa693314800e9ccd425f381dabc2b1811a2)
+2. [Unity DOTS / ECS demos and physics testing](https://github.com/BrianLeip/Unity-ECS-Demo/tree/5599d783706474a777d5247b9b2059758b169444)
+3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/c83d8cc143d0688f21d2cd2a2fcbea1ed38541d1/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D35: April 29, 2020 - Wednesday
+
+**Today's Progress:**  
+- Eye Catching UI In Unity
+  - Created a slide-in pause menu
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+*Catch-up for last week of coding Apr 26 - May 1*  
+Lots of issues with this tutorial - files are too big, tutorial skips important steps...  I'm pushing through by looking at what the goal is (e.g. slide-in pause menu using animation) and then creating it myself.
+
+**Link(s) to work:**
+1. [Eye-catching UI in Unity - Created a slide-in pause menu](https://github.com/BrianLeip/UI-In-Unity/tree/f07c173ee5fc2ec8b0f8ce6c5b7fe8e3c39071bb)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/c83d8cc143d0688f21d2cd2a2fcbea1ed38541d1/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: April 26 to 28, 2020 - Sunday to Tuesday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+*Catch-up for last week of coding Apr 26 - May 1*  
+Had a rough few days and needed some time off.  Didn't count this one towards 100 Days Of Code total.  
+
+**Link(s) to work:**
+1. [Coronavirus Analytics - Updated stats for Apr 26](https://github.com/BrianLeip/Covid19_Analytics/blob/f118e00149bfb4fcc4cc973c2a895ef834ac2f10/Covid19_Analytics.ipynb)
+2. [Coronavirus Analytics - Updated stats for Apr 27](https://github.com/BrianLeip/Covid19_Analytics/blob/ac466efc08407fb096a5d54c60c89697be6fbe80/Covid19_Analytics.ipynb)
+3. [Coronavirus Analytics - Updated stats for Apr 28](https://github.com/BrianLeip/Covid19_Analytics/blob/2f74dd39d22cf58243a30d4d5a2b716da7ed97f7/Covid19_Analytics.ipynb))
+
+---
+
 ## R5-D34: April 25, 2020 - Saturday
 
 **Today's Progress:**  
