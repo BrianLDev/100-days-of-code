@@ -1,11 +1,30 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D39: May 3, 2020 - Sunday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Worked on getting Particle collisions working
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Had to do a lot of client work today so not as much time for coding today, but still squeezed some in. 
+
+Spent about an hour working on getting particle collisions working so that the Space Warps can consume the particles and grow.  But still wasn't working so I'll have to dig back in tomorrow and figure it out.
+
+**Link(s) to work:**
+1. [NovaForge - Worked on getting Particle collisions working](https://github.com/BrianLeip/NovaForge/commit/a3b15720614b0dca28c30e85899dd7dff23381de)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b43ab3beb8c4d55e1090f9d8bee87944acc63b3f/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D38: May 2, 2020 - Saturday
 
 **Today's Progress:**  
 - Simulation Game Jam (NovaForge)
   - Created black holes with particle force fields (gravity & rotation)
-  - Looked into VFX Graph as an alternative to DOTS to handle huge num of particles
+  - Looked into the HDRP VFX Graph as an alternative to DOTS to handle huge num of particles
   - Switched particle system to be GPU based, made new GPU particle material
 - Covid-19 (Coronavirus) Analytics
   - Updated stats for the day as usual
