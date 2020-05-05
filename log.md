@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D40: May 4, 2020 - Monday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Got particle collisions working and Space Warps now grow when they absorb particles
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Got particle collisions working and Space Warps now grow when they absorb particles.  Looks so damn cool!
+
+**Link(s) to work:**
+1. [NovaForge - Got particle collisions working and Space Warps now grow when they absorb particles](https://github.com/BrianLeip/NovaForge/commit/492959239805a4d09c45e5e8f601e875e17af0e2)
+2. [Coronavirus Analytics - Updated stats for the day]()
+
+---
+
 ## R5-D39: May 3, 2020 - Sunday
 
 **Today's Progress:**  
