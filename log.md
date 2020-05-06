@@ -1,19 +1,44 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D41: May 5, 2020 - Tuesday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Got Space Warp gravity to increase as it grows
+- Free Code Camp
+  - Did 10 more exercises on Responsive Web Design course
+- MongoDB University
+  - Started M001: MongoDB Basics Course
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Gravity is controlled by MinMaxCurves and it was a lot more difficult to change than originally thought.  Eventually figured it out though.  
+Also continued with more FCC exercises, and started a MongoDB course to solidify my NoSQL data query skills.
+
+**Link(s) to work:**
+1. [NovaForge - Got Space Warp gravity to increase as it grows](https://github.com/BrianLeip/NovaForge/commit/0a15a588758b794bd58e9878dec5925fa02095a4)
+2. [FCC - More exercises in Responsive Web Design Course](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/6264bd317a55d1b9cce1e00d4c4b195173a869cb)
+3. [MongoDB University - M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+4. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/d9b6ed22603bb34107fd182112e116628cdaa153/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D40: May 4, 2020 - Monday
 
 **Today's Progress:**  
 - Simulation Game Jam (NovaForge)
   - Got particle collisions working and Space Warps now grow when they absorb particles
-- Covid-19 (Coronavirus) Analytics
-  - Updated stats for the day as usual
+- Free Code Camp
+  - Started Responsive Web Design course, did 10 exercises
 
 **Thoughts:**  
 Got particle collisions working and Space Warps now grow when they absorb particles.  Looks so damn cool!
 
 **Link(s) to work:**
 1. [NovaForge - Got particle collisions working and Space Warps now grow when they absorb particles](https://github.com/BrianLeip/NovaForge/commit/492959239805a4d09c45e5e8f601e875e17af0e2)
-2. [Coronavirus Analytics - Updated stats for the day]()
+2. [FCC - Started Responsive Web Design course, did 10 exercises](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/866a329869b61b5342c2dd89850e12bbc115df48)
+2. Coronavirus Analytics - no update today
 
 ---
 
@@ -22,8 +47,6 @@ Got particle collisions working and Space Warps now grow when they absorb partic
 **Today's Progress:**  
 - Simulation Game Jam (NovaForge)
   - Worked on getting Particle collisions working
-- Covid-19 (Coronavirus) Analytics
-  - Updated stats for the day as usual
 
 **Thoughts:**  
 Had to do a lot of client work today so not as much time for coding today, but still squeezed some in. 
@@ -32,7 +55,7 @@ Spent about an hour working on getting particle collisions working so that the S
 
 **Link(s) to work:**
 1. [NovaForge - Worked on getting Particle collisions working](https://github.com/BrianLeip/NovaForge/commit/a3b15720614b0dca28c30e85899dd7dff23381de)
-2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b43ab3beb8c4d55e1090f9d8bee87944acc63b3f/Covid19_Analytics.ipynb)
+2. Coronavirus Analytics - no update today
 
 ---
 
