@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D42: May 6, 2020 - Wednesday
+
+**Today's Progress:**  
+- Free Code Camp
+  - Completed Basic HTML Section
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Quick one today, but I knocked out the rest of the Basic HTML section before bed.
+
+**Link(s) to work:**
+1. [FCC - Completed Basic HTML section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/blob/513bac28ccfb1863e1d6db8b430ba7c2635c8288/1-Basic-HTML/Basic%20HTML%20-%20Done.PNG)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/a66c6a4855bd8982b1c7e53a8fdda5d3e4a30adc/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D41: May 5, 2020 - Tuesday
 
 **Today's Progress:**  
@@ -524,7 +541,7 @@ Being cooped up for too long on Coronavirus quarantine is wearing on me.
 "I feel I need a holiday.  A very long holiday."
 
 **Link(s) to work:**
-1. Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/efbfb07e09e5f3801944a7535eaa4554de97e0c8/Covid19_Analytics.ipynb)
+1. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/efbfb07e09e5f3801944a7535eaa4554de97e0c8/Covid19_Analytics.ipynb)
 
 ---
 
