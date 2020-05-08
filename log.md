@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D43: May 7, 2020 - Thursday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Nebulas now have limited number of articles that can be absorbed, then they're shut off
+- Free Code Camp
+  - Completed 10 exercises in the Basic CSS section
+- MongoDB University
+  - Set up MongoDB demo database, connected to it through MongoDB Compass and through the shell
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Feels like I'm starting to make good progress on all fronts.  Want to dedicate even more time to this whenever possible.
+
+**Link(s) to work:**
+1. [NovaForge - Nebulas limited number of particle absorption before shutting off](https://github.com/BrianLeip/NovaForge/commit/acfaa8b801013800a4d49ce7372d2e4239da2652)
+2. [FCC - Completed 10 exercises in the Basic CSS section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/2dcd6b597aec8fb89e228bc3f26cf8a9b9fc93e9)
+3. [MongoDB University - M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+4. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/45ac06e01303d77158ca9548bd41ce6b9dc5bd45/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D42: May 6, 2020 - Wednesday
 
 **Today's Progress:**  
