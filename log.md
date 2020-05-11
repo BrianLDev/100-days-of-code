@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D45: May 10, 2020 - Sunday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Learned about the Unity DOTS / Job system, started testing it out
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+After testing NovaForge out on my macbook pro and getting terrible performance, making it more efficient is key.  And the DOTS / C# Job System is the best way to make that happen.  
+In the Job system test / tutorial project I'm working on, using Jobs and Burst compiler improved FPS from 6 to 350! That's a 58x improvement.  There's a bit of a learning curve here, and it's still in preview mode and volatile, but once I get it down it will unlock huge potential.  
+
+**Link(s) to work:**
+1. [NovaForge - Learned about the Unity DOTS / Job system, started testing it out](https://github.com/BrianLeip/Unity-DOTS-Testing/blob/6ceb72ee4daa9281de540aa4a5a34d6febfa2c87/README.md)
+6. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/395ae5e274054d878109c3cdeaaec628bcf1921a/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: May 9, 2020 - Saturday
+
+
+**Thoughts:**  
+After yesterday'g big day, I took 1 day off for some personal and client work today.
+
+---
+
 ## R5-D44: May 8, 2020 - Friday
 
 **Today's Progress:**  
@@ -21,10 +47,10 @@ Big progress on NovaForge today.  Spent most of the day on it and love how it's 
 **Link(s) to work:**
 1. [NovaForge - Improved efficiency from 75 FPS to 135 FPS](https://github.com/BrianLeip/NovaForge/commit/d079393710737dc01ca38edd81c712dc44b3c418)
 2. [NovaForge - Partcile clouds are now in the shape of clouds!  Not boring spheres.  ](https://github.com/BrianLeip/NovaForge/commit/8527edc7a635e28cd0feec9e72f7ff5eb33992b2)
-2. [NovaForge - A star is born](https://github.com/BrianLeip/NovaForge/commit/79882dd65fb7ad46f43099d799e687288bcb94fd)
-2. [NovaForge - Tested Amplify shader editor and created a custom star fire shader](https://github.com/BrianLeip/NovaForge/commit/0385ef2768a5e601779ead580f2dc392a00318b5)
-2. [FCC - Completed 10 more exercises in the Basic CSS section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/e4ad89df79f769d15307bccc42c960d27745dc5f)
-4. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/2c3caf9c1cdbeaa3be8c3f1a2b57eb5dfbb7fe79/Covid19_Analytics.ipynb)
+3. [NovaForge - A star is born](https://github.com/BrianLeip/NovaForge/commit/79882dd65fb7ad46f43099d799e687288bcb94fd)
+4. [NovaForge - Tested Amplify shader editor and created a custom star fire shader](https://github.com/BrianLeip/NovaForge/commit/0385ef2768a5e601779ead580f2dc392a00318b5)
+5. [FCC - Completed 10 more exercises in the Basic CSS section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/e4ad89df79f769d15307bccc42c960d27745dc5f)
+6. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/2c3caf9c1cdbeaa3be8c3f1a2b57eb5dfbb7fe79/Covid19_Analytics.ipynb)
 
 ---
 
