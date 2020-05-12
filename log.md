@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D46: May 11, 2020 - Monday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - More testing of Unity DOTS system
+- Unity Utility Scripts
+  - Created custom camera controller script
+  - Started a new repo to track all custom scripts in a library
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Was up very late/early with client work so I didn't have as much time to dedicate to this as I wanted.  But time is running short on the game jam (ends Sunday 5/17) so I need (and want) to carve out more time for this.  The majority of my client work is done for the month so that frees me up a lot more.
+
+**Link(s) to work:**
+1. [NovaForge - Improvements to camera controller, more DOTS testing](https://github.com/BrianLeip/NovaForge/commit/bd92d18466dbcd1abaae7682656ca160cf5cf564)
+2. [Started Unity Utilities Library with Simple Camera Controller Script](https://github.com/BrianLeip/Unity-Utility-Scripts/blob/11d348b12ce7557c0b4a734231e2a132add6f0da/SimpleCameraControllerBL.cs)
+3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/fe7d86c058c99c6a919e89329ddf5a8d8217b716/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D45: May 10, 2020 - Sunday
 
 **Today's Progress:**  
@@ -14,7 +35,7 @@ In the Job system test / tutorial project I'm working on, using Jobs and Burst c
 
 **Link(s) to work:**
 1. [NovaForge - Learned about the Unity DOTS / Job system, started testing it out](https://github.com/BrianLeip/Unity-DOTS-Testing/blob/6ceb72ee4daa9281de540aa4a5a34d6febfa2c87/README.md)
-6. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/395ae5e274054d878109c3cdeaaec628bcf1921a/Covid19_Analytics.ipynb)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/395ae5e274054d878109c3cdeaaec628bcf1921a/Covid19_Analytics.ipynb)
 
 ---
 
