@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D47: May 12, 2020 - Tuesday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Particle System C# Jobs Test
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+The C# Jobs system definitely has potential to improve the efficiency of the particles but the package is still in preview and unstable.  Time is short before the game jam ends on Sunday so need to shift focus back to other priorities.
+
+**Link(s) to work:**
+1. [NovaForge - Particle System C# Jobs Test](https://github.com/BrianLeip/Unity-DOTS-Testing/tree/a9f0295ac952a4434587438344bc8136a60736a0/Particle-Job-System-Test)
+2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/e2964d3c001d44e4e533a734f94c3f5b695edda5/Covid19_Analytics.ipynb)
+---
+
 ## R5-D46: May 11, 2020 - Monday
 
 **Today's Progress:**  
