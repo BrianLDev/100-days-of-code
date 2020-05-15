@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D48: May 13, 2020 - Wednesday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - None today
+- Free Code Camp
+  - did a few exercises but forgot to commit them to git
+- A Smarter Way to Learn HTML and CSS
+  - Started book alongside FCC since it's highly regarded as a good hands-on book to retain info
+  - Completed ch 1, 2, 3
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+I'm enjoying this and feeling like I'm progressing , but a part of me wonders if I'm spreading myself too thin.  Currently doing a game jame in Unity/C# and learning new game dev techniques, learning HTML and CSS with both Free Code Camp and Smarter Way to Learn book, and also will be continuing the MongoDB course.  
+
+On second thought, it's all a matter of time.  If I only do 1-2 hours of coding a day, then this is definitely too much.  But if I do 6-10 hours of coding a day, then this is very much manageable.  So I just need to dedicate more time and allocate appropriately.  I'd say 70% game jam given the looming deadline of the 17th, 10% FCC, 10% Smarter way to learn book, 10% MongoDB.  A little progress every day.
+
+**Link(s) to work:**
+1. Free Code Camp - did a few exercises but forgot to commit them to git
+2. [Smarter Way to Learn HTML & CSS - Completed ch 1, 2, 3](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/af3ec6d7d85ed707244a9d183f9fbce736adecae)
+3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/e6c65377f4b70c23da7c2d848a86a53326e061a5/Covid19_Analytics.ipynb)
+---
+
 ## R5-D47: May 12, 2020 - Tuesday
 
 **Today's Progress:**  
