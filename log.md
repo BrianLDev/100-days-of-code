@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D49: May 14, 2020 - Thursday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Tested out Unity's new UI Builder with their Tanks demo
+  - Created my own test project to make UI menus with Unity's UI Builder
+    - Got the first buttons working with hover and click animations
+- Free Code Camp
+  - 10 more exercises in the Basic CSS section
+- A Smarter Way to Learn HTML and CSS
+  - Finished ch 4
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [Tested out Unity's new UI Builder with their Tanks demo](https://github.com/BrianLeip/UI-Builder-Tanks-Demo/commit/aee680c4b2faf3ea400a832e2f898d72eb6ba552)
+2. [UI Builder Test - Got the first buttons working with hover and click animations](https://github.com/BrianLeip/Unity-UI-Builder-Test/commit/002a80ed2663d9fa4f7b8840b61dc95584b02754)
+3. [Free Code Camp - 10 more exercises in basic CSS section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/ba2d094fecf5fbd5869a829b90ac7d9d14b68af8)
+4. [Smarter Way to Learn HTML & CSS - Finished ch 4](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/1db2461db1809582ba81c5c1f82489f4da3cdeec)
+5. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/91080a9df17af29474f21208f1eba2f8f8efbbc8/Covid19_Analytics.ipynb)
+---
+
 ## R5-D48: May 13, 2020 - Wednesday
 
 **Today's Progress:**  
@@ -14,7 +39,7 @@
   - Updated stats for the day as usual
 
 **Thoughts:**  
-I'm enjoying this and feeling like I'm progressing , but a part of me wonders if I'm spreading myself too thin.  Currently doing a game jame in Unity/C# and learning new game dev techniques, learning HTML and CSS with both Free Code Camp and Smarter Way to Learn book, and also will be continuing the MongoDB course.  
+I'm enjoying this and feeling like I'm progressing well, but a part of me wonders if I'm spreading myself too thin.  Currently doing a game jame in Unity/C# and learning new game dev techniques, learning HTML and CSS with both Free Code Camp and Smarter Way to Learn book, and also will be continuing the MongoDB course.  
 
 On second thought, it's all a matter of time.  If I only do 1-2 hours of coding a day, then this is definitely too much.  But if I do 6-10 hours of coding a day, then this is very much manageable.  So I just need to dedicate more time and allocate appropriately.  I'd say 70% game jam given the looming deadline of the 17th, 10% FCC, 10% Smarter way to learn book, 10% MongoDB.  A little progress every day.
 
