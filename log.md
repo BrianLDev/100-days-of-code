@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D50: May 15, 2020 - Friday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Fixed text/font issues with the UI Builder package in my test project.  Buttons, text and labels all working now.
+- Free Code Camp
+  - Finished the last 14 exercises in the Basic CSS section
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+UI has admittedly never been my strong suit, but I need to focus to get something into NovaForge ASAP.  Only 2 days left so it's time to just get a functioning UI prototype working and move on to other stuff.  Fortunately, the things I'm learning will make UI much easier in the future, and help me in every single project/game that I work on, since everything needs UI.  So despite being time consuming it's vital.
+
+
+Also, Feels good to knock out another section of FCC.  Moving forward.
+
+**Link(s) to work:**
+1. [UI Builder - Fixed text/font issues with the UI Builder package.  Buttons, text and labels all working now](https://github.com/BrianLeip/Unity-UI-Builder-Test/commit/a44fe37e910906d7861e1eef1bd25f0069f6dfb0)
+2. [Free Code Camp - Finished the last 14 exercises in the Basic CSS section]()
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/238a2d28425904ebcd3e298348e7889d33645e47/Covid19_Analytics.ipynb)
+---
+
 ## R5-D49: May 14, 2020 - Thursday
 
 **Today's Progress:**  
@@ -39,7 +61,7 @@
   - Updated stats for the day as usual
 
 **Thoughts:**  
-I'm enjoying this and feeling like I'm progressing well, but a part of me wonders if I'm spreading myself too thin.  Currently doing a game jame in Unity/C# and learning new game dev techniques, learning HTML and CSS with both Free Code Camp and Smarter Way to Learn book, and also will be continuing the MongoDB course.  
+I'm enjoying this and feeling like I'm progressing , but a part of me wonders if I'm spreading myself too thin.  Currently doing a game jame in Unity/C# and learning new game dev techniques, learning HTML and CSS with both Free Code Camp and Smarter Way to Learn book, and also will be continuing the MongoDB course.  
 
 On second thought, it's all a matter of time.  If I only do 1-2 hours of coding a day, then this is definitely too much.  But if I do 6-10 hours of coding a day, then this is very much manageable.  So I just need to dedicate more time and allocate appropriately.  I'd say 70% game jam given the looming deadline of the 17th, 10% FCC, 10% Smarter way to learn book, 10% MongoDB.  A little progress every day.
 
@@ -412,7 +434,7 @@ Now that I've gotten my first Unity ML agents project under my belt, this opens 
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+*Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.*  
 
 These 3 days sort of blurred together (late nights / early mornings) so I'm combining them together here.
 
@@ -421,25 +443,25 @@ Made great progress on the Unity Machine Learning Agent Penguins tutorial.  This
 **Link(s) to work:**
 1. [UnityMLAgentPenguins - Restarted project for updated versions of MLAgent package](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/27a8cf0d1f527ccfb852afaacbeb5dfa3ca61d22/MLAgentPenguins)
 2. [UnityMLAgentPenguins - Added ML Agent example projects, fixed bugs, tested them out](https://github.com/BrianLeip/UnityMLAgentPenguins/tree/e199a32fe7fb607ca300a3fd657a3e6be2f627fc/MLAgentPenguins/Assets/ML-Agents/Examples)
-3. [Coronavirus Analytics - Updated stats for Apr 20](https://github.com/BrianLeip/CoronaVirus/blob/55e622c7ec7cd4dbbf738496a5db741165dd0d56/Covid19_Analytics.ipynb)
-4. [Coronavirus Analytics - Updated stats for Apr 21](https://github.com/BrianLeip/CoronaVirus/blob/c9b5fcfc5cdaa388cff656a86eb874550e2dfc6d/Covid19_Analytics.ipynb)
-5. [Coronavirus Analytics - Updated stats for Apr 22](https://github.com/BrianLeip/CoronaVirus/blob/4dc4f946b2bfafb1dc76255f584d3fa5d505eb5b/Covid19_Analytics.ipynb)
+3. [Coronavirus Analytics - Updated stats for Apr 19](https://github.com/BrianLeip/CoronaVirus/blob/020b1fa407c95778624980e0cb015eae9a59f3fb/Covid19_Analytics.ipynb)
+4. [Coronavirus Analytics - Updated stats for Apr 20](https://github.com/BrianLeip/CoronaVirus/blob/55e622c7ec7cd4dbbf738496a5db741165dd0d56/Covid19_Analytics.ipynb)
+5. [Coronavirus Analytics - Updated stats for Apr 21](https://github.com/BrianLeip/CoronaVirus/blob/c9b5fcfc5cdaa388cff656a86eb874550e2dfc6d/Covid19_Analytics.ipynb)
+6. [Coronavirus Analytics - Updated stats for Apr 22](https://github.com/BrianLeip/CoronaVirus/blob/4dc4f946b2bfafb1dc76255f584d3fa5d505eb5b/Covid19_Analytics.ipynb)
 
 ---
 
 ## R5-Dxx: April 19, 2020 - Sunday
 
 **Today's Progress:**  
-- Covid-19 (Coronavirus) Analytics
-  - Updated stats for the day as usual
+n/a
 
 **Thoughts:**  
-Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.  
+*Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.*  
 
 Took the day off today after full day of coding on Sat.  Not counting towards 100 days of code day count.
 
 **Link(s) to work:**
-1. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/CoronaVirus/blob/020b1fa407c95778624980e0cb015eae9a59f3fb/Covid19_Analytics.ipynb)
+
 
 ---
 
@@ -456,7 +478,7 @@ Took the day off today after full day of coding on Sat.  Not counting towards 10
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.  
+*Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.*  
 
 Spent the full day coding on this game jam.  To be honest, it turned out pretty crappy, but I konw that you have to allow yourself to create bad shit if you every want to create quality, so I'm not brushing it off.  The next one will be better, and the one after that even better, and so on.  Persistence is key.
 
@@ -475,7 +497,7 @@ Spent the full day coding on this game jam.  To be honest, it turned out pretty 
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+*Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.*  
 
 The "Product of Array Except Self" challenge definitely threw me for a loop.  But I was persistent, and worked through it over a couple days.  Full nights rest and a walk to clear my head did wonders.  
 
@@ -494,7 +516,7 @@ The "Product of Array Except Self" challenge definitely threw me for a loop.  Bu
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+*Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.*  
 
 The "Product of Array Except Self" challenge definitely threw me for a loop.  But I was persistent, and worked through it over a couple days.  Full nights rest and a walk to clear my head did wonders.  
 
@@ -513,7 +535,7 @@ The "Product of Array Except Self" challenge definitely threw me for a loop.  Bu
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.  
+*Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.*  
 
 The "Product of Array Except Self" challenge definitely threw me for a loop.  But I was persistent, and worked through it over a couple days.  Full nights rest and a walk to clear my head did wonders.  
 
@@ -532,7 +554,7 @@ The "Product of Array Except Self" challenge definitely threw me for a loop.  Bu
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.
+*Note - Been coding every day but not logging it on here.  Getting everything caught up from Apr 14 to Apr 23.*  
 
 **Link(s) to work:**
 1. [LeetCode - Completed PerformStringShifts](https://github.com/BrianLeip/LeetCode/blob/494d8a0892ac6f873577b699c7d850e9526b2f27/PerformStringShifts.cpp)
