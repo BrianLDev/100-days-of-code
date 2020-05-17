@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D51: May 16, 2020 - Saturday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Added the UI Menu's I built previously
+  - Created an Elements system, keeps track of how many particles absorbed
+- Free Code Camp
+  - Completed first 10 exercises in Applied Visual Design section
+- Smarter way to learn HTML & CSS
+  - Finished ch 5
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Big day!  Finished the multi-day project to get the UI working and implemented it in NovaForge.  Also got the Element absorbing system started.  Game Jam deadline is tomorrow night, I'm in the homestretch, just gotta push through.  
+
+On top of NovaForge work, I got more done on Free Code Camp and Smarter way to learn HTML and CSS.  May skip these tomorrow to focus 100% on NovaForge on submission day.
+
+**Link(s) to work:**
+1. [NovaForge - Added the UI Menu's I built previously](https://github.com/BrianLeip/NovaForge/commit/a553a9fe3a5d1f25bc17697c7363a7e8eb20b0c2)
+2. [NovaForge - Created an Elements system, keeps track of how many particles absorbed](https://github.com/BrianLeip/NovaForge/commit/04c972c76fb23ee450ce0bf538cd8d1a888e38f7)
+3. [Free Code Camp - Completed first 10 exercises in Applied Visual Design section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/2d9b8a218916a296649903f0ff884b745f3ad40c)
+4. [Smarter way to learn HTML & CSS - Finished ch 5](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/993ad9f825bea4a65914e414740e83eb1eea54ec)
+5. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/4ad22316b5ba45329369193481710fce7935ec26/Covid19_Analytics.ipynb)
+---
+
 ## R5-D50: May 15, 2020 - Friday
 
 **Today's Progress:**  
@@ -11,14 +37,13 @@
   - Updated stats for the day as usual
 
 **Thoughts:**  
-UI has admittedly never been my strong suit, but I need to focus to get something into NovaForge ASAP.  Only 2 days left so it's time to just get a functioning UI prototype working and move on to other stuff.  Fortunately, the things I'm learning will make UI much easier in the future, and help me in every single project/game that I work on, since everything needs UI.  So despite being time consuming it's vital.
-
+UI has admittedly never been my strong suit, but I need to focus to get something into NovaForge ASAP.  Only 2 days left so it's time to just get a functioning UI prototype working and move on to other stuff.  Fortunately, the things I'm learning will make UI much easier in the future, and help me in every single project/game that I work on, since everything needs UI.  So despite being time consuming it's vital.  
 
 Also, Feels good to knock out another section of FCC.  Moving forward.
 
 **Link(s) to work:**
 1. [UI Builder - Fixed text/font issues with the UI Builder package.  Buttons, text and labels all working now](https://github.com/BrianLeip/Unity-UI-Builder-Test/commit/a44fe37e910906d7861e1eef1bd25f0069f6dfb0)
-2. [Free Code Camp - Finished the last 14 exercises in the Basic CSS section]()
+2. [Free Code Camp - Finished the last 14 exercises in the Basic CSS section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/ca7c9a2c14c1cbdd836fb37b04e1dfee93949a60)
 3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/238a2d28425904ebcd3e298348e7889d33645e47/Covid19_Analytics.ipynb)
 ---
 
