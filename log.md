@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D52: May 17, 2020 - Sunday
+
+**Today's Progress:**  
+- Simulation Game Jam (NovaForge)
+  - Separated out the intro scene from game scene, added transition between the two
+  - More improvements to menu system
+  - Added mechanic to deploy space warps
+  - Bundled game, added an icon and uploaded to itch.io
+  - Done (for now)
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Sim game jam submission day: spent all day on NovaForge 13+ hours or so and then submitted it to itch.io for the competition.  
+Was it perfect?  No.  Were there a lot of things missing?  Yup.  But after multiple game jams where I joined but didn't submit because it wasn't "good enough", I'm forcing myself to submit this one anyways, flaws and all.  I have a tendency to beat myself up when I don't create something that lives up to the vision and expectations that were in my head, but I now know that all creative people experience that feeling.  
+
+What's important here is that I met my objectives of 1) Finishing a freaking game jam, 2) learning things along the way (I learned a ton actually), and 3) have a nugget of a good game that could be turned into something great in the future.  I achieved all 3 of those things, and I'm learning to use setbacks and imperfect creations as fuel to get better, not as a whip to flog myself with.  
+
+**Link(s) to work:**
+1. [NovaForge - Too many links. Just going to post my itch.io submission page](https://torchfire.itch.io/novaforge)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/f66c1831cd5bb0df5ff70d21857e88ea6867734c/Covid19_Analytics.ipynb)
+---
+
 ## R5-D51: May 16, 2020 - Saturday
 
 **Today's Progress:**  
