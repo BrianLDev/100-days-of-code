@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D54: May 19, 2020 - Tuesday
+
+**Today's Progress:**  
+- Input system testing (Unity)
+  - Testing out Unity's new input system within the DOTween test project
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Input is another area I need to improve on, so I'm testing out Unity's new input system.  This one is more stable than the UIBuilder / UI Elements and safe to use.
+
+**Link(s) to work:**
+1. [Unity Input system testing](https://github.com/BrianLeip/DOTween-Test/commit/47d9b465ab549f29ad1211653b09084bb591526a)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/ede8e3cfae0cf5f1eeceafd6f22c880211406427/Covid19_Analytics.ipynb)
+---
+
+## R5-D53: May 18, 2020 - Monday
+
+**Today's Progress:**  
+- DOTween Test (Unity)
+  - Created a new project to test out the DOTween tool - used to animate UI
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+The game jam taught me that UI is an area I need to improve on, and also that Unity's UI Builder and UI Elements are still in very rough, early stages, so I need to use something more stable.  
+
+To that end, I'm testing out DOTween which is a "Tweener" tool used by a ton of Unity developers along with Unity's canned UI system to create nice looking animated UI.
+
+**Link(s) to work:**
+1. [DOTween - Created a new project to test out the DOTween tool - used to animate UI](https://github.com/BrianLeip/DOTween-Test/commit/357e88c0f0c375e8fd85d3d0f5cb44a729f78023)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/69f370821aab2cb3d90ca13a3074e1e79ec78240/Covid19_Analytics.ipynb)
+---
+
 ## R5-D52: May 17, 2020 - Sunday
 
 **Today's Progress:**  
