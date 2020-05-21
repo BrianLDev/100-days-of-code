@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D55: May 20, 2020 - Wednesday
+
+**Today's Progress:**  
+- NovaForge
+  - Separated intro and in-game element cloud spawning
+  - Moved space warp to be inside camera (you)
+  - Absorbing particles increases quantum power
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Felt good to get back into NovaForge now that the pressure cooker of the game jam is over.  This game has a lot of potential and I'm going to keep moving forward on it.
+
+**Link(s) to work:**
+1. [NovaForge - Separated intro and in-game element cloud spawning](https://github.com/BrianLeip/NovaForge/commit/4dab7d48dc6584a38dd519583a7d030b6b3bc91a)
+2. [NovaForge - Moved space warp to be inside camera (you)](https://github.com/BrianLeip/NovaForge/commit/8d0f8d08b6057ad36398b68bea71bd72c4cc0635)
+3. [NovaForge - Absorbing particles increases quantum power](https://github.com/BrianLeip/NovaForge/commit/dd0db91073f066582ea017f60aba3abeb7848517)
+4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/e51f102e023fd560fcddedd812fc538131df070d/Covid19_Analytics.ipynb)
+---
+
 ## R5-D54: May 19, 2020 - Tuesday
 
 **Today's Progress:**  
