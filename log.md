@@ -1,5 +1,48 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D57: May 22, 2020 - Friday
+
+**Today's Progress:**  
+- NovaForge
+  - Fixed Restart funtionality: in game clouds disappear and camera resets
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Another one that Unity made Unnecessarily complex.  They somehow don't have a way to set the position (Transform) of a gameobject or Camera.  So if you want to simply move something to a specific location, a simple line like `camera.transform.position = newPosition;` doesn't work.  
+
+After Googling it and seeing all the other comments, this is a problem that so many people run into, and setting positions is such a fundamental part of a game that you would think this would be fixed by now.  But even with all it's flaws, Unity is 100x better than when you had to basically do everything on your own 15 years ago.
+
+So even though this cost me another few hours, I figured it out in the end and next time will be that much easier.
+
+**Link(s) to work:**
+1. [NovaForge - Fixed Restart funtionality: in game clouds disappear and camera resets](https://github.com/BrianLeip/NovaForge/commit/8984752bb581de84ef32130f97d55156db4a8237)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/47d512b79880da66383105dc265892c2a6d66e2d/Covid19_Analytics.ipynb)
+
+---
+## R5-D56: May 21, 2020 - Thursday
+
+**Today's Progress:**  
+- NovaForge
+  - Worked on setting the in-game element cloud colors. Unity makes this extraordinarily complicated to do.  Was at it for a few hours and nothing I tried worked.
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+It's amazing that something as simple as setting a start color for the particles is incredibly complicated in Unity. Here's what happened:  
+- Changed ParticleSystem.color and got `ParticleSystem.color is deprecated, use ParticleSystem.main.color`
+- OK, then I changed `ParticleSystem.main.color`, but that didn't do anything either.  It turns out that color is not a standard Color variable, but a `MinMaxGradient` variable where any number of sub-variables could be the active color
+- There are also other modules like `ColorOverLifetimeModule` in the particle system that may override the color
+- After finally finding the correct variable to change, I changed it, confirmed that it was changed in Debug.Log, and yet still the particle system remains white.  
+- Called it a night
+
+That was a very not-fun 2-3 hours spent trying to simply set the color of a particle system. It really makes a big difference visually in the game so I'd love to get it worked out, but Unity is not making it easy on me.  Hopefully they'll will streamline this in future versions.
+
+**Link(s) to work:**
+1. [NovaForge - Trying everything and the kitchen sink to get the in-game particles to be different color. Nothing is working.](https://github.com/BrianLeip/NovaForge/commit/b2b14f53530a45240fb2e1a4973137532ad495a9)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/08606181e6dcd4aaa458ebccac76fd021b5a6b96/Covid19_Analytics.ipynb)
+---
+
 ## R5-D55: May 20, 2020 - Wednesday
 
 **Today's Progress:**  
