@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D58: May 23, 2020 - Saturday
+
+**Today's Progress:**  
+- NovaForge
+  - Fix Unity errorrs that cropped up overnight
+  - Tweaks to space warp gravity, and rotation speed to optimal values
+  - Added and customized supernova FX
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+They're doing a live stream of the Sim Game Jam entries and my game (NovaForge) goes on tomorrow.  Technically it's already after the cutoff, but to give them something half decent to show on the stream, I'm adding some final touches to the game.
+
+**Link(s) to work:**
+1. [NovaForge - Fix Unity errorrs that cropped up overnight](https://github.com/BrianLeip/NovaForge/commit/c4da691d9e6deab6ff05653e65dc4d229ccec209)
+and [this one](https://github.com/BrianLeip/NovaForge/commit/ca4da234bd0ad026d8e90e99f2e72266b8465633)
+2. [NovaForge - Tweaks to space warp gravity, and rotation speed to optimal values](https://github.com/BrianLeip/NovaForge/commit/39c32dfd339233f930b4d3dac4d71de33c59d52c)
+3. [NovaForge - Added and customized supernova FX](https://github.com/BrianLeip/NovaForge/commit/2a55c44246dddeed9b19ec917300007b7d09dbdd)
+4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/a9ccac289876e454bb050760c1750d7141f549ed/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D57: May 22, 2020 - Friday
 
 **Today's Progress:**  
@@ -20,6 +42,7 @@ So even though this cost me another few hours, I figured it out in the end and n
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/47d512b79880da66383105dc265892c2a6d66e2d/Covid19_Analytics.ipynb)
 
 ---
+
 ## R5-D56: May 21, 2020 - Thursday
 
 **Today's Progress:**  
