@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D59: May 24, 2020 - Sunday
+
+**Today's Progress:**  
+- NovaForge
+  - Live stream of my sim game jam on Twitch today
+  - Too many Novaforge improvements to list today.  13+ hours of changes.
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Only caught 3-4 hours of sleep last night since I was working on Novaforge late into the night and then again early in the morning.  The live stream was fun, and they all seemed to like the game.  But since it's not complete yet I can't expect to win the competition. The goal here was to learn and to create something new, not to win anything.  So in that way it's mission accomplished.
+
+Ended up working on Novaforge for 13+ hours today.  So many changes, improvements, and bug fixes to list.  Some big, some little, but overall this is starting to come together and get closer to my original vision.  It's intoxicating to see your creations start to take shape.
+
+That being said, I also want to keep learning web dev, and my old buddies from the Data Science group want to work on some projects so I'll have to shuffle things around a bit.  Another 100 days of code guy on twitter is doing regular code during the week (web dev, data science, etc), and game dev on the weekend.  I like that idea, so I'm going to try that out starting this week.
+
+OK, time to catch up on some sleep...
+
+**Link(s) to work:**
+1. NovaForge - Too many to list today.  13+ hours of changes.
+2. [Covid-19 Analytics - Updated stats for the day]()
+
+---
+
 ## R5-D58: May 23, 2020 - Saturday
 
 **Today's Progress:**  
