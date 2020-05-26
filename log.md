@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D60: May 25, 2020 - Monday
+
+**Today's Progress:**  
+- NovaForge
+  - Another big day today 12.5 hours
+  - Finally got the particle system custom colors working!  Looks so much better now
+  - Added stats tracking, FPS tracking
+  - Auto-adjusts sim speed when FPS to low
+  - Lots of bug fixes, improvements and refactoring
+  - Big progress on the Element System, close to being done with it
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Another big day today, and got a lot done, but this time on a decent amount of sleep.  This game is really coming together, and I feel close to getting v1.0 done and playable.  Maybe 1-2 more days at this pace.  
+
+I had considered doing the "weekdays = regular coding, weekends = game dev" thing, but I don't want to stop when I'm this close to the finish line.  Just got to keep pushing through, then when I have something that's shippable for a rough v1.0, then I'll send it out to friends and family, and shift over to regular coding.
+
+**Link(s) to work:**
+1. [NovaForge - Finally got the particle system custom colors working!  Looks so much better now](https://github.com/BrianLeip/NovaForge/commit/05cc13c20581649636eee0ba846402e4d734a553)
+2. [NovaForge - Added stats tracking, FPS tracking](https://github.com/BrianLeip/NovaForge/commit/ccd572329282393a8c230ef2204f85b52db61a54)
+3. [NovaForge - Auto-adjusts sim speed when FPS to low](https://github.com/BrianLeip/NovaForge/commit/14e16e1c7757b821344c57f200f1055b89f138cb)
+4. [NovaForge - Lots of bug fixes, improvements and refactoring](https://github.com/BrianLeip/NovaForge/commit/55a0b9280e71b1103545b8bd66b7077bfa1350d2)
+5. [NovaForge - Big progress on the Element System, close to being done with it](https://github.com/BrianLeip/NovaForge/commit/9915a95fd87fce5e26a523a7a3fe1f7aff18f20e)
+6. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/6cb08ed5e8c512ab7a09169feb6f0590ad5487a2/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D59: May 24, 2020 - Sunday
 
 **Today's Progress:**  
@@ -20,7 +48,7 @@ OK, time to catch up on some sleep...
 
 **Link(s) to work:**
 1. NovaForge - Too many to list today.  13+ hours of changes.
-2. [Covid-19 Analytics - Updated stats for the day]()
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/0506adb6403ce453f883e48bf7b004fcb95f5288/Covid19_Analytics.ipynb)
 
 ---
 
