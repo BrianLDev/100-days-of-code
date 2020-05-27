@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D61: May 26, 2020 - Tuesday
+
+**Today's Progress:**  
+- NovaForge
+  - 10+ hours on this today
+  - Lots of work done on the Element system, elements, etc
+  - Can do color gradients on particles now
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Another good day on NovaForge. Today was mainly coding focused, and I feel good about how the Element system is turning out.  Clean code using namespaces, structs, and premade public static accessors.
+
+**Link(s) to work:**
+1. [NovaForge - Lots of work done on the Element system, elements, etc](https://github.com/BrianLeip/NovaForge/commit/cf63292b85373471dd7a2d7a0da5e6ed1e5075c6)
+2. [NovaForge - Can do color gradients on particles now](https://github.com/BrianLeip/NovaForge/commit/77d53c41f100389bd06aa880d102a5951847edc9)
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/7384f7c15b4e843eca9fa8bd3d84b38aabccf664/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D60: May 25, 2020 - Monday
 
 **Today's Progress:**  
