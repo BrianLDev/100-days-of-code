@@ -1,11 +1,33 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D62: May 27, 2020 - Wednesday
+
+**Today's Progress:**  
+- NovaForge
+  - Set up a functioning options menu
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Relatively quick one today since I spent most of the day getting my external GPU set up, connected to my Macbook Pro, and rearranging my room, cords, cables, etc.  It's incredible though, having an eGPU connected to a MBP or Windows laptop gives you the portability of a laptop, combined with the power of a desktop, but with a smaller footprint and lower cost.  Can run both Mac and Windows.  Seriously mind blowing!  This is the setup I've been searching for.
+
+Today I set up a functioning options menu in NovaForge using the old Unity UI (not UI Builder).  I haven't worked with the old UI system much before now but I was shocked with how easy it was to use compared to the UI Builder (in expermental phase).  Lesson learned, going to stick with the standard Unity UI until UI Builder is ready for prime time in a few months (or years).
+
+Also uploaded a new version of the game to itch.io, and gave a quick demo presentation at the online OC Indie devs meetup today.
+
+**Link(s) to work:**
+1. [NovaForge - Created options menu](https://github.com/BrianLeip/NovaForge/commit/2d659726fd5799353ce98b0ff23bf8390edfc4e0)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/db5c678b4378b6b2ddfc91dbb361a1fdc5ce53ef/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D61: May 26, 2020 - Tuesday
 
 **Today's Progress:**  
 - NovaForge
   - 10+ hours on this today
-  - Lots of work done on the Element system, elements, etc
+  - Refactored the Element system into a namespace, reorganizing and cleaned up code, improvements to Elements.cs
+  - Linked the Element colors to the particle system
   - Can do color gradients on particles now
 - Covid-19 (Coronavirus) Analytics
   - Updated stats for the day as usual
@@ -14,9 +36,10 @@
 Another good day on NovaForge. Today was mainly coding focused, and I feel good about how the Element system is turning out.  Clean code using namespaces, structs, and premade public static accessors.
 
 **Link(s) to work:**
-1. [NovaForge - Lots of work done on the Element system, elements, etc](https://github.com/BrianLeip/NovaForge/commit/cf63292b85373471dd7a2d7a0da5e6ed1e5075c6)
-2. [NovaForge - Can do color gradients on particles now](https://github.com/BrianLeip/NovaForge/commit/77d53c41f100389bd06aa880d102a5951847edc9)
-3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/7384f7c15b4e843eca9fa8bd3d84b38aabccf664/Covid19_Analytics.ipynb)
+1. [NovaForge - Refactored the Element system into a namespace, reorganizing and cleaned up code, improvements to Elements.cs](https://github.com/BrianLeip/NovaForge/commit/e2e3f6689db2de08233ba5f62de04bb17f225258)
+2. [NovaForge - Linked the Element colors to the particle system](https://github.com/BrianLeip/NovaForge/commit/700a38d77d2ef8296cd900024dc814dbbd83321b)
+3. [NovaForge - Can do color gradients on particles now](https://github.com/BrianLeip/NovaForge/commit/77d53c41f100389bd06aa880d102a5951847edc9)
+4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/7384f7c15b4e843eca9fa8bd3d84b38aabccf664/Covid19_Analytics.ipynb)
 
 ---
 
