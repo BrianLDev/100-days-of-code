@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D64: May 29, 2020 - Friday
+
+**Today's Progress:**  
+- NovaForge
+  - Added average FPS tracking and changed auto-adjustment on low FPS to use this instead
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Chaos and unrest in the US.  George Floyd's death after a cop brutally kneeled on his neck while he was handcuffed and incapacitated has ignited a smoldering fire.  My twitter feed, which is normally 90% about this 100 days of code journey and other leaders in coding / tech, is now 90% filled with anger, rage against injustice, videos of riots, videos of police brutality, videos of buildings burning.  As if Covid-19 wasn't bad enough, now we have this on top of it.  I am losing faith in the future of this country.  It may be time to move on.  
+
+Spent most of the day selling my belongings and purging what I don't need.  Still made time for coding but will likely be spending less time on that in the near future, until this is resolved.
+
+**Link(s) to work:**
+1. [NovaForge - Added average FPS tracking and changed auto-adjustment on low FPS to use this instead](https://github.com/BrianLeip/NovaForge/commit/2ee08a3eb72ca0820d7bc09a645708f489b98700)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/44ec422f8d82739f3e884c79f5979bc6b25db609/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D63: May 28, 2020 - Thursday
+
+**Today's Progress:**  
+- NovaForge
+  - Updated to Unity v2020.1.0b10.3837 (beta)
+  - Tested it out, making sure no bugs and working properly
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+After around 40 coding hours over the last 3 days, I needed to shift focus to get some personal and contractor work done.  Still got a bit of coding in.  
+Usually I avoid beta versions of Unity because they're notoriously unstable, but someone from the OC Indie Devs group recommended 2020.1 beta since it improves particle collisions and is specifically focused on stability improvements.  Turns out he was right, after the update it seems to run more stable and with more particles than on 2019.3.  Good to see.
+
+**Link(s) to work:**
+1. [NovaForge - Updated to Unity v2020.1 beta, tested it out to ensure no bugs or issues](https://github.com/BrianLeip/NovaForge/commit/3ae6ceafe3ce6f5b85cffde165bf85a0d02963fb)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/c385d71980c1c36020b92aeda86d9b5a7aa51be8/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D62: May 27, 2020 - Wednesday
 
 **Today's Progress:**  
