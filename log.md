@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D65: May 30, 2020 - Saturday
+
+**Today's Progress:**  
+- NovaForge
+  - Ripping out all UI from the UI Builder and recreating with normal Unity UI
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+This is painful to do since UI Builder is supposed to be the future, but it just doesn't work properly yet and it's causing roadblocks in my project.  For example, I can't use Unity's new Input system because the UI Builder is tied to the old input system, directly in the library files that I can't edit.  But on the positive side, it was a good learning process and once the UI Builder officially launches, I'll be ahead of the curve.
+
+Was pleasantly surprised to find that I almost rebuilt the full UI in one night, when doing the same thing in UI Builder took a few days.  
+
+**Link(s) to work:**
+1. [NovaForge - ](https://github.com/BrianLeip/NovaForge/commit/bfa11940af2f62e1003354bbdfdc3b5a614b4a78)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/ebc6b50a933a991cf92a03dc6a5b62d73a548ea5/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D64: May 29, 2020 - Friday
 
 **Today's Progress:**  
