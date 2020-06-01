@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D66: May 31, 2020 - Sunday
+
+**Today's Progress:**  
+- NovaForge
+  - None today
+- FCC: Responsive Web Design: Applied Visual Design
+  - Completed 5 more exercises
+- Smarter way to learn HTML & CSS
+  - Completed ch 6
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+I had set Web development aside for a while to work on the Sim Game Jam (NovaForge) but now that crunch time is over for that, I want to get back rolling on web dev.  Will probably split up my time 50%-75% web dev, 25%-50% game dev.  
+
+A lighter day today since I spent most of it purging and selling things around the house.
+
+**Link(s) to work:**
+1. [FCC: Responsive Web Design: Applied Visual Design - 5 more exercises](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/e6472e1ed71efcc74b2130de503dda0fb523f8e0)
+2. [Smarter way to learn HTML & CSS - ch 6](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/b85e3aecbde870c9bb213195e2e734ae0f47d350)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/834b5b14fad946cdae89b1f2e7b849430621a258/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D65: May 30, 2020 - Saturday
 
 **Today's Progress:**  
@@ -14,7 +38,7 @@ This is painful to do since UI Builder is supposed to be the future, but it just
 Was pleasantly surprised to find that I almost rebuilt the full UI in one night, when doing the same thing in UI Builder took a few days.  
 
 **Link(s) to work:**
-1. [NovaForge - ](https://github.com/BrianLeip/NovaForge/commit/bfa11940af2f62e1003354bbdfdc3b5a614b4a78)
+1. [NovaForge - Ripping out all UI from the UI Builder and recreating with normal Unity UI](https://github.com/BrianLeip/NovaForge/commit/bfa11940af2f62e1003354bbdfdc3b5a614b4a78)
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/ebc6b50a933a991cf92a03dc6a5b62d73a548ea5/Covid19_Analytics.ipynb)
 
 ---
