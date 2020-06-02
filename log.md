@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D67: June 1, 2020 - Monday
+
+**Today's Progress:**  
+- NovaForge
+  - None today
+- FCC: Responsive Web Design: Applied Visual Design
+  - Completed 5 more exercises
+- Smarter way to learn HTML & CSS
+  - Completed ch 7
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Another semi-light day as most of the day was spent on client work.  But I'm enjoying getting back into web dev quite a bit and want to dedicate more time to it.
+
+**Link(s) to work:**
+1. [FCC: Responsive Web Design: Applied Visual Design - 5 more exercises](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/eb456c554c0e45cb1363da86454ab51bd7f4df94)
+2. [Smarter way to learn HTML & CSS - ch 7](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/6b4e320675dff3f4236d44c782f90729ad415b78)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b7458f503b9e899f08e7d040f01396ed9ab36980/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D66: May 31, 2020 - Sunday
 
 **Today's Progress:**  
