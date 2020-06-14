@@ -1,5 +1,105 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D77: June 13, 2020 - Saturday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Calculated the daily % change for all historic stats (cases, deaths, recoveries) by country, us state, and us county
+  - Calculated the exponential weighted moving avg (EWMA) of the daily % change for all historic stats (cases, deaths, recoveries) by country, us state, and us county
+  - Isolated "hot spots" and "cooling down" spots by Country, US States
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+As rumors spread in both directions for Covid-19, it's dying out / a second wave is coming, I wanted to dig in and see what's really going on.  In order to isolate which countries, states, and counties are seeing a new wave of cases, I needed to calculate the daily % change, and then smooth it with a weighted average.  The EWMA is better than a simple MA since it weighs recent data heavier.  
+
+From there, I was able to isolate the hot / cold spots and some interesting info popped up:
+- Countries near the equator seem to be getting hit especially hard right now (Brazil, Chile, Central Africa, etc) which is interesting because Covid-19 supposedly is destroyed quickly in sunlight.  Is this a different strain?
+- States in the US that were previously hit the hardest, are now showing the lowest daily % increase (NY, NJ, MA).
+- Conversely, states that were not hit as hard as other states are showing the highest daily % increases (AR, AZ, SC, AK, AL, NC)
+- CA went on lockdown early and avoided the worst of it (excluding LA), but now with everything re-opening, CA is rising rapidly.  It's #13 in fastest daily growth rate.
+
+**Link(s) to work:**
+1. [Covid-19 Analytics - Calculated the daily % change for all historic stats (cases, deaths, recoveries) by country, us state, and us county](https://github.com/BrianLeip/Covid19_Analytics/blob/6a1d12878ac8efd6d70a6d521e9bc641e8aa290f/Covid19_Data_ETL.ipynb)
+2. [Covid-19 Analytics - Calculated the exponential weighted moving avg (EWMA) of the daily % change for all historic stats (cases, deaths, recoveries) by country, us state, and us county](https://github.com/BrianLeip/Covid19_Analytics/blob/fb87621b5b7e736379175538fcf54bbb9f2ec395/Covid19_Data_ETL.ipynb)
+3. [Covid-19 Analytics - Isolated "hot spots" and "cooling down" spots by Country, US States](https://github.com/BrianLeip/Covid19_Analytics/blob/a8bc63060560f4475018ec30a7c27f29d36a973a/Covid19_Analytics.ipynb)
+4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/a8bc63060560f4475018ec30a7c27f29d36a973a/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D76: June 12, 2020 - Friday
+
+**Today's Progress:**  
+- Unity Events Test
+  - 8+ hours learning C# events and how to use them within a game in Unity
+  - Created a new project to test out and learn C# events and Unity events
+  - Made one demo that tests events in code only (and Debug.Log)
+  - Made another demo that uses events with interactive objects (player, enemy, sphere, global effect, gamemanager)
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+C# Events were something that I've been seeing pop up often, like in the Unity Input system, so I wanted to do a deep dive and understand them a lot better. Feel very comfortable with them now, and have a nice little working demo that I put together.  May use it for a YouTube tutorial.
+
+**Link(s) to work:**
+1. [Unity Events Testing - Created 2 demos that test out C# events within Unity](https://github.com/BrianLeip/unity-events-test/commit/a4ba3df0efd4ac0c47e9d09aac39449e744aa31c)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/c22821c0bfbd0609291f7b2abca88cfe85496209/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D75: June 11, 2020 - Thursday
+
+**Today's Progress:**  
+- NovaForge
+  - Spent 9.5 hours implementing the new Unity input system, working for both keyboard/mouse and gamepad
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Big day today.  Implementing the new Unity input system was a nagging thorn in my side, so it feels good to get it done and working great.
+
+**Link(s) to work:**
+1. [NovaForge - Spent 9.5 hours implementing the new Unity input system, working for both keyboard/mouse and gamepad](https://github.com/BrianLeip/NovaForge/commit/3a9bc73ab35c14753181f1885c4d8758d0040700) *==PRIVATE REPO==*
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/5e7991b6f383b09e2a8054fd498f45dc7ff10c01/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D74: June 10, 2020 - Wednesday
+
+**Today's Progress:**  
+- NovaForge
+  - Updated to Unity v2020.1.0b12
+- Unity Input Test
+  - Refreshed myself on the new Unity Input system, tested out by adding keyboard input
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [NovaForge - Updated to Unity v2020.1.0b12](https://github.com/BrianLeip/NovaForge/commit/4c16c0ff1e8e3d596d3f81a79e4ce82597da2f05) *==PRIVATE REPO==*
+2. [Unity Input Test - Refreshed myself on the new Unity Input system, tested out by adding keyboard input](https://github.com/BrianLeip/Unity-Input-Test/commit/bc658b09ebe1c12e0c58bf5839a20ba687eace45)
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/7d36c12b105428fbf150207afeb1aebca7706857/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D73: June 9, 2020 - Tuesday
+
+**Today's Progress:**  
+- NovaForge
+  - Updated all installed packages to latest version, rebuilt library, more tweaks to build size
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [NovaForge - Updated all installed packages to latest version, rebuilt library, more tweaks to build size](https://github.com/BrianLeip/NovaForge/commit/6bc89b9310c0846419893e2690ca5df0a8118dee) *==PRIVATE REPO==*
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/78f7360271c09941c9439e3d4a2bf03f35eb18e1/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D72: June 8, 2020 - Monday
 
 **Today's Progress:**  
@@ -19,12 +119,12 @@
 One of those days where you start on one simple thing and it smowballs to a very productive day.  Love it, need more of these.
 
 **Link(s) to work:**
-1. [NovaForge - Improvements to particle color material for efficiency and better visuals](https://github.com/BrianLeip/NovaForge/commit/b9ae46fcd35c30da129d5c5a45d2c013a53c9de0) *== PRIVATE REPO ==*
-2. [NovaForge - Added close gravity field to space warps so that particles don't orbit forever](https://github.com/BrianLeip/NovaForge/commit/161d980d86ba0cc7c4382ad583c9c0362d3b8ba6) *== PRIVATE REPO ==*
-3. [NovaForge - Fixed stats updating, fixed UI, fixed pause and resume, changed sim speed intervals](https://github.com/BrianLeip/NovaForge/commit/3adb6172480f3c5e15282db60afceba4dbf22d6d) *== PRIVATE REPO ==*
-4. [NovaForge - Changed starting sim speed from 1 to 2.5](https://github.com/BrianLeip/NovaForge/commit/97f1ddba355d052193edd5091d0abcbe4e3ddcad) *== PRIVATE REPO ==*
-5. [NovaForge - Completely removed all UIBuilder packages and related files](https://github.com/BrianLeip/NovaForge/commit/8b6b2a275f23edef53e2d7d9ee1fd53a54a3d2cf) *== PRIVATE REPO ==*
-6. [NovaForge - Reduced build size by tweaking some texture compression and music quality](https://github.com/BrianLeip/NovaForge/commit/03c8f61adfab468fa707fda8e5fd455b31131d70) *== PRIVATE REPO ==*
+1. [NovaForge - Improvements to particle color material for efficiency and better visuals](https://github.com/BrianLeip/NovaForge/commit/b9ae46fcd35c30da129d5c5a45d2c013a53c9de0) *==PRIVATE REPO==*
+2. [NovaForge - Added close gravity field to space warps so that particles don't orbit forever](https://github.com/BrianLeip/NovaForge/commit/161d980d86ba0cc7c4382ad583c9c0362d3b8ba6) *==PRIVATE REPO==*
+3. [NovaForge - Fixed stats updating, fixed UI, fixed pause and resume, changed sim speed intervals](https://github.com/BrianLeip/NovaForge/commit/3adb6172480f3c5e15282db60afceba4dbf22d6d) *==PRIVATE REPO==*
+4. [NovaForge - Changed starting sim speed from 1 to 2.5](https://github.com/BrianLeip/NovaForge/commit/97f1ddba355d052193edd5091d0abcbe4e3ddcad) *==PRIVATE REPO==*
+5. [NovaForge - Completely removed all UIBuilder packages and related files](https://github.com/BrianLeip/NovaForge/commit/8b6b2a275f23edef53e2d7d9ee1fd53a54a3d2cf) *==PRIVATE REPO==*
+6. [NovaForge - Reduced build size by tweaking some texture compression and music quality](https://github.com/BrianLeip/NovaForge/commit/03c8f61adfab468fa707fda8e5fd455b31131d70) *==PRIVATE REPO==*
 7. [FCC: Responsive Web Design: Applied Visual Design - 5 more exercises](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/e394c68e0423303178472b0105c6c33b394b452e)
 8. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/104b410426a8812f375be189735b6bd9e156fd94/Covid19_Analytics.ipynb)
 
@@ -42,7 +142,7 @@ One of those days where you start on one simple thing and it smowballs to a very
 It's been a while old friend.  Good to see you again.
 
 **Link(s) to work:**
-1. [NovaForge - Dusted off the project and updated to Unity v2020.1.0v11.3880, tested a few things, made notes on fixes needed](https://github.com/BrianLeip/NovaForge/commit/d12141591c1d43d546739f4f7fd43a6c0ecc3177) *== PRIVATE REPO ==*
+1. [NovaForge - Dusted off the project and updated to Unity v2020.1.0v11.3880, tested a few things, made notes on fixes needed](https://github.com/BrianLeip/NovaForge/commit/d12141591c1d43d546739f4f7fd43a6c0ecc3177) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/bbbfa9dbdce762fcb83964d3631dc1523762dc8c/Covid19_Analytics.ipynb)
 
 ---
@@ -161,7 +261,7 @@ This is painful to do since UI Builder is supposed to be the future, but it just
 Was pleasantly surprised to find that I almost rebuilt the full UI in one night, when doing the same thing in UI Builder took a few days.  
 
 **Link(s) to work:**
-1. [NovaForge - Ripping out all UI from the UI Builder and recreating with normal Unity UI](https://github.com/BrianLeip/NovaForge/commit/bfa11940af2f62e1003354bbdfdc3b5a614b4a78) *== PRIVATE REPO ==*
+1. [NovaForge - Ripping out all UI from the UI Builder and recreating with normal Unity UI](https://github.com/BrianLeip/NovaForge/commit/bfa11940af2f62e1003354bbdfdc3b5a614b4a78) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/ebc6b50a933a991cf92a03dc6a5b62d73a548ea5/Covid19_Analytics.ipynb)
 
 ---
@@ -180,7 +280,7 @@ Chaos and unrest in the US.  George Floyd's death after a cop brutally kneeled o
 Spent most of the day selling my belongings and purging what I don't need.  Still made time for coding but will likely be spending less time on that in the near future, until this is resolved.
 
 **Link(s) to work:**
-1. [NovaForge - Added average FPS tracking and changed auto-adjustment on low FPS to use this instead](https://github.com/BrianLeip/NovaForge/commit/2ee08a3eb72ca0820d7bc09a645708f489b98700) *== PRIVATE REPO ==*
+1. [NovaForge - Added average FPS tracking and changed auto-adjustment on low FPS to use this instead](https://github.com/BrianLeip/NovaForge/commit/2ee08a3eb72ca0820d7bc09a645708f489b98700) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/44ec422f8d82739f3e884c79f5979bc6b25db609/Covid19_Analytics.ipynb)
 
 ---
@@ -199,7 +299,7 @@ After around 40 coding hours over the last 3 days, I needed to shift focus to ge
 Usually I avoid beta versions of Unity because they're notoriously unstable, but someone from the OC Indie Devs group recommended 2020.1 beta since it improves particle collisions and is specifically focused on stability improvements.  Turns out he was right, after the update it seems to run more stable and with more particles than on 2019.3.  Good to see.
 
 **Link(s) to work:**
-1. [NovaForge - Updated to Unity v2020.1 beta, tested it out to ensure no bugs or issues](https://github.com/BrianLeip/NovaForge/commit/3ae6ceafe3ce6f5b85cffde165bf85a0d02963fb) *== PRIVATE REPO ==*
+1. [NovaForge - Updated to Unity v2020.1 beta, tested it out to ensure no bugs or issues](https://github.com/BrianLeip/NovaForge/commit/3ae6ceafe3ce6f5b85cffde165bf85a0d02963fb) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/c385d71980c1c36020b92aeda86d9b5a7aa51be8/Covid19_Analytics.ipynb)
 
 ---
@@ -220,7 +320,7 @@ Today I set up a functioning options menu in NovaForge using the old Unity UI (n
 Also uploaded a new version of the game to itch.io, and gave a quick demo presentation at the online OC Indie devs meetup today.
 
 **Link(s) to work:**
-1. [NovaForge - Created options menu](https://github.com/BrianLeip/NovaForge/commit/2d659726fd5799353ce98b0ff23bf8390edfc4e0) *== PRIVATE REPO ==*
+1. [NovaForge - Created options menu](https://github.com/BrianLeip/NovaForge/commit/2d659726fd5799353ce98b0ff23bf8390edfc4e0) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/db5c678b4378b6b2ddfc91dbb361a1fdc5ce53ef/Covid19_Analytics.ipynb)
 
 ---
@@ -240,9 +340,9 @@ Also uploaded a new version of the game to itch.io, and gave a quick demo presen
 Another good day on NovaForge. Today was mainly coding focused, and I feel good about how the Element system is turning out.  Clean code using namespaces, structs, and premade public static accessors.
 
 **Link(s) to work:**
-1. [NovaForge - Refactored the Element system into a namespace, reorganizing and cleaned up code, improvements to Elements.cs](https://github.com/BrianLeip/NovaForge/commit/e2e3f6689db2de08233ba5f62de04bb17f225258) *== PRIVATE REPO ==*
-2. [NovaForge - Linked the Element colors to the particle system](https://github.com/BrianLeip/NovaForge/commit/700a38d77d2ef8296cd900024dc814dbbd83321b) *== PRIVATE REPO ==*
-3. [NovaForge - Can do color gradients on particles now](https://github.com/BrianLeip/NovaForge/commit/77d53c41f100389bd06aa880d102a5951847edc9) *== PRIVATE REPO ==*
+1. [NovaForge - Refactored the Element system into a namespace, reorganizing and cleaned up code, improvements to Elements.cs](https://github.com/BrianLeip/NovaForge/commit/e2e3f6689db2de08233ba5f62de04bb17f225258) *==PRIVATE REPO==*
+2. [NovaForge - Linked the Element colors to the particle system](https://github.com/BrianLeip/NovaForge/commit/700a38d77d2ef8296cd900024dc814dbbd83321b) *==PRIVATE REPO==*
+3. [NovaForge - Can do color gradients on particles now](https://github.com/BrianLeip/NovaForge/commit/77d53c41f100389bd06aa880d102a5951847edc9) *==PRIVATE REPO==*
 4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/7384f7c15b4e843eca9fa8bd3d84b38aabccf664/Covid19_Analytics.ipynb)
 
 ---
@@ -266,11 +366,11 @@ Another big day today, and got a lot done, but this time on a decent amount of s
 I had considered doing the "weekdays = regular coding, weekends = game dev" thing, but I don't want to stop when I'm this close to the finish line.  Just got to keep pushing through, then when I have something that's shippable for a rough v1.0, then I'll send it out to friends and family, and shift over to regular coding.
 
 **Link(s) to work:**
-1. [NovaForge - Finally got the particle system custom colors working!  Looks so much better now](https://github.com/BrianLeip/NovaForge/commit/05cc13c20581649636eee0ba846402e4d734a553) *== PRIVATE REPO ==*
-2. [NovaForge - Added stats tracking, FPS tracking](https://github.com/BrianLeip/NovaForge/commit/ccd572329282393a8c230ef2204f85b52db61a54) *== PRIVATE REPO ==*
-3. [NovaForge - Auto-adjusts sim speed when FPS to low](https://github.com/BrianLeip/NovaForge/commit/14e16e1c7757b821344c57f200f1055b89f138cb) *== PRIVATE REPO ==*
-4. [NovaForge - Lots of bug fixes, improvements and refactoring](https://github.com/BrianLeip/NovaForge/commit/55a0b9280e71b1103545b8bd66b7077bfa1350d2) *== PRIVATE REPO ==*
-5. [NovaForge - Big progress on the Element System, close to being done with it](https://github.com/BrianLeip/NovaForge/commit/9915a95fd87fce5e26a523a7a3fe1f7aff18f20e) *== PRIVATE REPO ==*
+1. [NovaForge - Finally got the particle system custom colors working!  Looks so much better now](https://github.com/BrianLeip/NovaForge/commit/05cc13c20581649636eee0ba846402e4d734a553) *==PRIVATE REPO==*
+2. [NovaForge - Added stats tracking, FPS tracking](https://github.com/BrianLeip/NovaForge/commit/ccd572329282393a8c230ef2204f85b52db61a54) *==PRIVATE REPO==*
+3. [NovaForge - Auto-adjusts sim speed when FPS to low](https://github.com/BrianLeip/NovaForge/commit/14e16e1c7757b821344c57f200f1055b89f138cb) *==PRIVATE REPO==*
+4. [NovaForge - Lots of bug fixes, improvements and refactoring](https://github.com/BrianLeip/NovaForge/commit/55a0b9280e71b1103545b8bd66b7077bfa1350d2) *==PRIVATE REPO==*
+5. [NovaForge - Big progress on the Element System, close to being done with it](https://github.com/BrianLeip/NovaForge/commit/9915a95fd87fce5e26a523a7a3fe1f7aff18f20e) *==PRIVATE REPO==*
 6. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/6cb08ed5e8c512ab7a09169feb6f0590ad5487a2/Covid19_Analytics.ipynb)
 
 ---
@@ -313,10 +413,10 @@ OK, time to catch up on some sleep...
 They're doing a live stream of the Sim Game Jam entries and my game (NovaForge) goes on tomorrow.  Technically it's already after the cutoff, but to give them something half decent to show on the stream, I'm adding some final touches to the game.
 
 **Link(s) to work:**
-1. [NovaForge - Fix Unity errorrs that cropped up overnight](https://github.com/BrianLeip/NovaForge/commit/c4da691d9e6deab6ff05653e65dc4d229ccec209) *== PRIVATE REPO ==*
-and [this one](https://github.com/BrianLeip/NovaForge/commit/ca4da234bd0ad026d8e90e99f2e72266b8465633) *== PRIVATE REPO ==*
-2. [NovaForge - Tweaks to space warp gravity, and rotation speed to optimal values](https://github.com/BrianLeip/NovaForge/commit/39c32dfd339233f930b4d3dac4d71de33c59d52c) *== PRIVATE REPO ==*
-3. [NovaForge - Added and customized supernova FX](https://github.com/BrianLeip/NovaForge/commit/2a55c44246dddeed9b19ec917300007b7d09dbdd) *== PRIVATE REPO ==*
+1. [NovaForge - Fix Unity errorrs that cropped up overnight](https://github.com/BrianLeip/NovaForge/commit/c4da691d9e6deab6ff05653e65dc4d229ccec209) *==PRIVATE REPO==*
+and [this one](https://github.com/BrianLeip/NovaForge/commit/ca4da234bd0ad026d8e90e99f2e72266b8465633) *==PRIVATE REPO==*
+2. [NovaForge - Tweaks to space warp gravity, and rotation speed to optimal values](https://github.com/BrianLeip/NovaForge/commit/39c32dfd339233f930b4d3dac4d71de33c59d52c) *==PRIVATE REPO==*
+3. [NovaForge - Added and customized supernova FX](https://github.com/BrianLeip/NovaForge/commit/2a55c44246dddeed9b19ec917300007b7d09dbdd) *==PRIVATE REPO==*
 4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/a9ccac289876e454bb050760c1750d7141f549ed/Covid19_Analytics.ipynb)
 
 ---
@@ -337,7 +437,7 @@ After Googling it and seeing all the other comments, this is a problem that so m
 So even though this cost me another few hours, I figured it out in the end and next time will be that much easier.
 
 **Link(s) to work:**
-1. [NovaForge - Fixed Restart funtionality: in game clouds disappear and camera resets](https://github.com/BrianLeip/NovaForge/commit/8984752bb581de84ef32130f97d55156db4a8237) *== PRIVATE REPO ==*
+1. [NovaForge - Fixed Restart funtionality: in game clouds disappear and camera resets](https://github.com/BrianLeip/NovaForge/commit/8984752bb581de84ef32130f97d55156db4a8237) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/47d512b79880da66383105dc265892c2a6d66e2d/Covid19_Analytics.ipynb)
 
 ---
@@ -361,7 +461,7 @@ It's amazing that something as simple as setting a start color for the particles
 That was a very not-fun 2-3 hours spent trying to simply set the color of a particle system. It really makes a big difference visually in the game so I'd love to get it worked out, but Unity is not making it easy on me.  Hopefully they'll will streamline this in future versions.
 
 **Link(s) to work:**
-1. [NovaForge - Trying everything and the kitchen sink to get the in-game particles to be different color. Nothing is working.](https://github.com/BrianLeip/NovaForge/commit/b2b14f53530a45240fb2e1a4973137532ad495a9) *== PRIVATE REPO ==*
+1. [NovaForge - Trying everything and the kitchen sink to get the in-game particles to be different color. Nothing is working.](https://github.com/BrianLeip/NovaForge/commit/b2b14f53530a45240fb2e1a4973137532ad495a9) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/08606181e6dcd4aaa458ebccac76fd021b5a6b96/Covid19_Analytics.ipynb)
 ---
 
@@ -379,9 +479,9 @@ That was a very not-fun 2-3 hours spent trying to simply set the color of a part
 Felt good to get back into NovaForge now that the pressure cooker of the game jam is over.  This game has a lot of potential and I'm going to keep moving forward on it.
 
 **Link(s) to work:**
-1. [NovaForge - Separated intro and in-game element cloud spawning](https://github.com/BrianLeip/NovaForge/commit/4dab7d48dc6584a38dd519583a7d030b6b3bc91a) *== PRIVATE REPO ==*
-2. [NovaForge - Moved space warp to be inside camera (you)](https://github.com/BrianLeip/NovaForge/commit/8d0f8d08b6057ad36398b68bea71bd72c4cc0635) *== PRIVATE REPO ==*
-3. [NovaForge - Absorbing particles increases quantum power](https://github.com/BrianLeip/NovaForge/commit/dd0db91073f066582ea017f60aba3abeb7848517) *== PRIVATE REPO ==*
+1. [NovaForge - Separated intro and in-game element cloud spawning](https://github.com/BrianLeip/NovaForge/commit/4dab7d48dc6584a38dd519583a7d030b6b3bc91a) *==PRIVATE REPO==*
+2. [NovaForge - Moved space warp to be inside camera (you)](https://github.com/BrianLeip/NovaForge/commit/8d0f8d08b6057ad36398b68bea71bd72c4cc0635) *==PRIVATE REPO==*
+3. [NovaForge - Absorbing particles increases quantum power](https://github.com/BrianLeip/NovaForge/commit/dd0db91073f066582ea017f60aba3abeb7848517) *==PRIVATE REPO==*
 4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/e51f102e023fd560fcddedd812fc538131df070d/Covid19_Analytics.ipynb)
 ---
 
@@ -438,7 +538,7 @@ Was it perfect?  No.  Were there a lot of things missing?  Yup.  But after multi
 What's important here is that I met my objectives of 1) Finishing a freaking game jam, 2) learning things along the way (I learned a ton actually), and 3) have a nugget of a good game that could be turned into something great in the future.  I achieved all 3 of those things, and I'm learning to use setbacks and imperfect creations as fuel to get better, not as a whip to flog myself with.  
 
 **Link(s) to work:**
-1. [NovaForge - Too many links. Just going to post my itch.io submission page](https://torchfire.itch.io/novaforge) *== PRIVATE REPO ==*
+1. [NovaForge - Too many links. Just going to post my itch.io submission page](https://torchfire.itch.io/novaforge) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/f66c1831cd5bb0df5ff70d21857e88ea6867734c/Covid19_Analytics.ipynb)
 ---
 
@@ -461,8 +561,8 @@ Big day!  Finished the multi-day project to get the UI working and implemented i
 On top of NovaForge work, I got more done on Free Code Camp and Smarter way to learn HTML and CSS.  May skip these tomorrow to focus 100% on NovaForge on submission day.
 
 **Link(s) to work:**
-1. [NovaForge - Added the UI Menu's I built previously](https://github.com/BrianLeip/NovaForge/commit/a553a9fe3a5d1f25bc17697c7363a7e8eb20b0c2) *== PRIVATE REPO ==*
-2. [NovaForge - Created an Elements system, keeps track of how many particles absorbed](https://github.com/BrianLeip/NovaForge/commit/04c972c76fb23ee450ce0bf538cd8d1a888e38f7) *== PRIVATE REPO ==*
+1. [NovaForge - Added the UI Menu's I built previously](https://github.com/BrianLeip/NovaForge/commit/a553a9fe3a5d1f25bc17697c7363a7e8eb20b0c2) *==PRIVATE REPO==*
+2. [NovaForge - Created an Elements system, keeps track of how many particles absorbed](https://github.com/BrianLeip/NovaForge/commit/04c972c76fb23ee450ce0bf538cd8d1a888e38f7) *==PRIVATE REPO==*
 3. [Free Code Camp - Completed first 10 exercises in Applied Visual Design section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/2d9b8a218916a296649903f0ff884b745f3ad40c)
 4. [Smarter way to learn HTML & CSS - Finished ch 5](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/993ad9f825bea4a65914e414740e83eb1eea54ec)
 5. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/4ad22316b5ba45329369193481710fce7935ec26/Covid19_Analytics.ipynb)
@@ -550,7 +650,7 @@ On second thought, it's all a matter of time.  If I only do 1-2 hours of coding 
 The C# Jobs system definitely has potential to improve the efficiency of the particles but the package is still in preview and unstable.  Time is short before the game jam ends on Sunday so need to shift focus back to other priorities.
 
 **Link(s) to work:**
-1. [NovaForge - Particle System C# Jobs Test](https://github.com/BrianLeip/Unity-DOTS-Testing/tree/a9f0295ac952a4434587438344bc8136a60736a0/Particle-Job-System-Test) *== PRIVATE REPO ==*
+1. [NovaForge - Particle System C# Jobs Test](https://github.com/BrianLeip/Unity-DOTS-Testing/tree/a9f0295ac952a4434587438344bc8136a60736a0/Particle-Job-System-Test) *==PRIVATE REPO==*
 2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/e2964d3c001d44e4e533a734f94c3f5b695edda5/Covid19_Analytics.ipynb)
 ---
 
@@ -569,7 +669,7 @@ The C# Jobs system definitely has potential to improve the efficiency of the par
 Was up very late/early with client work so I didn't have as much time to dedicate to this as I wanted.  But time is running short on the game jam (ends Sunday 5/17) so I need (and want) to carve out more time for this.  The majority of my client work is done for the month so that frees me up a lot more.
 
 **Link(s) to work:**
-1. [NovaForge - Improvements to camera controller, more DOTS testing](https://github.com/BrianLeip/NovaForge/commit/bd92d18466dbcd1abaae7682656ca160cf5cf564) *== PRIVATE REPO ==*
+1. [NovaForge - Improvements to camera controller, more DOTS testing](https://github.com/BrianLeip/NovaForge/commit/bd92d18466dbcd1abaae7682656ca160cf5cf564) *==PRIVATE REPO==*
 2. [Started Unity Utilities Library with Simple Camera Controller Script](https://github.com/BrianLeip/Unity-Utility-Scripts/blob/11d348b12ce7557c0b4a734231e2a132add6f0da/SimpleCameraControllerBL.cs)
 3. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/fe7d86c058c99c6a919e89329ddf5a8d8217b716/Covid19_Analytics.ipynb)
 
@@ -588,7 +688,7 @@ After testing NovaForge out on my macbook pro and getting terrible performance, 
 In the Job system test / tutorial project I'm working on, using Jobs and Burst compiler improved FPS from 6 to 350! That's a 58x improvement.  There's a bit of a learning curve here, and it's still in preview mode and volatile, but once I get it down it will unlock huge potential.  
 
 **Link(s) to work:**
-1. [NovaForge - Learned about the Unity DOTS / Job system, started testing it out](https://github.com/BrianLeip/Unity-DOTS-Testing/blob/6ceb72ee4daa9281de540aa4a5a34d6febfa2c87/README.md) *== PRIVATE REPO ==*
+1. [NovaForge - Learned about the Unity DOTS / Job system, started testing it out](https://github.com/BrianLeip/Unity-DOTS-Testing/blob/6ceb72ee4daa9281de540aa4a5a34d6febfa2c87/README.md) *==PRIVATE REPO==*
 2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/395ae5e274054d878109c3cdeaaec628bcf1921a/Covid19_Analytics.ipynb)
 
 ---
@@ -620,10 +720,10 @@ After yesterday'g big day, I took 1 day off for some personal and client work to
 Big progress on NovaForge today.  Spent most of the day on it and love how it's starting to turn out. Gonna keep on moving.
 
 **Link(s) to work:**
-1. [NovaForge - Improved efficiency from 75 FPS to 135 FPS](https://github.com/BrianLeip/NovaForge/commit/d079393710737dc01ca38edd81c712dc44b3c418) *== PRIVATE REPO ==*
-2. [NovaForge - Partcile clouds are now in the shape of clouds!  Not boring spheres.  ](https://github.com/BrianLeip/NovaForge/commit/8527edc7a635e28cd0feec9e72f7ff5eb33992b2) *== PRIVATE REPO ==*
-3. [NovaForge - A star is born](https://github.com/BrianLeip/NovaForge/commit/79882dd65fb7ad46f43099d799e687288bcb94fd) *== PRIVATE REPO ==*
-4. [NovaForge - Tested Amplify shader editor and created a custom star fire shader](https://github.com/BrianLeip/NovaForge/commit/0385ef2768a5e601779ead580f2dc392a00318b5) *== PRIVATE REPO ==*
+1. [NovaForge - Improved efficiency from 75 FPS to 135 FPS](https://github.com/BrianLeip/NovaForge/commit/d079393710737dc01ca38edd81c712dc44b3c418) *==PRIVATE REPO==*
+2. [NovaForge - Partcile clouds are now in the shape of clouds!  Not boring spheres.  ](https://github.com/BrianLeip/NovaForge/commit/8527edc7a635e28cd0feec9e72f7ff5eb33992b2) *==PRIVATE REPO==*
+3. [NovaForge - A star is born](https://github.com/BrianLeip/NovaForge/commit/79882dd65fb7ad46f43099d799e687288bcb94fd) *==PRIVATE REPO==*
+4. [NovaForge - Tested Amplify shader editor and created a custom star fire shader](https://github.com/BrianLeip/NovaForge/commit/0385ef2768a5e601779ead580f2dc392a00318b5) *==PRIVATE REPO==*
 5. [FCC - Completed 10 more exercises in the Basic CSS section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/e4ad89df79f769d15307bccc42c960d27745dc5f)
 6. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/2c3caf9c1cdbeaa3be8c3f1a2b57eb5dfbb7fe79/Covid19_Analytics.ipynb)
 
@@ -645,7 +745,7 @@ Big progress on NovaForge today.  Spent most of the day on it and love how it's 
 Feels like I'm starting to make good progress on all fronts.  Want to dedicate even more time to this whenever possible.
 
 **Link(s) to work:**
-1. [NovaForge - Nebulas limited number of particle absorption before shutting off](https://github.com/BrianLeip/NovaForge/commit/acfaa8b801013800a4d49ce7372d2e4239da2652) *== PRIVATE REPO ==*
+1. [NovaForge - Nebulas limited number of particle absorption before shutting off](https://github.com/BrianLeip/NovaForge/commit/acfaa8b801013800a4d49ce7372d2e4239da2652) *==PRIVATE REPO==*
 2. [FCC - Completed 10 exercises in the Basic CSS section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/2dcd6b597aec8fb89e228bc3f26cf8a9b9fc93e9)
 3. [MongoDB University - M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 4. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/45ac06e01303d77158ca9548bd41ce6b9dc5bd45/Covid19_Analytics.ipynb)
@@ -686,7 +786,7 @@ Gravity is controlled by MinMaxCurves and it was a lot more difficult to change 
 Also continued with more FCC exercises, and started a MongoDB course to solidify my NoSQL data query skills.
 
 **Link(s) to work:**
-1. [NovaForge - Got Space Warp gravity to increase as it grows](https://github.com/BrianLeip/NovaForge/commit/0a15a588758b794bd58e9878dec5925fa02095a4) *== PRIVATE REPO ==*
+1. [NovaForge - Got Space Warp gravity to increase as it grows](https://github.com/BrianLeip/NovaForge/commit/0a15a588758b794bd58e9878dec5925fa02095a4) *==PRIVATE REPO==*
 2. [FCC - More exercises in Responsive Web Design Course](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/6264bd317a55d1b9cce1e00d4c4b195173a869cb)
 3. [MongoDB University - M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 4. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/d9b6ed22603bb34107fd182112e116628cdaa153/Covid19_Analytics.ipynb)
@@ -705,7 +805,7 @@ Also continued with more FCC exercises, and started a MongoDB course to solidify
 Got particle collisions working and Space Warps now grow when they absorb particles.  Looks so damn cool!
 
 **Link(s) to work:**
-1. [NovaForge - Got particle collisions working and Space Warps now grow when they absorb particles](https://github.com/BrianLeip/NovaForge/commit/492959239805a4d09c45e5e8f601e875e17af0e2) *== PRIVATE REPO ==*
+1. [NovaForge - Got particle collisions working and Space Warps now grow when they absorb particles](https://github.com/BrianLeip/NovaForge/commit/492959239805a4d09c45e5e8f601e875e17af0e2) *==PRIVATE REPO==*
 2. [FCC - Started Responsive Web Design course, did 10 exercises](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/866a329869b61b5342c2dd89850e12bbc115df48)
 2. Coronavirus Analytics - no update today
 
@@ -723,7 +823,7 @@ Had to do a lot of client work today so not as much time for coding today, but s
 Spent about an hour working on getting particle collisions working so that the Space Warps can consume the particles and grow.  But still wasn't working so I'll have to dig back in tomorrow and figure it out.
 
 **Link(s) to work:**
-1. [NovaForge - Worked on getting Particle collisions working](https://github.com/BrianLeip/NovaForge/commit/a3b15720614b0dca28c30e85899dd7dff23381de) *== PRIVATE REPO ==*
+1. [NovaForge - Worked on getting Particle collisions working](https://github.com/BrianLeip/NovaForge/commit/a3b15720614b0dca28c30e85899dd7dff23381de) *==PRIVATE REPO==*
 2. Coronavirus Analytics - no update today
 
 ---
@@ -742,7 +842,7 @@ Spent about an hour working on getting particle collisions working so that the S
 Spent almost all day working on NovaForge and have a great little space sim coming together.  It's amazing how focused and determined I am when working on something I enjoy.
 
 **Link(s) to work:**
-1. [NovaForge - Created black holes, particle force fields, converted particle system to GPU based](https://github.com/BrianLeip/NovaForge/commit/703356aa31827885b7f23e8f19c93bd370a96326) *== PRIVATE REPO ==*
+1. [NovaForge - Created black holes, particle force fields, converted particle system to GPU based](https://github.com/BrianLeip/NovaForge/commit/703356aa31827885b7f23e8f19c93bd370a96326) *==PRIVATE REPO==*
 2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b43ab3beb8c4d55e1090f9d8bee87944acc63b3f/Covid19_Analytics.ipynb)
 
 ---
@@ -767,7 +867,7 @@ I brainstormed on different ideas and game mechanics and landed on one that shou
 Spent the day getting the git repo set up (lots of issues with .gitignore that I eventually worked out), then creating a prototype space scene with particle clouds that you can fly around in.
 
 **Link(s) to work:**
-1. [NovaForge - Set up project, created prototype space scene](https://github.com/BrianLeip/NovaForge/commit/3a1baa99d05c506cf8fff305e044b71d7afc02fb) *== PRIVATE REPO ==*
+1. [NovaForge - Set up project, created prototype space scene](https://github.com/BrianLeip/NovaForge/commit/3a1baa99d05c506cf8fff305e044b71d7afc02fb) *==PRIVATE REPO==*
 2. [Coronavirus Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/c0d3a6ee6c8eb4783b5824840c7537379adcd871/Covid19_Analytics.ipynb)
 
 ---
