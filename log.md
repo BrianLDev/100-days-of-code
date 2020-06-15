@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D78: June 14, 2020 - Sunday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Created a filter on the JH US States hot spot / cooling down to filter out non-states (cruise ships, Guam, Virgin Islands, etc)
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Very interesting to watch daily trends on the hot spots / cooling down for both countries and US states.  Based on the trends I'm seeing, it's unlikely that there will be a 2nd wave for any Countries / States that were already hit the worst (Italy, New York, etc).  Unless a new strand of the virus emerges...in which case all bets are off.
+
+That being said, for any Countries / States that were either a bit too cautious with their lockdowns, or have not yet experienced a significant wave, those areas will be hit the hardest in the near future.  In the US, rural states are starting to get hit hard, along with California which went on early lockdown and has not experienced a significant wave yet.
+
+I am most concerned about countries with large populations but relatively poor incomes and medical facilities.  Africa and India look to be the next areas that will be hit the hardest.
+
+**Link(s) to work:**
+1. [Covid-19 Analytics - Created a filter on the JH US States hot spot / cooling down to filter out non-states (cruise ships, Guam, Virgin Islands, etc)](https://github.com/BrianLeip/Covid19_Analytics/blob/b030136bae22c45ee081823dd59c2bd89c970810/Covid19_Analytics.ipynb)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b030136bae22c45ee081823dd59c2bd89c970810/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D77: June 13, 2020 - Saturday
 
 **Today's Progress:**  
@@ -10,7 +30,7 @@
   - Updated stats for the day as usual
 
 **Thoughts:**  
-As rumors spread in both directions for Covid-19, it's dying out / a second wave is coming, I wanted to dig in and see what's really going on.  In order to isolate which countries, states, and counties are seeing a new wave of cases, I needed to calculate the daily % change, and then smooth it with a weighted average.  The EWMA is better than a simple MA since it weighs recent data heavier.  
+As rumors spread in both directions for Covid-19 (it's dying out / a second wave is coming) I wanted to dig in and see what's really going on.  In order to isolate which countries, states, and counties are seeing a new wave of cases, I needed to calculate the daily % change, and then smooth it with a weighted average.  The EWMA is better than a simple MA since it weighs recent data heavier.  
 
 From there, I was able to isolate the hot / cold spots and some interesting info popped up:
 - Countries near the equator seem to be getting hit especially hard right now (Brazil, Chile, Central Africa, etc) which is interesting because Covid-19 supposedly is destroyed quickly in sunlight.  Is this a different strain?
