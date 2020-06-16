@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D79: June 15, 2020 - Monday
+
+**Today's Progress:**  
+- NovaForge
+  - Used photo editor tool to darken the space background scene yet retain the white stars
+  - Supernovas temporarily reverse gravity after explosion
+  - Big changes to UI system and input. Separated the UI Manager from GameManager and got gamepad controls working with options
+  - added volume sliders to options
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Big 11+ hour day. As it usually happens with these big days, I started working on something simple, and that snowballed into bigger and bigger improvements.  
+
+Really glad to have the Input system done and working, including the options menu selection (which was a lot harder to implement than expected).  There's still a bug with the mouse not being able to select options, but Google tells me this is a Unity bug.  I'll submit a bug fix request and keep an eye out for a fix.
+
+**Link(s) to work:**
+1. [NovaForge - Used photo editor tool to darken the space background scene yet retain the white stars](https://github.com/BrianLeip/NovaForge/commit/9da1fda5a6af9502769c577975fef13d9936e0a1) *==PRIVATE REPO==*
+2. [NovaForge - Supernovas temporarily reverse gravity after explosion](https://github.com/BrianLeip/NovaForge/commit/69a4cba6032a8688e3b27e37da87a9152174c3bb) *==PRIVATE REPO==*
+3. [NovaForge - Big changes to UI system and input. Separated the UI Manager from GameManager and got gamepad controls working with options](https://github.com/BrianLeip/NovaForge/commit/e658dbc2a76d41758a3a108de40bd06a463437b6) *==PRIVATE REPO==*
+4. [NovaForge - added volume sliders to options](https://github.com/BrianLeip/NovaForge/commit/cadb347166ec86c98e48b2037ffad44cc31d58c5) *==PRIVATE REPO==*
+5. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/d289e5b155abd39faf8837ae62e0623bdbb29bc6/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D78: June 14, 2020 - Sunday
 
 **Today's Progress:**  
