@@ -1,5 +1,108 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D85: June 23, 2020 - Tuesday
+
+**Today's Progress:**  
+- NovaForge
+  - Linked the new onscreen indicators to input (tab and Y button)
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+**Link(s) to work:**
+1. [NovaForge - Linked the new onscreen indicators to input (tab and Y button)](https://github.com/BrianLeip/NovaForge/commit/3ff13ed6f1f819843bc8b70a7d0f23f718f2e874) *==PRIVATE REPO==*
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/87867efd42d9dcd67ee4dfd8f85fb1504c6ec25e/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: June 21 & 22, 2020 - Sunday & Monday
+
+**Thoughts:**  
+Difficult personal time for me.  Took some time away from coding.  
+
+---
+
+## R5-D84: June 20, 2020 - Saturday
+
+**Today's Progress:**  
+- Tilted Game Jam 22 - Asteroids style game
+  - 7+ hours coding this game jam game, along with my teammates.  It turned out pretty good
+  - too many commits to list them all out
+
+**Thoughts:**  
+
+**Link(s) to work:**
+1. [Tilted Game Jam 22 - Asteroids style game](https://github.com/spherous/tilted-jam-22/commits/master)
+
+---
+
+## R5-D83: June 19, 2020 - Friday
+
+**Today's Progress:**  
+- Sci-Fi Test
+  - Waypoint indicators testing
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+**Link(s) to work:**
+1. [Sci-Fi Test - Waypoint indicators testing](https://github.com/BrianLeip/Sci-Fi-Test/commit/9433ad7520e172e0f92ac9f65b3643076f24034a) *==PRIVATE REPO==*
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/7713ff7206329092e5fe689bb2bef18824ff8a47/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D82: June 18, 2020 - Thursday
+
+**Today's Progress:**  
+- Sci-Fi Test
+  - Created a new Unity project to test out sci-fi assets that could be useful in NovaForge
+  - Sci-Fi UI testing
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+**Link(s) to work:**
+1. [Sci-Fi Test - Created a new Unity project to test out sci-fi assets that could be useful in NovaForge](https://github.com/BrianLeip/Sci-Fi-Test/commit/6df699110c45e7bb5cf070fb9bbec510240b36a4) *==PRIVATE REPO==*
+2. [Sci-Fi Test - Sci-Fi UI testing](https://github.com/BrianLeip/Sci-Fi-Test/commit/bb76cb7016e2175362b1281aa20ab76acb53ed9b) *==PRIVATE REPO==*
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/1f4d9239a25f4a0d7fbd13fb8813007c6b5b111d/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D81: June 17, 2020 - Wednesday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Changed chart formatting and palette
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+**Link(s) to work:**
+1. [Covid-19 Analytics - Updated stats for the day, changed chart format and palette](https://github.com/BrianLeip/Covid19_Analytics/blob/ce2bed6f55f6d38d2efc5b7c430926902c225319/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D80: June 16, 2020 - Tuesday
+
+**Today's Progress:**  
+- NovaForge
+  - Build 9.1.1 - Added keyboard menu naviation, removed mouse deselect, ...
+  - Added deadzone filter for gamepad thumbsticks
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+**Link(s) to work:**
+1. [NovaForge - Build 9.1.1 - Added keyboard menu naviation, removed mouse deselect, ...](https://github.com/BrianLeip/NovaForge/commit/0198f7743d06965af5f8c76af50f5d2c33828da6) *==PRIVATE REPO==*
+2. [NovaForge - Added deadzone filter for gamepad thumbsticks](https://github.com/BrianLeip/NovaForge/commit/897c8511245f8880ea05b15f0f9b9d194a854c28) *==PRIVATE REPO==*
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/147f6bbe276a8aba03a7af880df48d199a024582/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D79: June 15, 2020 - Monday
 
 **Today's Progress:**  
