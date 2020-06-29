@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D87: June 28, 2020 - Sunday
+
+**Today's Progress:**  
+- NovaForge
+  - Deleted waypoints (too damn slow). Also changed star starting material on prefab for faster instantiate times
+  - Fixed supernova explosion effects for resized star
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [NovaForge - Deleted waypoints (too damn slow). Also changed star starting material on prefab for faster instantiate times](https://github.com/BrianLeip/NovaForge/commit/ac6226c3dd9b14fad24158bb74236d8ae338c50b) *==PRIVATE REPO==*
+2. [NovaForge - Fixed supernova explosion effects for resized star](https://github.com/BrianLeip/NovaForge/commit/32d02975aaffadec78eefdf066ec52ba7590fac4) *==PRIVATE REPO==*
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/2cfc85ed3ec63160edfb8816a7b3a907aedfa55b/Covid19_Analytics.ipynb)
+---
+
 ## R5-D86: June 27, 2020 - Saturday
 
 **Today's Progress:**  
@@ -10,6 +28,7 @@
   - Updated stats for the day as usual
 
 **Thoughts:**  
+Getting back into the coding groove.  Feels good.
 
 **Link(s) to work:**
 1. [NovaForge - Updated to Unity v2020.1.0b13, rebuilt library)](https://github.com/BrianLeip/NovaForge/commit/08777bc7696e3ac1e7a3b20250a7c4b658649c12) *==PRIVATE REPO==*
