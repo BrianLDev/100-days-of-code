@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D86: June 27, 2020 - Saturday
+
+**Today's Progress:**  
+- NovaForge
+  - Updated to Unity v2020.1.0b13, rebuilt library
+  - Sci-Fi Test - Fixed some folders, added toon FX, created scene with test assets and fx
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+**Link(s) to work:**
+1. [NovaForge - Updated to Unity v2020.1.0b13, rebuilt library)](https://github.com/BrianLeip/NovaForge/commit/08777bc7696e3ac1e7a3b20250a7c4b658649c12) *==PRIVATE REPO==*
+2. [Sci-Fi Test - Fixed some folders, added toon FX, created scene with test assets and fx](https://github.com/BrianLeip/Sci-Fi-Test/commit/a35eae175145fdf848378144491cbfb4e9c30919) *==PRIVATE REPO==*
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/6d90c04f4c0efaf59107c6c8a26e37d50068659f/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: June 24 to 26, 2020 - Wednesday to Friday
+
+**Thoughts:**  
+Still a difficult personal time for me.  Took some time away from coding.  
+
+1. [Covid-19 Analytics - Updated stats for June 25](https://github.com/BrianLeip/Covid19_Analytics/blob/cdd7caba018af354074e00b4f85420e2de20b4d4/Covid19_Analytics.ipynb)
+2. [Covid-19 Analytics - Updated stats for June 26](https://github.com/BrianLeip/Covid19_Analytics/blob/5c3cdcab92a9d8d000f7586f5a3ffd61d64d1e51/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D85: June 23, 2020 - Tuesday
 
 **Today's Progress:**  
