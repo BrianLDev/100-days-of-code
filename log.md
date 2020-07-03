@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D90: July 2, 2020 - Thursday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Refactored all the variable names on the ETL notebook so that they are consistent and match the exported file names
+  - Started gathering and formatting data from the Covid Tracking Project datasets
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Recently I decided it would be best to group my coding projects by days of the week to make the most of my time and achieve more focus.  
+
+Since my top 2 (near term) priorities are 1. Finishing NovaForge and launching it for sale, and 2. Web Development, I'll spend most of my time on those.  But since I also love Data Science (despite the industry only hiring people with graduate degrees and that being 1-3 years away), I'll still spend 1 day a week on that too.
+
+M - W = Web Dev  
+Thu = Data Science / Python  
+Fri - Sun = Game Dev  
+
+So today's focus was on Data Science related projects, and I tackled a long niggling annoyance of refactoring all the variable names on the Covid-19 Analytics notebook so that they are consistent and match with the exported file names.  I also started gathering and organizing data from the Covid Tracking project, which has been marked as *PENDING* for a while, so it feels good to make progress on that front.
+
+**Link(s) to work:**
+1. [Covid-19 Analytics - Refactored all the variable names on the ETL notebook so that they are consistent and match the exported file names](https://github.com/BrianLeip/Covid19_Analytics/blob/847d94334d1ac9d27192c0bfeb75ab177a45edc1/Covid19_Data_ETL.ipynb)
+2. [Covid-19 Analytics - Started gathering and formatting data from the Covid Tracking Project datasets](https://github.com/BrianLeip/Covid19_Analytics/blob/847d94334d1ac9d27192c0bfeb75ab177a45edc1/Covid19_Data_ETL.ipynb)
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/847d94334d1ac9d27192c0bfeb75ab177a45edc1/Covid19_Analytics.ipynb)
+---
+
 ## R5-D89: July 1, 2020 - Wednesday
 
 **Today's Progress:**  
