@@ -1,5 +1,57 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D89: July 1, 2020 - Wednesday
+
+**Today's Progress:**  
+- NovaForge
+  - 7+ hour day working on NovaForge
+  - Completely remade camera controller for better movement, panning in space
+  - Updated to Unity v2020.0.1b14, tweaked close space warp gravity so it still works on sim speed 5, disabled reverse gravity on supernova
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Tied in with yesterday's update, to truly fix NovaForge's camera panning on both mouse and gamepad and make it work in full 3D space with no "up" direction, I had to remake the camera controller script from scratch.  Took a while, but it was a good learning experience, diving into 3 dimensional rotations with euler angles, quaternions, local vs world rotations, etc.  The end result was a much cleaner and streamlined, but more effective camera controller script so all in all I'd say it was a success.  
+
+Improved the supernova explosion and gravity reverse effect.  
+
+I also spent a good chunk of time revising all the gravity settings (gravity, rotation speed, rotation attraction) along with the size of the gravity fields to give it the best "game feel".
+
+**Link(s) to work:**
+1. [NovaForge - Completely remade camera controller for better movement, panning in space](https://github.com/BrianLeip/NovaForge/commit/598d2561dc6dff679fc35c612a3bd1b934a6efcd) *==PRIVATE REPO==*
+2. [NovaForge - Updated to Unity v2020.0.1b14, tweaked close space warp gravity so it still works on sim speed 5, disabled reverse gravity on supernova](https://github.com/BrianLeip/NovaForge/commit/76da0689f92d9ceffa92080bc851d04df721e378) *==PRIVATE REPO==*
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/1d1e440c7801bc990950532f025f567228ffad3f/Covid19_Analytics.ipynb)
+---
+
+## R5-D88: June 30, 2020 - Tuesday
+
+**Today's Progress:**  
+- NovaForge
+  - Fixed mouse sensitivity, look panning, changed mouse lock to only while in game
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+After someone play tested NovaForge, it was quickly clear that the mouse sensitivity and camera look panning needed fixing.  Knocked a big chunk of that out today.
+
+**Link(s) to work:**
+1. [NovaForge - Fixed mouse sensitivity, look panning, changed mouse lock to only while in game](https://github.com/BrianLeip/NovaForge/commit/c2f3e3b20beedb656dc798df3ef88aabdbb38d55) *==PRIVATE REPO==*
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/commit/e74aa663d62363e80c8d9a5e3ab93fd66e46e12b)
+---
+
+## R5-Dxx: June 29, 2020 - Monday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Forgiving myself when I have off days, then getting back on the horse.
+
+**Link(s) to work:**
+1. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/a14a2b41a49de8f325d7c25c945c6113a22fada1/Covid19_Analytics.ipynb)
+---
+
 ## R5-D87: June 28, 2020 - Sunday
 
 **Today's Progress:**  
