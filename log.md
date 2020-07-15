@@ -1,5 +1,65 @@
 # 100 Days Of Code - Log (Round 5)
 
+
+## R5-D92: July 13, 2020 - Monday
+
+**Today's Progress:**  
+- FCC: Responsive Web Design
+  - Finished the last 17 exercises in the Applied Visual Design section
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+The NuCamp coding bootcamp starts next week on July 20.  Going to crank through some HTML, CSS, and JavaScript to prepare for it.
+
+**Link(s) to work:**
+1. [FCC: Responsive Web Design - Finished the last 17 exercises in the Applied Visual Design section](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/6d724fd0c80ba2920487e4ba9887a947c2251083)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/214e7e922a9e12495f4fd53010679d3d378ea353/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D91: July 12, 2020 - Sunday
+
+**Today's Progress:**  
+- NovaForge
+  - Created ParticleUtil script to scale all gravity field parameters (gravity, speed, attraction, etc)
+  - tweaked starting sim speed, tweaked movement speed
+  - Changed space warp gravity to curve, tweaked rotation speed and attraction to work with changes
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+I'm so close to reaching 100 days it would be a shame to miss out on this.  I'm getting back into the routine to finish these last 10 days strong, then keep that momentum going.
+
+**Link(s) to work:**
+1. [NovaForge - Created ParticleUtil script to scale all gravity field parameters (gravity, speed, attraction, etc), tweaked starting sim speed, movement speed](https://github.com/BrianLeip/NovaForge/commit/f64daf09014bb2da201f09ed7503bea75c68b3e5) *==PRIVATE REPO==*
+2. [NovaForge - Changed space warp gravity to curve, tweaked rotation speed and attraction to work with changes](https://github.com/BrianLeip/NovaForge/commit/8e4bed5f736e7e975eb472d0ab5b1ea96fc9f2c5) *==PRIVATE REPO==*
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/798b3544e5a663fbfb96d05a6d7f70b18415e85d/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: July 3 to 11, 2020 - Friday to Saturday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats
+
+**Thoughts:**  
+Took time away from coding to work through some personal challenges.  
+
+This is a difficult time for many people out there.  Remember to be kind, and try to reach out to someone that may be going thruogh a hard time to lift them up.  It could make all the difference.
+
+**Link(s) to work:**
+1. [Covid-19 Analytics - Updated stats for July 4](https://github.com/BrianLeip/Covid19_Analytics/blob/f871a38c5e978f77c31a0ac8d04cc3de9bf4f2d7/Covid19_Analytics.ipynb)
+2. [Covid-19 Analytics - Updated stats for July 5](https://github.com/BrianLeip/Covid19_Analytics/blob/6b1a4e09588f46edda515c942faf596004551f4d/Covid19_Analytics.ipynb)
+3. [Covid-19 Analytics - Updated stats for July 6](https://github.com/BrianLeip/Covid19_Analytics/blob/10fc44788857871a31f065371aa00ad3533c82f5/Covid19_Analytics.ipynb)
+4. [Covid-19 Analytics - Updated stats for July 8](https://github.com/BrianLeip/Covid19_Analytics/blob/6e2241c40614479bdcafe4ca04a076d6a8ba4a21/Covid19_Analytics.ipynb)
+5. [Covid-19 Analytics - Updated stats for July 9](https://github.com/BrianLeip/Covid19_Analytics/blob/06cf39ef462ddd8408e7cf16fced9848779b88bd/Covid19_Analytics.ipynb)
+6. [Covid-19 Analytics - Updated stats for July 10](https://github.com/BrianLeip/Covid19_Analytics/blob/eafd5cac076d52459ecc7781c12e65a127eaee79/Covid19_Analytics.ipynb)
+7. [Covid-19 Analytics - Updated stats for July 11](https://github.com/BrianLeip/Covid19_Analytics/blob/1f6680c81cf20fc93a67f586b5a9ab33e12b63ac/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D90: July 2, 2020 - Thursday
 
 **Today's Progress:**  
@@ -23,6 +83,7 @@ So today's focus was on Data Science related projects, and I tackled a long nigg
 1. [Covid-19 Analytics - Refactored all the variable names on the ETL notebook so that they are consistent and match the exported file names](https://github.com/BrianLeip/Covid19_Analytics/blob/847d94334d1ac9d27192c0bfeb75ab177a45edc1/Covid19_Data_ETL.ipynb)
 2. [Covid-19 Analytics - Started gathering and formatting data from the Covid Tracking Project datasets](https://github.com/BrianLeip/Covid19_Analytics/blob/847d94334d1ac9d27192c0bfeb75ab177a45edc1/Covid19_Data_ETL.ipynb)
 3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/847d94334d1ac9d27192c0bfeb75ab177a45edc1/Covid19_Analytics.ipynb)
+
 ---
 
 ## R5-D89: July 1, 2020 - Wednesday
