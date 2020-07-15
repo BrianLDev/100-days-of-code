@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D93: July 14, 2020 - Tuesday
+
+**Today's Progress:**  
+- Smarter way to learn HTML & CSS
+  - Completed ch 8, 9, 10
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Today I put together a rough schedule to get through as much HTML, CSS, and Javascript in the next week or so.  Lots to get through and it's going to be crunch time, so it's a good thing I work well under pressure.
+
+**Link(s) to work:**
+1. [Smarter way to learn HTML & CSS - Ch 8](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/ce29374962d0fa9865170a09fc9c4835ada15639)
+2. [Smarter way to learn HTML & CSS - Ch 9](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/6f16f9d19eb5d1b8a553c60fe8b2fdd14c0c5e10)
+3. [Smarter way to learn HTML & CSS - Ch 10](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/51ac8bff7097b3644f3b49c2cd0a2ce12683e373)
+4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b6bc06ee757831373764fc26b1db8f9f4e071174/Covid19_Analytics.ipynb)
+
+---
 
 ## R5-D92: July 13, 2020 - Monday
 
@@ -47,7 +65,7 @@ I'm so close to reaching 100 days it would be a shame to miss out on this.  I'm 
 **Thoughts:**  
 Took time away from coding to work through some personal challenges.  
 
-This is a difficult time for many people out there.  Remember to be kind, and try to reach out to someone that may be going thruogh a hard time to lift them up.  It could make all the difference.
+This is a difficult time for many people out there.  Remember to be kind, reach out to someone that may be going thruogh a hard time to lift them up.  It could make all the difference.
 
 **Link(s) to work:**
 1. [Covid-19 Analytics - Updated stats for July 4](https://github.com/BrianLeip/Covid19_Analytics/blob/f871a38c5e978f77c31a0ac8d04cc3de9bf4f2d7/Covid19_Analytics.ipynb)
