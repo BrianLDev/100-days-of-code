@@ -1,10 +1,54 @@
 # 100 Days Of Code - Log (Round 5)
 
-## R5-D93: July 14, 2020 - Tuesday
+## R5-D95: July 16, 2020 - Thursday
+
+**Today's Progress:**  
+- Smarter way to learn HTML & CSS
+  - Completed ch 11
+- NovaForge
+  - Updated to Unity 2020.1.0b16
+  - Tweaks to space warp, gravity, particles, etc to improve performance and gameplay
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [Smarter way to learn HTML & CSS - Ch 11](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/62c43f3745097032ca2faa40831e0f7adbf4e058)
+1. [NovaForge - Updated to Unity 2020.1.0b16](https://github.com/BrianLeip/NovaForge/commit/d00187252dbdbfeb062f33a4491ee5203f4d3a17)
+2. [NovaForge - Tweaks to space warp, gravity, particles, etc to improve performance and gameplay](https://github.com/BrianLeip/NovaForge/commit/6d29050bad6a6c53f9adc2db587799c319e2b6f7)
+4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/47ed586d4872569b7a995240e5932fc99ae6769e/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D94: July 15, 2020 - Wednesday
 
 **Today's Progress:**  
 - Smarter way to learn HTML & CSS
   - Completed ch 8, 9, 10
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Working on the "Smarter way to learn HTML & CSS" alongside the FCC course for HTML & CSS.  
+Having multiple resources to aggregate knowledge from is best, but with time running short I may have to focus on only 1 of the 2 soon.
+
+**Link(s) to work:**
+1. [Smarter way to learn HTML & CSS - Ch 8](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/ce29374962d0fa9865170a09fc9c4835ada15639)
+2. [Smarter way to learn HTML & CSS - Ch 9](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/6f16f9d19eb5d1b8a553c60fe8b2fdd14c0c5e10)
+3. [Smarter way to learn HTML & CSS - Ch 10](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/51ac8bff7097b3644f3b49c2cd0a2ce12683e373)
+4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/5defccdb55eea01c8b2cf63b3c712bb74609f7bb/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D93: July 14, 2020 - Tuesday
+
+**Today's Progress:**  
+- Unity C# Events
+  - Updated to 2019.4.3f1, renamed scenes, changed script only scene to separate Static and Non-Static
+- Unity Particle System 2020 Webinar
+  - Followed webinar, then created custom waterfall with mist, fire, rain, sun particle effects
 - Covid-19 (Coronavirus) Analytics
   - Updated stats for the day as usual
 
@@ -15,7 +59,9 @@ Today I put together a rough schedule to get through as much HTML, CSS, and Java
 1. [Smarter way to learn HTML & CSS - Ch 8](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/ce29374962d0fa9865170a09fc9c4835ada15639)
 2. [Smarter way to learn HTML & CSS - Ch 9](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/6f16f9d19eb5d1b8a553c60fe8b2fdd14c0c5e10)
 3. [Smarter way to learn HTML & CSS - Ch 10](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/51ac8bff7097b3644f3b49c2cd0a2ce12683e373)
-4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b6bc06ee757831373764fc26b1db8f9f4e071174/Covid19_Analytics.ipynb)
+4. [Unity C# Events - Updated to 2019.4.3f1, renamed scenes, changed script only scene to separate Static and Non-Static](https://github.com/BrianLeip/unity-events-test/commit/787cf6dbdc2ab4d867967cb20121b8d35cde12d5)
+5. [Unity Particle System 2020 Webinar- Followed webinar, then created custom waterfall with mist, fire, rain, sun particle effects](https://github.com/BrianLeip/UnityParticleSystem2020Webinar/commit/47818978672e7d0c81a9d54636c09a8637e15afb)
+6. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/b6bc06ee757831373764fc26b1db8f9f4e071174/Covid19_Analytics.ipynb)
 
 ---
 
