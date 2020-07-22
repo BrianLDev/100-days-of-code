@@ -1,5 +1,97 @@
 # 100 Days Of Code - Log (Round 5)
 
+## R5-D99: July 21, 2020 - Tuesday
+
+**Today's Progress:**  
+- Free Code Camp: Responsive Web Design
+  - Completed section 7: CSS Grid
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+1 day away from 100 days of code!
+
+**Link(s) to work:**
+1. [FCC: Responsive Web Design - Completed section 7: CSS Grid](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/30fe33bc4978132396621d5c2c8c06c0f1b1b792)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/6372a83f973c1ec72e6a92a6d6cc01e4f150bf8a/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D98: July 20, 2020 - Monday
+
+**Today's Progress:**  
+- Free Code Camp: Responsive Web Design
+  - Completed section 4: Applied Accessibility
+  - Completed section 5: Responsive Web Design Principles
+  - Completed section 6: CSS Flexbox
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual, changed some zoom dates and Country / State / County focus
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [FCC: Responsive Web Design - Completed section 4: Applied Accessibility](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/5d88a8282272401c7e66afa70134b7b7ccf13517)
+2. [FCC: Responsive Web Design - Completed section 5: Responsive Web Design Principles](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/64ce6d19bfb82bdec10d2f86eb5ab8ed770899c9)
+3. [FCC: Responsive Web Design - Completed section 6: CSS Flexbox](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/1da7882cb14cf234ac618ce0e9826dc2e36ef1d0)
+4. [Covid-19 Analytics - Updated stats for the day, changed some zoom dates and Country / State / County focus](https://github.com/BrianLeip/Covid19_Analytics/blob/7a1c2e629a7e17b9d02ba2ac888e40e78a749978/Covid19_Analytics.ipynb)
+
+---
+
+## R5-Dxx: July 19, 2020 - Sunday
+
+**Today's Progress:**  
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+Personal day
+
+**Link(s) to work:**
+1. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/6fd8a0596707aa31f4702c4dba4ab72b51f60e41/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D97: July 18, 2020 - Saturday
+
+**Today's Progress:**  
+- Tilted Game Jam 23
+  - 12 hour game jam - made a story using mad libs and made a mini-game out of it in Unity
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+The game jam was fun and intense as always.  I ran out of time before finishing the full thing, but learned a lot along the way.  Games always take a LOT longer than people think to make, so for future game jams I'm going to keep it extremely simple.
+
+**Link(s) to work:**
+1. [Tilted Game Jam 23 - 12 hour game jam - made a story using mad libs and made a mini-game out of it in Unity](https://github.com/BrianLeip/TiltedGameJam23)
+2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/4ba52d6bf0c9897b2b580b8673269e7326dd5413/Covid19_Analytics.ipynb)
+
+---
+
+## R5-D96: July 17, 2020 - Friday
+
+**Today's Progress:**  
+- Smarter way to learn: HTML & CSS
+  - Ch 12, 13, 14, 15
+- Unity URP Particle Testing
+  - Created some cool particle effects using the Unity URP VFX Graph: flame sphere, sun, comet
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+
+**Link(s) to work:**
+1. [Smarter way to learn: HTML & CSS - ch 12](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/12cb4db786744b66210e2e0476175c0df4d38060)
+2. [Smarter way to learn: HTML & CSS - ch 13](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/a431af8b723ad160f3c88c1742a5c3d5a34f556b)
+3. [Smarter way to learn: HTML & CSS - ch 14](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/cf007c0cfd638e063bc46dbbe4cec89ac9b04a61)
+4. [Smarter way to learn: HTML & CSS - ch 15](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/e09cb210079e35e59babea7c2b65688b3b3a601f)
+5. [Unity URP Particle Testing - Created some cool particle effects using the Unity URP VFX Graph: flame sphere, sun, comet](https://github.com/BrianLeip/Unity-Particles-URP-Test/commit/43a775bff851a84e32bf9a1538d01eb3c1c19da7)
+6. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/81ae7b52a8108b16bff3ea4d717ba5785fd9b110/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D95: July 16, 2020 - Thursday
 
 **Today's Progress:**  
@@ -16,8 +108,8 @@
 
 **Link(s) to work:**
 1. [Smarter way to learn HTML & CSS - Ch 11](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/62c43f3745097032ca2faa40831e0f7adbf4e058)
-1. [NovaForge - Updated to Unity 2020.1.0b16](https://github.com/BrianLeip/NovaForge/commit/d00187252dbdbfeb062f33a4491ee5203f4d3a17)
-2. [NovaForge - Tweaks to space warp, gravity, particles, etc to improve performance and gameplay](https://github.com/BrianLeip/NovaForge/commit/6d29050bad6a6c53f9adc2db587799c319e2b6f7)
+2. [NovaForge - Updated to Unity 2020.1.0b16](https://github.com/BrianLeip/NovaForge/commit/d00187252dbdbfeb062f33a4491ee5203f4d3a17)
+3. [NovaForge - Tweaks to space warp, gravity, particles, etc to improve performance and gameplay](https://github.com/BrianLeip/NovaForge/commit/6d29050bad6a6c53f9adc2db587799c319e2b6f7)
 4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/47ed586d4872569b7a995240e5932fc99ae6769e/Covid19_Analytics.ipynb)
 
 ---
