@@ -1,10 +1,106 @@
 # 100 Days Of Code - Log (Round 5)
 
+## RECAP OF PROJECTS COMPLETED AND CONCEPTS LEARNED OVER 100 DAYS
+
+## [100 Days of Code - Round 5 Recap video](https://youtu.be/q-HQdX8O4qg)
+
+**PROGRAMMING FUNDAMENTALS**
+- LeetCode
+  - Completed multiple algorithm challenges
+- UIUC C++ Data Structures & Algorithms
+  - Studied for, took, and passed C++ proficiency exam
+
+**DATA SCIENCE / DATA ANALYTICS**
+- Covid-19 Analytics
+    - Extract, Transform, Load (ETL)
+    - data cleaning and reformatting in Python
+    - data viz with Python, Matplotlib, Seaborn, etc
+    - export raw data to csv
+    - Exploratory Data Analysis (EDA)
+      - Trends and useful statistics
+      - Isolate worst / best countries, US States, US Counties
+      - Isolate hot spots, cooling down spots
+- Automate the boring stuff with python
+  - web scraping with Pythong and beautifulSoup package
+
+**WEB DEV**
+- FCC: Responsive Web Design
+  - Completed course and received certificate
+- Smarter way to learn HTML & CSS Book
+- NuCamp
+  - Started full stack bootcamp
+  - Bootstrap
+  - Coding websites with Bootstrap, HTML, CSS
+
+**C#**
+- Efficient use and accessing Dictionaries, Arrays, Scructs, etc
+- Memory Management
+- C# Events
+- C# Job System, multithreading code
+
+**UNITY GAME DEV**
+- Machine Learning Agents - Penguin project
+- Eye Catching UI
+- Unity Utilities (custom made)
+  - Singletons
+  - Camera controller
+  - Game Manager
+  - etc.
+- Unity UI Builder
+- Unity Input System
+- Unity Particle System
+- Unity Universal Render Pipeline
+- Unity VFX Graph (GPU particle effects)
+- Unity Shader Graph
+- Game Jams
+  - Tilted Game Jam - Colorful BBQ
+  - Tilted Game Jam - Asteroids
+  - Tilted Game Jam - Windmill Farm
+- Supernova Simulator (fka NovaForge)
+  - Too much done on this project to list out individually!
+  - NovaForge is a custom created indie game (created solo) where you form stars out of molecular clouds, then grow them until they explode in a supernova and fuse together new elements.  Continuing on from there to create all the known elements in the Universe.  
+  - *In progress. Scheduled for release late 2020/early 2021*
+
+---
+
+## R5-D100: July 22, 2020 - Wednesday
+
+**Today's Progress:**  
+- Free Code Camp: Responsive Web Design
+  - Completed the Responsive Web Design Course and received certificate
+- NuCamp
+  - using NPM
+  - started Bootstrap project: nucampsite
+  - finished Bootstrap project setup
+- Covid-19 (Coronavirus) Analytics
+  - Updated stats for the day as usual
+
+**Thoughts:**  
+
+-- Day 100! --
+
+It's been a journey getting here with a lot of ups and downs; and I have to say, it feels good to cross the finish line.  I wanted to end with a bang so I finalized various projects over a few days and combined them into the day 100 finale.
+
+Here's a little video recap that I put together to recap some of the things I completed over the 100 days of code challenge:
+
+## [100 Days of Code - Round 5 Recap video](https://youtu.be/q-HQdX8O4qg)
+
+**Link(s) to work:**
+1. [Free Code Camp - Completed the Responsive Web Design Course and received certificate](https://github.com/BrianLeip/FCC-Responsive-Web-Design/blob/master/FCC%20Certificate%20-%20Responsive%20Web%20Design.png)
+2. [NuCamp - using NPM](https://github.com/BrianLeip/NuCamp-Full-Stack-Bootcamp/commit/aaa067d857c18f308445a40eecda1ac92033a449)
+3. [NuCamp - started Bootstrap project: nucampsite](https://github.com/BrianLeip/NuCamp-Full-Stack-Bootcamp/commit/601f635d7f892e6c28b35c614dff7dcee6f3724b)
+4. [NuCamp - finished Bootstrap project setup](https://github.com/BrianLeip/NuCamp-Full-Stack-Bootcamp/commit/a382ac213abf3d09167ecf1e1f2b315d4f2de46e)
+5. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/ada25ffedf9033686ddf745ed4a9ccbc4e300bda/Covid19_Analytics.ipynb)
+
+---
+
 ## R5-D99: July 21, 2020 - Tuesday
 
 **Today's Progress:**  
 - Free Code Camp: Responsive Web Design
   - Completed section 7: CSS Grid
+- NuCamp
+  - Finished section on Git (already got this down)
 - Covid-19 (Coronavirus) Analytics
   - Updated stats for the day as usual
 
@@ -13,7 +109,8 @@
 
 **Link(s) to work:**
 1. [FCC: Responsive Web Design - Completed section 7: CSS Grid](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/30fe33bc4978132396621d5c2c8c06c0f1b1b792)
-2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/6372a83f973c1ec72e6a92a6d6cc01e4f150bf8a/Covid19_Analytics.ipynb)
+2. NuCamp - Finished section on git (no repo for this one)
+3. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/6372a83f973c1ec72e6a92a6d6cc01e4f150bf8a/Covid19_Analytics.ipynb)
 
 ---
 
@@ -24,6 +121,8 @@
   - Completed section 4: Applied Accessibility
   - Completed section 5: Responsive Web Design Principles
   - Completed section 6: CSS Flexbox
+- NuCamp
+  - Started full stack bootcamp, created folder structure and downloaded files
 - Covid-19 (Coronavirus) Analytics
   - Updated stats for the day as usual, changed some zoom dates and Country / State / County focus
 
@@ -34,7 +133,8 @@
 1. [FCC: Responsive Web Design - Completed section 4: Applied Accessibility](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/5d88a8282272401c7e66afa70134b7b7ccf13517)
 2. [FCC: Responsive Web Design - Completed section 5: Responsive Web Design Principles](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/64ce6d19bfb82bdec10d2f86eb5ab8ed770899c9)
 3. [FCC: Responsive Web Design - Completed section 6: CSS Flexbox](https://github.com/BrianLeip/FCC-Responsive-Web-Design/commit/1da7882cb14cf234ac618ce0e9826dc2e36ef1d0)
-4. [Covid-19 Analytics - Updated stats for the day, changed some zoom dates and Country / State / County focus](https://github.com/BrianLeip/Covid19_Analytics/blob/7a1c2e629a7e17b9d02ba2ac888e40e78a749978/Covid19_Analytics.ipynb)
+4. [NuCamp - Started full stack bootcamp, created folder structure and downloaded files](https://github.com/BrianLeip/NuCamp-Full-Stack-Bootcamp/commit/42e274b6ab786c1959ba5c824863cbd19e7725e9)
+5. [Covid-19 Analytics - Updated stats for the day, changed some zoom dates and Country / State / County focus](https://github.com/BrianLeip/Covid19_Analytics/blob/7a1c2e629a7e17b9d02ba2ac888e40e78a749978/Covid19_Analytics.ipynb)
 
 ---
 
@@ -64,7 +164,7 @@ Personal day
 The game jam was fun and intense as always.  I ran out of time before finishing the full thing, but learned a lot along the way.  Games always take a LOT longer than people think to make, so for future game jams I'm going to keep it extremely simple.
 
 **Link(s) to work:**
-1. [Tilted Game Jam 23 - 12 hour game jam - made a story using mad libs and made a mini-game out of it in Unity](https://github.com/BrianLeip/TiltedGameJam23)
+1. [Tilted Game Jam 23 - 12 hour game jam - made a story using mad libs and made a mini-game out of it in Unity](https://github.com/BrianLeip/TiltedGameJam23) *==PRIVATE REPO==*
 2. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/4ba52d6bf0c9897b2b580b8673269e7326dd5413/Covid19_Analytics.ipynb)
 
 ---
@@ -108,8 +208,8 @@ The game jam was fun and intense as always.  I ran out of time before finishing 
 
 **Link(s) to work:**
 1. [Smarter way to learn HTML & CSS - Ch 11](https://github.com/BrianLeip/Smarter-Way-HTML-CSS/commit/62c43f3745097032ca2faa40831e0f7adbf4e058)
-2. [NovaForge - Updated to Unity 2020.1.0b16](https://github.com/BrianLeip/NovaForge/commit/d00187252dbdbfeb062f33a4491ee5203f4d3a17)
-3. [NovaForge - Tweaks to space warp, gravity, particles, etc to improve performance and gameplay](https://github.com/BrianLeip/NovaForge/commit/6d29050bad6a6c53f9adc2db587799c319e2b6f7)
+2. [NovaForge - Updated to Unity 2020.1.0b16](https://github.com/BrianLeip/NovaForge/commit/d00187252dbdbfeb062f33a4491ee5203f4d3a17) *==PRIVATE REPO==*
+3. [NovaForge - Tweaks to space warp, gravity, particles, etc to improve performance and gameplay](https://github.com/BrianLeip/NovaForge/commit/6d29050bad6a6c53f9adc2db587799c319e2b6f7) *==PRIVATE REPO==*
 4. [Covid-19 Analytics - Updated stats for the day](https://github.com/BrianLeip/Covid19_Analytics/blob/47ed586d4872569b7a995240e5932fc99ae6769e/Covid19_Analytics.ipynb)
 
 ---
@@ -430,7 +530,7 @@ Difficult personal time for me.  Took some time away from coding.
 
 **Today's Progress:**  
 - NovaForge
-  - Build 9.1.1 - Added keyboard menu naviation, removed mouse deselect, ...
+  - Build 0.9.1.1 - Added keyboard menu naviation, removed mouse deselect, ...
   - Added deadzone filter for gamepad thumbsticks
 - Covid-19 (Coronavirus) Analytics
   - Updated stats for the day as usual
@@ -919,7 +1019,7 @@ and [this one](https://github.com/BrianLeip/NovaForge/commit/ca4da234bd0ad026d8e
   - Updated stats for the day as usual
 
 **Thoughts:**  
-Another one that Unity made Unnecessarily complex.  They somehow don't have a way to set the position (Transform) of a gameobject or Camera.  So if you want to simply move something to a specific location, a simple line like `camera.transform.position = newPosition;` doesn't work.  
+Another one that Unity made Unnecessarily complex.  They somehow don't have a way to set the position (Transform) of a gameobject or Camera.  So if you want to simply move something to a specific location, a simple line like `camera.transform.position = newPosition;` or `camera.transform.Set(newPosition);` doesn't work.  
 
 After Googling it and seeing all the other comments, this is a problem that so many people run into, and setting positions is such a fundamental part of a game that you would think this would be fixed by now.  But even with all it's flaws, Unity is 100x better than when you had to basically do everything on your own 15 years ago.
 
@@ -2054,7 +2154,7 @@ A little detour from the Algorithms course, but was fun to play around in Unity 
 ## R5-D01: March 18, 2020 - Wednesday
 
 **Today's Progress:**  
-- Started the Stanford  Algorithms and Data Structures course on Coursera
+- Started the Stanford Algorithms and Data Structures course on Coursera
 
 **Thoughts:**  
 Even though I've been coding over time, it feels good getting back into the 100 Days of Code flow and committing to doing it every day.  The daily habit is vital, even if it's only a little bit every day, and the 100 Days of Code community on Twitter is great.  Let's do this!
